@@ -65,9 +65,13 @@ while attempts > 0:
         break
     else:
         attempts -= 1
-        if attempts > 0:
-            print("You have entered invalid login or you are not registered"
-                  "\nUnregistered user, terminating the program..")
+        if attempts == 0:
+            print(f"You have entered invalid login details 3 times. "
+                  f"Exiting the program."
+                  )
+            exit()  # Terminate the program after 3 failed attempts
+        print(f"You have entered invalid login details or you are not registered. "
+              f"You have {attempts} attempts left.\n")
 
 # Ask user get number of text for analyze
 count_text = len(TEXTS)
@@ -81,6 +85,8 @@ if choise.isdigit():
     if 1<= choise <= count_text:
         selec_text = (TEXTS[choise -1])
         print(f"You choose {choise}"
+              "\n"
+              f"{separator}\n"
               f"{selec_text}"
               )
         print(separator)
@@ -139,9 +145,8 @@ if choise.isdigit():
         
         print("\nLEN|  OCCURENCES |NR.")
         for lengths, frequency in sorted(lengths_frequency.items()):
-            print(f"{lengths:<3}| {"*" * frequency:<{max_frequency}}"
-                  f" | {frequency}")      
-
+            print(f"{lengths:<3}| {'*' * frequency:<{max_frequency}}"
+            f" | {frequency}")
     else:
         print("The number entered is not in the range of available texts")
         exit()
