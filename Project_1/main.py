@@ -41,27 +41,74 @@ Registered_users = {
     "liz": "pass123"
 }
 
-# get input username and password
-
-#username = input("Please enter your Username:").strip()
-#password = input("Please enter your Password:").strip()
-
 # verification eneter user data
-
-# number of attempts
 # User will have multiple attempts to log in
-attempts = 3
-
+attempts = 3  # number of attempts
+ 
 while attempts > 0:
-    username = input("Please enter your Username:").strip()
-    password = input("Please enter your Password:").strip()
+    username = input("Please enter your Username: ").strip()
+    password = input("Please enter your Password: ").strip()
 
     if username in Registered_users and Registered_users[username] == password:
-        print(f"welcome {username}, you have permission to analyse texts")
+        print(f"welcome ´{username}´, you have permission to analyse texts")
         break
     else:
         attempts -= 1
         if attempts > 0:
             print("You have entered invalid login details or you are not registered")
 
+# Ask user get number of text for analyze
+count_text = len(TEXTS)
+
+choise = input(f"You have {count_text} texts available."
+               f"Choose number of text 1 to {count_text}: "
+               )
+
+# check if the input is number and validate
+
+if choise.isdigit():
+    choise = int(choise)
+    if 1<= choise <= count_text:
+        selec_text = (TEXTS[choise -1])
+        print(f"You choose {choise}"
+              f"{selec_text}")
+        
+        # analyze text
+        words = selec_text.split() # split text into word
+        count_words = len(words)
+
+        capitalized_count = 0 # Number of words beginning with a capital letter
+        for word in words:
+            if word[0].isupper():
+                capitalized_count += 1 
+        
+        uppercase_count = 0 # number of words capitalized
+        for word in words:
+            if word.isupper():
+                uppercase_count += 1
+
+        lowercase_count = 0 # number of words in lower case
+        for word in words:
+            if word.lower():
+                lowercase_count += 1
+
+        number_count = 0 #  number of numbers (not digits)
+        for number in words:
+            if number.isdigit():
+                number_count += 1
+        sum_of_all_number = 0 #sum of all the numbers (not digits) in the text
+        for number in words:
+            if number.isdigit():
+                sum_of_all_number += int(number)
+        
+        print(f"There are {count_words} words in the selected text.")
+        print(f"There are {capitalized_count} titlecase words.")
+        print(f"There are {uppercase_count} uppercase words.")
+        print(f"There are {lowercase_count} lowercase words.")
+        print(f"There are {number_count} numeric strings.")
+        print(f"The sum of all the numbers {sum_of_all_number}")
+    else:
+        print("The number entered is not in the range of available texts")
+else:
+    print("Invalid input")
 
