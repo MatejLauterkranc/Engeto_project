@@ -50,20 +50,22 @@ while attempts > 0:
     password = input("Please enter your Password: ").strip()
 
     if username in Registered_users and Registered_users[username] == password:
-        print(f"welcome ´{username}´, you have permission to analyse texts")
+        print("-"*50)
+        print(f"Welcome to the app, ´{username}´"
+              "\nWe have 3 texts to be analyzed."
+              )
+        print("-"*50)
         break
     else:
         attempts -= 1
         if attempts > 0:
-            print("You have entered invalid login details or you are not registered")
+            print("You have entered invalid login or you are not registered")
 
 # Ask user get number of text for analyze
 count_text = len(TEXTS)
 
-choise = input(f"You have {count_text} texts available."
-               f"Choose number of text 1 to {count_text}: "
-               )
-
+choise = input(f"Choose number of text 1 to {count_text}: ")
+print ("-"*50)
 # check if the input is number and validate
 
 if choise.isdigit():
@@ -71,8 +73,9 @@ if choise.isdigit():
     if 1<= choise <= count_text:
         selec_text = (TEXTS[choise -1])
         print(f"You choose {choise}"
-              f"{selec_text}")
-        
+              f"{selec_text}"
+              )
+        print("-"*50)
         # analyze text
         words = selec_text.split() # split text into word
         count_words = len(words)
@@ -89,7 +92,7 @@ if choise.isdigit():
 
         lowercase_count = 0 # number of words in lower case
         for word in words:
-            if word.lower():
+            if word.islower():
                 lowercase_count += 1
 
         number_count = 0 #  number of numbers (not digits)
@@ -106,9 +109,33 @@ if choise.isdigit():
         print(f"There are {uppercase_count} uppercase words.")
         print(f"There are {lowercase_count} lowercase words.")
         print(f"There are {number_count} numeric strings.")
-        print(f"The sum of all the numbers {sum_of_all_number}")
+        print(f"The sum of all the numbers:"
+              f"{sum_of_all_number:,}".replace(",", " "))
+
+        # Create frequency chart of word lengths
+        word_lengths = []
+        for word in words:
+            word_lengths.append(len(word)) # Getting the length of each word
+
+        #get the value for the given key in the dictionary, if the word length 
+        # does not exist in the dictionary yet, the default value 0 is used.
+        lengths_frequency = {}
+        for lengths in word_lengths:
+            lengths_frequency[lengths] = lengths_frequency.get(lengths, 0) + 1
+        
+        max_frequency = max(lengths_frequency.values())
+
+        print("-"*50)
+        
+        print("\nLEN|  OCCURENCES |NR.")
+        for lengths, frequency in sorted(lengths_frequency.items()):
+            print(f"{lengths:<3}| {"*" * frequency:<{max_frequency}}"
+                  f" | {frequency}")       
+
     else:
         print("The number entered is not in the range of available texts")
+        exit()
 else:
     print("Invalid input")
+    exit()
 
