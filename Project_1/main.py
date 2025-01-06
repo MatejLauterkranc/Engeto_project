@@ -1,3 +1,8 @@
+# Program na začátku ověří uživatele, má 3 pokusy na ověření
+# Po uspěšném ověření mu nabídne k víběru číslo textu na ověření
+# Po výběru textu se text zobrazí a následně se zobrazí další informace,
+# které text analyzují
+
 '''
 projekt_1.py: první projekt do Engeto Online Python Akademie
 
@@ -32,14 +37,16 @@ in modern oceans. Other fish such as paddlefish,
 garpike and stingray are also present.'''
 ]
 
+separator = "-"*50
+
 # List of registered users
 
 Registered_users = {
     "bob": "123",
     "ann": "pass123",
     "mike": "password123",
-    "liz": "pass123"
-}
+    "liz": "pass123",
+    }
 
 # verification eneter user data
 # User will have multiple attempts to log in
@@ -50,11 +57,11 @@ while attempts > 0:
     password = input("Please enter your Password: ").strip()
 
     if username in Registered_users and Registered_users[username] == password:
-        print("-"*50)
+        print(separator)
         print(f"Welcome to the app, ´{username}´"
               "\nWe have 3 texts to be analyzed."
               )
-        print("-"*50)
+        print(separator)
         break
     else:
         attempts -= 1
@@ -65,7 +72,7 @@ while attempts > 0:
 count_text = len(TEXTS)
 
 choise = input(f"Choose number of text 1 to {count_text}: ")
-print ("-"*50)
+print (separator)
 # check if the input is number and validate
 
 if choise.isdigit():
@@ -75,10 +82,11 @@ if choise.isdigit():
         print(f"You choose {choise}"
               f"{selec_text}"
               )
-        print("-"*50)
+        print(separator)
         # analyze text
         words = selec_text.split() # split text into word
-        count_words = len(words)
+
+        count_words = len(words) # Numer of words in the text 
 
         capitalized_count = 0 # Number of words beginning with a capital letter
         for word in words:
@@ -99,6 +107,7 @@ if choise.isdigit():
         for number in words:
             if number.isdigit():
                 number_count += 1
+
         sum_of_all_number = 0 #sum of all the numbers (not digits) in the text
         for number in words:
             if number.isdigit():
@@ -110,7 +119,7 @@ if choise.isdigit():
         print(f"There are {lowercase_count} lowercase words.")
         print(f"There are {number_count} numeric strings.")
         print(f"The sum of all the numbers:"
-              f"{sum_of_all_number:,}".replace(",", " "))
+              f"{sum_of_all_number:,}".replace(",", " ")) # number formatting
 
         # Create frequency chart of word lengths
         word_lengths = []
@@ -125,7 +134,7 @@ if choise.isdigit():
         
         max_frequency = max(lengths_frequency.values())
 
-        print("-"*50)
+        print(separator)
         
         print("\nLEN|  OCCURENCES |NR.")
         for lengths, frequency in sorted(lengths_frequency.items()):
