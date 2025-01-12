@@ -26,7 +26,9 @@ Po zadání čísla textu se zobrazí vybraný text spolu s výsledky analýzy, 
 1. **Naklonujte repozitář:**
    git clone https://github.com/MatejLauterkranc/Engeto_project.git
 
-2. Spusťte projekt v libovolném prostředí:
+2. Otevřete složku Project 1
+
+3. Spusťte projekt v libovolném prostředí:
     - Jupyter Notebook
     - Visual Studio Code
     - PyCharm
