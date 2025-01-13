@@ -90,6 +90,7 @@ if choise.isdigit():
               f"{selec_text}"
               )
         print(separator)
+
         # analyze text
         words = [word.strip(",.!?") for word in selec_text.split()]
         count_words = len(words) # Numer of words in the text
@@ -105,16 +106,16 @@ if choise.isdigit():
         # Analysis in one cycle
         for word in words:
             if word.istitle():
-                capitalized_count += 1
-            if word.isupper() and word.isalpha():
+                capitalized_count += 1 # Number of words beginning with a capital letter
+            if word.isupper() and word.isalpha(): # number of words capitalized
                 uppercase_count += 1
             if word.islower():
-                lowercase_count += 1
+                lowercase_count += 1 # number of words in lower case
             if word.isdigit():
-                number_count += 1
-                numeric_sum += int(word)
+                number_count += 1 #  number of numbers (not digits)
+                numeric_sum += int(word) #sum of all the numbers (not digits) in the text
             word_length = len(word)
-            lengths_frequency[word_length] = lengths_frequency.get(word_length, 0) + 1
+            lengths_frequency[word_length] = lengths_frequency.get(word_length, 0) + 1 #  counting the frequency of word lengths in the text
         
         print(f"There are {count_words} words in the selected text.")
         print(f"There are {capitalized_count} titlecase words.")
@@ -125,7 +126,7 @@ if choise.isdigit():
               f"{numeric_sum:,}".replace(",", " ")) # number formatting
 
         # Create frequency chart of word lengths
-        print("\nLEN|  OCCURENCES |NR.")
+        print("\nLEN|  OCCURENCES  |NR.")
         max_frequency = max(lengths_frequency.values())
         for length, frequency in sorted(lengths_frequency.items()):
             print(f"{length:<3}| {'*' * frequency:<{max_frequency}} | {frequency}")
