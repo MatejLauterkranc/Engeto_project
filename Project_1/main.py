@@ -70,7 +70,8 @@ while attempts > 0:
                   f"Exiting the program."
                   )
             exit()  # Terminate the program after 3 failed attempts
-        print(f"You have entered invalid login details or you are not registered. "
+        print(f"You have entered invalid login details or you are not"
+              f" registered. "
               f"You have {attempts} attempts left.\n")
 
 # Ask user get number of text for analyze
@@ -101,7 +102,7 @@ if choise.isdigit():
         lowercase_count = 0
         number_count = 0
         numeric_sum = 0
-        lengths_frequency = {} 
+        lengths_frequency = {} # dictionary that stores the number of occurrences of words of each length
 
         # Analysis in one cycle
         for word in words:
@@ -115,7 +116,8 @@ if choise.isdigit():
                 number_count += 1 #  number of numbers (not digits)
                 numeric_sum += int(word) #sum of all the numbers (not digits) in the text
             word_length = len(word)
-            lengths_frequency[word_length] = lengths_frequency.get(word_length, 0) + 1 #  counting the frequency of word lengths in the text
+            lengths_frequency[word_length] = lengths_frequency.get(
+                word_length, 0) + 1 #  counting the frequency of word lengths in the text
         
         print(f"There are {count_words} words in the selected text.")
         print(f"There are {capitalized_count} titlecase words.")
@@ -129,7 +131,8 @@ if choise.isdigit():
         print("\nLEN|  OCCURENCES  |NR.")
         max_frequency = max(lengths_frequency.values())
         for length, frequency in sorted(lengths_frequency.items()):
-            print(f"{length:<3}| {'*' * frequency:<{max_frequency}} | {frequency}")
+            print(f"{length:<3}| {'*' * frequency:<{max_frequency}} |"
+                  f" {frequency}")
     else:
         print("The number entered is not in the range of available texts")
         exit()
