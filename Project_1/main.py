@@ -96,7 +96,7 @@ if choise.isdigit():
         words = [word.strip(",.!?") for word in selec_text.split()]
         count_words = len(words) # Numer of words in the text
 
-        # Inicializace statistik
+        # Initializing statistics
         capitalized_count = 0
         uppercase_count = 0
         lowercase_count = 0
