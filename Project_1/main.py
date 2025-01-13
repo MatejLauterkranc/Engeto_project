@@ -76,10 +76,10 @@ while attempts > 0:
 # Ask user get number of text for analyze
 count_text = len(TEXTS)
 
-choise = input(f"Choose number of text 1 to {count_text}: ")
+choise = input(f"Choose number of text 1 to {count_text}: ").strip()
 print (separator)
-# check if the input is number and validate
 
+# check if the input is number and validate
 if choise.isdigit():
     choise = int(choise)
     if 1<= choise <= count_text:
@@ -91,34 +91,30 @@ if choise.isdigit():
               )
         print(separator)
         # analyze text
-        words = selec_text.split() # split text into word
+        words = [word.strip(",.!?") for word in selec_text.split()]
+        count_words = len(words) # Numer of words in the text
 
-        count_words = len(words) # Numer of words in the text 
+        # Inicializace statistik
+        capitalized_count = 0
+        uppercase_count = 0
+        lowercase_count = 0
+        number_count = 0
+        numeric_sum = 0
+        lengths_frequency = {} 
 
-        capitalized_count = 0 # Number of words beginning with a capital letter
+        # Analysis in one cycle
         for word in words:
-            if word[0].isupper():
-                capitalized_count += 1 
-        
-        uppercase_count = 0 # number of words capitalized
-        for word in words:
-            if word.isupper():
+            if word.istitle():
+                capitalized_count += 1
+            if word.isupper() and word.isalpha():
                 uppercase_count += 1
-
-        lowercase_count = 0 # number of words in lower case
-        for word in words:
             if word.islower():
                 lowercase_count += 1
-
-        number_count = 0 #  number of numbers (not digits)
-        for number in words:
-            if number.isdigit():
+            if word.isdigit():
                 number_count += 1
-
-        sum_of_all_number = 0 #sum of all the numbers (not digits) in the text
-        for number in words:
-            if number.isdigit():
-                sum_of_all_number += int(number)
+                numeric_sum += int(word)
+            word_length = len(word)
+            lengths_frequency[word_length] = lengths_frequency.get(word_length, 0) + 1
         
         print(f"There are {count_words} words in the selected text.")
         print(f"There are {capitalized_count} titlecase words.")
@@ -126,27 +122,13 @@ if choise.isdigit():
         print(f"There are {lowercase_count} lowercase words.")
         print(f"There are {number_count} numeric strings.")
         print(f"The sum of all the numbers:"
-              f"{sum_of_all_number:,}".replace(",", " ")) # number formatting
+              f"{numeric_sum:,}".replace(",", " ")) # number formatting
 
         # Create frequency chart of word lengths
-        word_lengths = []
-        for word in words:
-            word_lengths.append(len(word)) # Getting the length of each word
-
-        #get the value for the given key in the dictionary, if the word length 
-        # does not exist in the dictionary yet, the default value 0 is used.
-        lengths_frequency = {}
-        for lengths in word_lengths:
-            lengths_frequency[lengths] = lengths_frequency.get(lengths, 0) + 1
-        
-        max_frequency = max(lengths_frequency.values())
-
-        print(separator)
-        
         print("\nLEN|  OCCURENCES |NR.")
-        for lengths, frequency in sorted(lengths_frequency.items()):
-            print(f"{lengths:<3}| {'*' * frequency:<{max_frequency}}"
-            f" | {frequency}")
+        max_frequency = max(lengths_frequency.values())
+        for length, frequency in sorted(lengths_frequency.items()):
+            print(f"{length:<3}| {'*' * frequency:<{max_frequency}} | {frequency}")
     else:
         print("The number entered is not in the range of available texts")
         exit()
