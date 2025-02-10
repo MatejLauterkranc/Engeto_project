@@ -99,7 +99,7 @@ def main():
 
     while True:
         guess = input("Enter a number: ")# Uživatel zadá svůj tip
-        #print(f"Secret number is {secret_number}") # ladění programu, zakomentovat
+        print(f"Secret number is {secret_number}") # ladění programu, zakomentovat
         valid, error = is_valid_guess(guess) # ověření zda je vstup validní
         if not valid:
             print(f"Invalid input: {error}")
