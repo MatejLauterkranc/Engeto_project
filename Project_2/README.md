@@ -1,10 +1,12 @@
 # Bulls & Cows
-Tvým úkolem bude vytvořit program, který by simuloval hru Bulls and Cows. Po vypsání úvodního textu uživateli,
-může hádání tajného čtyřciferného čísla začít.
+Tvým úkolem je vytvořit program, který simuluje hru Bulls and Cows. Po vypsání úvodního textu uživateli začne hádání tajného čtyřciferného čísla.
 # Úvod
-Cílem projektu je hra. Kdy uživatel hádá tajné číslo, které vygeneruje počítač. Následně mu ukazuje výpisem, zda se strefil v čísle nebo i v pozici, kde se číslo nachází.
+Cílem projektu je vytvořit hru, ve které uživatel hádá tajné číslo, které počítač vygeneruje. Hráč se snaží uhodnout nejen správné číslo, ale také správné pořadí číslic v čísle. Po každém tipu hráči program vyhodnotí, kolik číslic (bulls) je na správných místech a kolik (cows) se nachází v čísle, ale na špatném místě.
 
+>>
 Příklad hry s číslem 2017:
+--------------------------
+
 Hi there!
 -----------------------------------------------
 I've generated a random 4 digit number for you.
@@ -29,14 +31,15 @@ That's amazing! You took 60.33 seconds.
 
 ## Použité technologie
 - **Jazyk:** Python  
-- **Knihovny:** random, time
+- **Knihovny:** 
+    - random ->  pro generování náhodného čísla
+    - time -> pro měření času
 
 ## Struktura projektu
 - `main.py` - Obsahuje kompletní kód projektu 
 - `zadani_projektu.txt` - Plné zadání projektu  
 - `README.md` - Tento soubor
-- `requirements.txt` - seznam knihoven, jelikož byly použity standartní knihovny
-                       soubor je prázný
+- `requirements.txt` - seznam knihoven (i když v tomto projektu jde o standardní knihovny, soubor může být užitečný pro případné budoucí rozšíření projektu).
 
 ## Instalace a spuštění
 1. **Naklonujte repozitář:**
@@ -48,7 +51,14 @@ That's amazing! You took 60.33 seconds.
     - Jupyter Notebook
     - Visual Studio Code
     - PyCharm
+    - nebo přímo v terminálu:
+    python main.py
 
 ## Kontakt
 Máte otázky? Kontaktujte mě na [LinkedIn](https://www.linkedin.com/in/mat%C4%9Bj-lauterkranc-8a9b7a228/) nebo přes e-mail: m.lauterkranc@gmail.com  
  
+## Budoucí možné vylepšení
+- Přidat funkci pro statistiky: která bude sledovat, kolik her hráč už odehrál, jak dlouho mu trvalo uhádnutí a kolik pokusů potřeboval. Tato funkce by mohla uložit výsledky do souboru.
+- Zvážit možnost přidání více herních módů (např. hraní s více číslicemi).
+- Šlo by vylepšit i uživatelské rozhraní GUI místo terminálu.
+- Nápověda uživateli by taky mohla být vylepšením pokud by si o ní uživatel požádal
