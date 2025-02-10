@@ -1,5 +1,6 @@
 """
-projekt_2.py: druhý projekt do Engeto Online Python Akademie
+projekt_2.py: druhý projekt Bulls & Cows do Engeto Online Python Akademie
+
 
 author: Matěj Lauterkranc
 email: m.lauterkranc@gmail.com
