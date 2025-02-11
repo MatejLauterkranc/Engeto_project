@@ -1,1 +1,91 @@
- 
+ Projekt : Elections Scraper
+ Zadání projektu
+ Závěrečný projekt prověří tvé znalosti nejenom z posledních lekcí,
+ ale z celého kurzu. Tvým úkolem bude vytvořit scraper výsledků voleb
+ z roku 2017, který vytáhne data přímo z webu.
+
+Napiš takový skript, který vybere jakýkoliv územní celek z tohoto odkazu
+https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
+Např. X u Benešov odkazuje sem https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101
+Z tohoto odkazu chcete vyscrapovat výsledky hlasování pro všechny obce.
+
+Můžeš stahovat výsledky hlasování:
+1. Pomocí odkazů ve sloupci číslo, např. 529303,
+2. pomocí odkazů ve sloupci Výběr okrsku, tedy sloupec se symbolem X.
+
+Je na tobě, který sloupec použiješ, ale dobře si jednotlivé odkazy prohlédni,
+jestli tě opravdu odkážou na výsledky obce.
+
+Jak postupovat
+1. Na svém počítači si vytvoříš vlastní virtuální prostředí
+(speciálně pro tento úkol),
+
+2. Do nově vytvořeného prostředí si přes IDE (nebo příkazový řádek)
+nainstalujete potřebné knihovny třetích stran,
+
+3. Vygenerujete soubor requirements.txt, který obsahuje soupis všech knihoven
+a jejich verzí (nevypisovat ručně!)
+
+4. Výsledný soubor budete spouštět pomocí 2 argumentů (ne pomocí funkce input).
+První argument obsahuje odkaz, který územní celek chcete scrapovat 
+(př. územní celek Prostějov ), druhý argument obsahuje jméno výstupního souboru
+(př. vysledky_prostejov.csv)
+
+5. Pokud uživatel nezadá oba argumenty (ať už nesprávné pořadí, nebo argument,
+který neobsahuje správný odkaz), program jej upozorní a nepokračuje.
+
+6. Následně dopište README.md soubor, který uživatele seznámíte se svým projektem.
+Jak nainstalovat potřebné knihovny ze souboru requirements.txt,
+jak spustit váš soubor, příp. doplnit ukázku, kde demonstrujete váš kód na
+konkrétním odkaze s konkrétním výpisem.
+
+Projekt musí splňovat tyto body:
+"""
+projekt_3.py: třetí projekt do Engeto Online Python Akademie
+
+author: Petr Svetr
+email: petr.svetr@gmail.com
+"""
+import ...
+
+1. Na úvod si svůj soubor popiš hlavičkou, ať se s tebou můžeme snadněji spojit
+(viz. ukázka výše),
+2. Soubor s programem (..nebo také skript) s příponou .py, který pro správný
+běh potřebuje 2 argumenty pro spuštění,
+3. soubor se seznamem pouze relevantních knihoven a jejich verzí k projektu
+(requirements.txt),
+4. stručnou dokumentaci (popis, instalace knihoven, ukázka) (README.md),
+5. soubor s uloženým výstupem (.csv),
+6. zápis organizovaný do krátkých a přehledných funkcí.
+
+Výstup bude obsahovat:
+1. kód obce
+2. název obce
+3. voliči v seznamu
+4. vydané obálky
+5. platné hlasy
+6. kandidující strany (co sloupec, to počet hlasů pro stranu pro všechny strany).
+
+Ukázka výstupního .csv souboru:
+code,location,registered,envelopes,valid,Občanská demokratická strana,Řád národa - Vlastenecká unie,CESTA ODPOVĚDNÉ
+506761,Alojzov,205,145,144,29,0,0
+589268,Bedihošť,834,527,524,51,0,0
+589276,Bílovice-Lutotín,431,279,275,13,0,0
+589284,Biskupice,238,132,131,14,0,0
+589292,Bohuslavice,376,236,236,20,0,0
+589306,Bousín,107,67,67,5,0,0
+589314,Brodek u Konice,695,460,460,25,0,0
+589322,Brodek u Prostějova,1224,655,655,54,0,0
+589331,Březsko,178,111,111,9,1,0
+589349,Budětsko,331,208,206,6,0,0
+589357,Buková,264,170,169,16,0,0
+589365,Čehovice,426,281,280,16,0,0
+589381,Čechy pod Kosířem,814,512,512,25,0,0
+589390,Čelčice,437,272,272,21,0,0
+589403,Čelechovice na Hané,1063,649,642,49,0,0
+589420,Dětkovice,427,283,281,19,0,0
+589438,Dobrochov,270,172,170,13,0,0
+589446,Dobromilice,451,308,308,9,0,0
+589454,Doloplazy,459,244,244,24,0,0
+589462,Drahany,443,290,287,11,0,0
+558419,Držovice,1139,748,742,78,0,1
