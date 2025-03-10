@@ -70,6 +70,6 @@ def main():
 
     save_to_csv(filename, all_results)
     print(f"Data byla uložena do {filename}")
-
+# 
 if __name__ == "__main__":
     main()
