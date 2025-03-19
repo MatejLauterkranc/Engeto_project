@@ -14,13 +14,15 @@ Tento projekt je webový scraper výsledků voleb v České republice z roku 201
 
 # Ukázka CSV výstupu
 
->>
+>> python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "vote_results_prostejov"
 --------------------------------------------------------------------
 kod_obce,nazev_obce,volici,vydane_obalky,platne_hlasy,ODS,ANO,ČSSD...
 506761,Alojzov,205,145,144,29,80,15...
 589268,Bedihošť,834,527,524,51,230,40...
 589276,Bílovice-Lutotín,431,279,275,13,120,50...
 --------------------------------------------------------------------
+
+![alt text](image.png)
 
 ## Použité technologie
 - **Jazyk:** Python  
