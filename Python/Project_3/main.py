@@ -1,3 +1,9 @@
+"""
+projekt_3.py: třetí projekt do Engeto Online Python Akademie
+
+author: Matěj Lauterkranc
+email: m.lauterkranc@gmail.com
+"""
 import requests  # Import knihovny pro HTTP požadavky
 from bs4 import BeautifulSoup  # Import knihovny pro parsování HTML
 import csv  # Import knihovny pro práci s CSV soubory
