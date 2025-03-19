@@ -104,7 +104,7 @@ def get_municipality_results(municipality_url, municipality_code, municipality_n
         if not parties:  # Pokud tabulka neexistuje, ukončíme cyklus
             break
         for party, vote in zip(parties, votes):
-            data[party.text.strip().replace(",", "|")] = vote.text.strip()
+            data[party.text.strip()] = vote.text.strip()
         table_num += 1
 
     print(f"Data for municipality {municipality_url}: {data}")
