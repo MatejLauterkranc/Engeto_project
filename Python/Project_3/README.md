@@ -39,14 +39,16 @@ kod_obce,nazev_obce,volici,vydane_obalky,platne_hlasy,ODS,ANO,ČSSD...
 1. **Naklonujte repozitář:**
    git clone https://github.com/MatejLauterkranc/Engeto_project.git
 
-2. Otevřete složku Project 3
+2. Otevřete složku Python
 
-3. Vytvoření virtuálního prostředí:
+3. Vyberte složku Project 3
+
+4. Vytvoření virtuálního prostředí:
     ```bash
     python -m venv venv
     ```
 
-4. Aktivace virtuálního prostředí:
+5. Aktivace virtuálního prostředí:
     - Windows:
         ```bash
         venv\Scripts\activate
@@ -56,13 +58,13 @@ kod_obce,nazev_obce,volici,vydane_obalky,platne_hlasy,ODS,ANO,ČSSD...
         source venv/bin/activate
         ```
 
-5. Instalace závislostí:
+6. Instalace závislostí:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-6. Spuštění scriptu:
+7. Spuštění scriptu:
     - 6.1) Do terminálu zadejte následující příkaz, nahraďte "URL Adresa" a "Název výstupního souboru" skutečnými hodnotami:
     ```bash
     python main.py "URL Adresa" "Název výstupního souboru"
