@@ -1,19 +1,21 @@
--- check czechia_payroll table
+-- ================================================
+-- PROJECT: SQL analysis of food accessibility in CZ
+-- AUTHOR: Matěj Lauterkranc
+-- ================================================
+
+-- Preview basic structure of payroll data
 SELECT * 
 FROM czechia_payroll;
 
--- check czechia_price table
-SELECT * 
-FROM czechia_price cp;
+-- Preview price data and category details
+SELECT * FROM czechia_price;
+SELECT * FROM czechia_price_category;
 
--- check czechia_price_category table
-SELECT * 
-from czechia_price_category;
-
--- chceck type of czechia_payroll_value_type
+-- Preview all value types to filter correct wage indicator
 SELECT DISTINCT name 
 FROM czechia_payroll_value_type;
 
+-- Find years with wage data but missing price data
 SELECT DISTINCT payroll_year
 FROM czechia_payroll p
 JOIN czechia_payroll_value_type vt ON p.value_type_code = vt.code
@@ -23,6 +25,7 @@ WHERE vt.name = 'Průměrná hrubá mzda na zaměstnance'
     FROM czechia_price
   );
 
+-- Find years with price data but missing wage data
 SELECT DISTINCT EXTRACT(YEAR FROM date_from)
 FROM czechia_price
 WHERE EXTRACT(YEAR FROM date_from) NOT IN (
@@ -31,8 +34,8 @@ WHERE EXTRACT(YEAR FROM date_from) NOT IN (
   JOIN czechia_payroll_value_type vt ON p.value_type_code = vt.code
   WHERE vt.name = 'Průměrná hrubá mzda na zaměstnance'
 );
--- average price milk and brad
 
+-- Calculate yearly average prices for milk and bread
 SELECT 
   EXTRACT(YEAR FROM p.date_from) AS year,
   AVG(CASE WHEN pc.name ILIKE '%Mléko polotučné pasterované%' THEN p.value END) AS avg_price_milk,
@@ -43,7 +46,9 @@ WHERE p.value IS NOT NULL
 GROUP BY EXTRACT(YEAR FROM p.date_from)
 ORDER BY year;
 
--- Create main table with average payroll and price 
+-- ================================================
+-- Create PRIMARY final table: avg wage, food prices and food affordability
+-- ================================================
 CREATE TABLE t_matej_lauterkranc_project_sql_primary_final AS
 WITH
 wages AS (
@@ -77,12 +82,9 @@ FROM wages w
 JOIN prices p ON w.year = p.year
 ORDER BY w.year;
 
--- DROP TABLE IF EXISTS t_matej_lauterkranc_project_sql_primary_final;
-
-SELECT * 
-from t_matej_lauterkranc_project_sql_primary_final;
-
--- Create secondary table with economi pointer
+-- ================================================
+-- Create SECONDARY final table: economic indicators of selected countries
+-- ================================================
 CREATE TABLE t_matej_lauterkranc_project_sql_secondary_final AS
 SELECT 
     country,
@@ -95,10 +97,21 @@ WHERE country IN ('Czech Republic', 'Germany', 'Austria', 'Poland', 'Slovakia', 
   AND year BETWEEN 2006 AND 2022
 ORDER BY country, year;
 
-SELECT * 
-from t_matej_lauterkranc_project_sql_secondary_final;
+-- ================================================
+-- Show MAIN and SECONDARY table 
+-- ================================================
 
--- Question 1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+-- MAIN
+SELECT * 
+FROM t_matej_lauterkranc_project_sql_primary_final;
+
+-- SECONDARY
+SELECT * 
+FROM t_matej_lauterkranc_project_sql_secondary_final;
+
+-- ================================================
+-- Question 1: Wage trends across industries over the years
+-- ================================================
 SELECT 
   ib.name AS industry,
   p.payroll_year AS year,
@@ -111,7 +124,9 @@ WHERE vt.name = 'Průměrná hrubá mzda na zaměstnance'
 GROUP BY ib.name, p.payroll_year
 ORDER BY ib.name, p.payroll_year;
 
--- Question 2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+-- ================================================
+-- Question 2: Food affordability in first and last year
+-- ================================================
 SELECT *
 FROM t_matej_lauterkranc_project_sql_primary_final
 WHERE year IN (
@@ -120,7 +135,9 @@ WHERE year IN (
 )
 ORDER BY year;
 
--- Question 3: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)? 
+-- ================================================
+-- Question 3: Slowest price growth among food categories
+-- ================================================
 WITH yearly_avg_prices AS (
   SELECT 
     pc.name AS category,
@@ -159,7 +176,9 @@ FROM avg_growth
 ORDER BY avg_yearly_growth_pct ASC
 LIMIT 10;
 
--- Question 4: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+-- ================================================
+-- Question 4: Year where price growth exceeds wage growth by >10%
+-- ================================================
 WITH changes AS (
   SELECT 
     year,
@@ -183,8 +202,9 @@ WHERE prev_wage IS NOT NULL
     OR (avg_price_bread - prev_bread) / prev_bread > 0.10
   );
 
--- Question 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce,
--- projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
+-- ================================================
+-- Question 5: Correlation between GDP and prices/wages
+-- ================================================
 WITH joined AS (
   SELECT 
     s.year,
@@ -202,7 +222,10 @@ SELECT
   CORR(gdp_per_capita, avg_price_bread) AS corr_gdp_bread
 FROM joined;
 
--- Optional question (for Question 5): HDP s posunem o 1 rok dopředu 
+-- ================================================
+-- Optional (for Question 5): GDP effect one year ahead
+-- ================================================
+
 WITH joined AS (
   SELECT 
     s.year,
@@ -220,4 +243,3 @@ SELECT
   CORR(next_year_gdp, avg_price_bread) AS corr_next_gdp_bread
 FROM joined
 WHERE next_year_gdp IS NOT NULL;
-
