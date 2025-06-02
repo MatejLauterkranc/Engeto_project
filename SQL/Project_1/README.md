@@ -6,7 +6,7 @@ Matěj Lauterkranc
 ## Popis projektu
 Tento projekt analyzuje dostupnost základních potravin (mléko, chléb) v České republice z pohledu průměrných mezd a cen, a to v několikaletém období. Dále se zkoumá vztah mezi HDP a ekonomickými ukazateli a vývojem cen a mezd.
 
-## Datov� zdroje
+## Datové zdroje
 
 Projekt využívá data z veřejně dostupné databáze Engeto Akademie (nebo jejích zrcadlených online verzí). Konkrétně se jedná o následující tabulky:
 
@@ -19,7 +19,8 @@ Projekt využívá data z veřejně dostupné databáze Engeto Akademie (nebo je
 - `czechia_price_category`
 - `economies` mezinárodní ekonomická data (pravděpodobně z World Bank)
 
-Tyto tabulky jsou součástí:
+**Tyto tabulky jsou součástí:**
+
 - buď veřejné SQL databáze zpřístupněné online v rámci kurzů Engeto,Add commentMore actions
 - nebo je možné si stáhnout databázi ve formátu `.sql` z oficiálních materiálů kurzu a nahrát ji do vlastního databázového systému (např. PostgreSQL).
 
@@ -28,7 +29,7 @@ Tyto tabulky jsou součástí:
 ## Výstupní tabulky
 
 ### `t_matej_lauterkranc_project_sql_primary_final`
-Obsahuje:Add commentMore actions
+Obsahuje:
 - Rok
 - Průměrná mzda
 - Průměrná cena mléka a chleba
