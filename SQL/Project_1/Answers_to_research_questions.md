@@ -75,7 +75,7 @@ Na základě dostupných dat o meziročním procentuálním růstu cen vybranýc
   | Pečivo pšeničné bílé             |	+2,20 %             |
   | Hovězí maso zadní bez kosti      |	+2,54 %             |
   | Kapr živý                        |	+2,60 %             |
-  -----------------------------------|----------------------|
+
 
 
 **Analýza**
