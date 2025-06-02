@@ -3,6 +3,7 @@
 Na základě poskytnutých dat o mzdách v jednotlivých odvětvích od roku 2000 do roku 2021 lze obecně říci, že ve většině sledovaných odvětví mzdy vykazují rostoucí trend. Existují však období, kdy v některých letech dochází k mírným poklesům nebo stagnaci. Tyto poklesy jsou zpravidla krátkodobé a souvisejí s ekonomickými krizemi, sezónností, nebo specifiky daného sektoru.
 
 **Růst ve většině odvětví**
+
 Informační a komunikační činnosti, peněžnictví a pojišťovnictví, profesní, vědecké a technické činnosti a doprava a skladování vykazují stabilní růst mezd během celého období.
 Například v sektoru informačních a komunikačních činností vzrostla průměrná mzda z 21 829 Kč (2000) na 63 416 Kč (2021), což představuje výrazný růst o téměř 190 %.
 
