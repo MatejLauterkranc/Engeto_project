@@ -1,14 +1,14 @@
 # Projekt SQL: Dostupnost potravin v ?R
 
 ## Autor
-Mat?j Lauterkranc
+MatÄ›j Lauterkranc
 
 ## Popis projektu
-Tento projekt analyzuje dostupnost základních potravin (mléko, chléb) v ?eské republice z pohledu pr?m?rných mezd a cen, a to v n?kolikaletém období. Dále se zkoumá vztah mezi HDP a ekonomickými ukazateli a vývojem cen a mezd.
+Tento projekt analyzuje dostupnost zï¿½kladnï¿½ch potravin (mlï¿½ko, chlï¿½b) v ?eskï¿½ republice z pohledu pr?m?rnï¿½ch mezd a cen, a to v n?kolikaletï¿½m obdobï¿½. Dï¿½le se zkoumï¿½ vztah mezi HDP a ekonomickï¿½mi ukazateli a vï¿½vojem cen a mezd.
 
-## Datové zdroje
+## Datovï¿½ zdroje
 
-Projekt využívá data z ve?ejn? dostupné databáze Engeto Akademie (nebo jejích zrcadlených online verzí). Konkrétn? se jedná o následující tabulky:
+Projekt vyuï¿½ï¿½vï¿½ data z ve?ejn? dostupnï¿½ databï¿½ze Engeto Akademie (nebo jejï¿½ch zrcadlenï¿½ch online verzï¿½). Konkrï¿½tn? se jednï¿½ o nï¿½sledujï¿½cï¿½ tabulky:
 
 - `czechia_payroll`
 - `czechia_payroll_calculation`
@@ -17,47 +17,47 @@ Projekt využívá data z ve?ejn? dostupné databáze Engeto Akademie (nebo jejích zr
 - `czechia_payroll_value_type`
 - `czechia_price`
 - `czechia_price_category`
-- `economies` – mezinárodní ekonomická data (pravd?podobn? z World Bank)
+- `economies` ï¿½ mezinï¿½rodnï¿½ ekonomickï¿½ data (pravd?podobn? z World Bank)
 
-Tyto tabulky jsou sou?ástí:
-- bu? ve?ejné SQL databáze zp?ístupn?né online v rámci kurz? Engeto,
-- nebo je možné si stáhnout databázi ve formátu `.sql` z oficiálních materiál? kurzu a nahrát ji do vlastního databázového systému (nap?. PostgreSQL).
+Tyto tabulky jsou sou?ï¿½stï¿½:
+- bu? ve?ejnï¿½ SQL databï¿½ze zp?ï¿½stupn?nï¿½ online v rï¿½mci kurz? Engeto,
+- nebo je moï¿½nï¿½ si stï¿½hnout databï¿½zi ve formï¿½tu `.sql` z oficiï¿½lnï¿½ch materiï¿½l? kurzu a nahrï¿½t ji do vlastnï¿½ho databï¿½zovï¿½ho systï¿½mu (nap?. PostgreSQL).
 
-**Poznámka:** Je nutné mít p?ístup k t?mto dat?m – bez nich projekt nebude fungovat. Pokud databázi nemáte, je t?eba si ji stáhnout z oficiálního vzd?lávacího rozhraní Engeto Akademie (viz jejich GitHub nebo studijní portál).
+**Poznï¿½mka:** Je nutnï¿½ mï¿½t p?ï¿½stup k t?mto dat?m ï¿½ bez nich projekt nebude fungovat. Pokud databï¿½zi nemï¿½te, je t?eba si ji stï¿½hnout z oficiï¿½lnï¿½ho vzd?lï¿½vacï¿½ho rozhranï¿½ Engeto Akademie (viz jejich GitHub nebo studijnï¿½ portï¿½l).
 
-## Výstupní tabulky
+## Vï¿½stupnï¿½ tabulky
 ### `t_matej_lauterkranc_project_sql_primary_final`
 Obsahuje:
 - Rok
-- Pr?m?rná mzda
-- Pr?m?rná cena mléka a chleba
-- Kolik litr? mléka a kg chleba si lze koupit za mzdu
+- Pr?m?rnï¿½ mzda
+- Pr?m?rnï¿½ cena mlï¿½ka a chleba
+- Kolik litr? mlï¿½ka a kg chleba si lze koupit za mzdu
 
 ### `t_matej_lauterkranc_project_sql_secondary_final`
 Obsahuje:
-- Zem? (6 evropských stát?)
+- Zem? (6 evropskï¿½ch stï¿½t?)
 - Rok
 - HDP na obyvatele
 - GINI index
 - Populace
 
-## Výzkumné otázky a jak byly ?ešeny
-1. **Vývoj mezd v jednotlivých odv?tvích** – pomocí `GROUP BY` na odv?tví a rok.
-2. **Kupní síla na za?átku a konci období** – porovnání prvního a posledního roku z primární tabulky.
-3. **Nejpomalejší r?st cen potravin** – výpo?et pr?m?rného meziro?ního procentuálního r?stu u všech kategorií.
-4. **Rok s výrazn?jším r?stem cen než mezd (>10?%)** – porovnání meziro?ních r?st? v jednotlivých letech.
-5. **Vliv HDP na mzdy a ceny** – korelace mezi HDP a cenami/mzdami ve stejném a následujícím roce.
+## Vï¿½zkumnï¿½ otï¿½zky a jak byly ?eï¿½eny
+1. **Vï¿½voj mezd v jednotlivï¿½ch odv?tvï¿½ch** ï¿½ pomocï¿½ `GROUP BY` na odv?tvï¿½ a rok.
+2. **Kupnï¿½ sï¿½la na za?ï¿½tku a konci obdobï¿½** ï¿½ porovnï¿½nï¿½ prvnï¿½ho a poslednï¿½ho roku z primï¿½rnï¿½ tabulky.
+3. **Nejpomalejï¿½ï¿½ r?st cen potravin** ï¿½ vï¿½po?et pr?m?rnï¿½ho meziro?nï¿½ho procentuï¿½lnï¿½ho r?stu u vï¿½ech kategoriï¿½.
+4. **Rok s vï¿½razn?jï¿½ï¿½m r?stem cen neï¿½ mezd (>10?%)** ï¿½ porovnï¿½nï¿½ meziro?nï¿½ch r?st? v jednotlivï¿½ch letech.
+5. **Vliv HDP na mzdy a ceny** ï¿½ korelace mezi HDP a cenami/mzdami ve stejnï¿½m a nï¿½sledujï¿½cï¿½m roce.
 
-## Poznámky k dat?m
-- V datech se vyskytují chyb?jící hodnoty, které byly ošet?eny pomocí `COALESCE` a `NULLIF`.
-- Roky, které nem?ly data v obou zdrojích (mzdy i ceny), byly vynechány.
+## Poznï¿½mky k dat?m
+- V datech se vyskytujï¿½ chyb?jï¿½cï¿½ hodnoty, kterï¿½ byly oï¿½et?eny pomocï¿½ `COALESCE` a `NULLIF`.
+- Roky, kterï¿½ nem?ly data v obou zdrojï¿½ch (mzdy i ceny), byly vynechï¿½ny.
 
 ## Replikace projektu
-1. Spus? SQL skript v databázovém prost?edí.
-2. Ov?? si, že existují výše zmín?né zdrojové tabulky.
-3. Výsledné tabulky `t_*_final` budou vytvo?eny v databázi.
+1. Spus? SQL skript v databï¿½zovï¿½m prost?edï¿½.
+2. Ov?? si, ï¿½e existujï¿½ vï¿½ï¿½e zmï¿½n?nï¿½ zdrojovï¿½ tabulky.
+3. Vï¿½slednï¿½ tabulky `t_*_final` budou vytvo?eny v databï¿½zi.
 
 
 
 ## Kontakt
-Máte otázky? Kontaktujte m? na [LinkedIn](https://www.linkedin.com/in/mat%C4%9Bj-lauterkranc-8a9b7a228/) nebo p?es e-mail: m.lauterkranc@gmail.com  
+Mï¿½te otï¿½zky? Kontaktujte m? na [LinkedIn](https://www.linkedin.com/in/mat%C4%9Bj-lauterkranc-8a9b7a228/) nebo p?es e-mail: m.lauterkranc@gmail.com  
