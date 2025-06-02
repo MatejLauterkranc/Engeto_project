@@ -12,7 +12,7 @@ Informační a komunikační činnosti, peněžnictví a pojišťovnictví, prof
 vědecké a technické činnosti, doprava a skladování vykazují stabilní růst mezd
 během celého období.
 Například v sektoru informačních a komunikačních činností vzrostla průměrná
-mzdanz 21 829 Kč (2000) na 63 416 Kč (2021), což představuje výrazný růst o
+mzda 21 829 Kč (2000) na 63 416 Kč (2021), což představuje výrazný růst o
 téměř 190 %.
 
 **Krátkodobé poklesy**
@@ -29,7 +29,7 @@ V některých odvětvích dochází v určitých letech k mírným meziročním 
 
 **Odvětví se stagnací**
 
-Administrativní a podpůrné činnosti, ubytování, stravování a pohostinství a
+Administrativní a podpůrné činnosti, ubytování, stravování , pohostinství a
 částečně stavebnictví vykazují sice růst, ale tempo růstu je pomalejší než v
 ostatních odvětvích a místy dochází ke stagnaci.
 Například administrativní a podpůrné činnosti: v letech 2012–2013 došlo k 
@@ -53,8 +53,6 @@ průběhu času.
 
 **Metodika**
 
-- Zdroj dat: Průměrná měsíční mzda za všechna odvětví v ČR a průměrné ceny
-  chleba a mléka v daných letech.
 - Výpočet: Kupní síla byla vyjádřena jako množství kilogramů chleba nebo litrů
   mléka, které lze pořídit za průměrnou mzdu.
 - Poznámka: Tento výpočet představuje obecný indikátor kupní síly a nezohledňuje
@@ -115,59 +113,98 @@ byly jednotlivé kategorie potravin seřazeny vzestupně dle míry zdražování
 
 **Analýza**
 
-- Nejpomaleji zdražující kategorie je cukr krystalový, který dokonce meziročně zlevnil o 1,92 %.
-- Jako druhá nejpomaleji zdražující kategorie jsou rajská jablka červená kulatá s mírným poklesem cen o 0,74 %.
-- Mezi potraviny s nejnižším pozitivním růstem cen patří také banány žluté (+0,81 %) a vepřová pečeně s kostí (+0,99 %).
-- Naopak, potraviny s vyšším meziročním nárůstem cen (nad 2 %) byly zejména kapr živý (+2,60 %), hovězí maso zadní bez kosti (+2,54 %) a pečivo pšeničné bílé (+2,20 %).
+- Nejpomaleji zdražující kategorie je cukr krystalový, který dokonce meziročně 
+  zlevnil o 1,92 %.
+- Jako druhá nejpomaleji zdražující kategorie jsou rajská jablka červená kulatá 
+  s mírným poklesem cen o 0,74 %.
+- Mezi potraviny s nejnižším pozitivním růstem cen patří také banány žluté (+0,81 %)
+ a vepřová pečeně s kostí (+0,99 %).
+- Naopak, potraviny s vyšším meziročním nárůstem cen (nad 2 %) byly zejména
+  kapr živý (+2,60 %), hovězí maso zadní bez kosti (+2,54 %) a pečivo pšeničné bílé (+2,20 %).
 
 **Závěr**
 
-- Cukr krystalový je z hlediska dlouhodobé cenové stability a meziročního růstu cen nejvýraznějším příkladem potraviny, která nezdražuje nebo dokonce mírně zlevňuje. Tento trend může být způsoben vyšší konkurencí na trhu s cukrem, stabilizací výrobních nákladů nebo příznivým vývojem cen cukrové řepy na světových trzích.
-- U sezónních produktů, jako je kapr, je třeba počítat s vyššími výkyvy cen, a proto není vhodné je považovat za reprezentativní ukazatel stabilního růstu cen potravin.
-- Pro komplexní analýzu cenové dostupnosti potravin je proto vhodné zohlednit nejen absolutní procentuální změny, ale i charakter produktu, jeho sezónnost a další externí faktory.
+- Cukr krystalový je z hlediska dlouhodobé cenové stability a meziročního růstu
+ cen nejvýraznějším příkladem potraviny, která nezdražuje nebo dokonce mírně zlevňuje.
+ Tento trend může být způsoben vyšší konkurencí na trhu s cukrem, stabilizací výrobních 
+ nákladů nebo příznivým vývojem cen cukrové řepy na světových trzích.
+- U sezónních produktů, jako je Kapr živý, je třeba počítat s vyššími výkyvy cen,
+  a proto není vhodné je považovat za reprezentativní ukazatel stabilního růstu cen 
+  potravin.
+- Pro komplexní analýzu cenové dostupnosti potravin je proto vhodné zohlednit
+  nejen absolutní procentuální změny, ale i charakter produktu, jeho sezónnost 
+  a další externí faktory.
 
 
 
 ## 4.   Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 
-Z dostupných dat pro vybrané roky 2007, 2008, 2011 a 2017, která uvádějí procentuální meziroční nárůst cen potravin a růst průměrné mzdy, jsme zkoumali, zda existuje rok, ve kterém byl růst cen potravin vyšší než růst mezd o více než 10 %.
-- V roce 2007 ceny potravin vzrostly o 6,86 %, zatímco mzdy vzrostly o 8,00 %. Cenový růst byl tedy nižší než růst mezd.
-- V roce 2008 došlo k meziročnímu nárůstu cen potravin o 7,87 %, zatímco mzdy rostly o 15,00 %. I zde byl růst mezd výrazně vyšší než růst cen potravin.
-- Rok 2011 vykazuje nárůst cen potravin o 2,31 % a růst mezd o 10,05 %. Cenový růst byl opět nižší než růst mezd.
-- V roce 2017 ceny potravin vzrostly o 6,31 %, zatímco mzdy vzrostly o 8,94 %. Stejně jako v předchozích případech růst mezd převýšil růst cen potravin.
+Z dostupných dat pro vybrané roky 2007, 2008, 2011 a 2017, která uvádějí
+procentuální meziroční nárůst cen potravin a růst průměrné mzdy, jsme zkoumali,
+zda existuje rok, ve kterém byl růst cen potravin vyšší než růst mezd o více než 10 %.
+- V roce 2007 ceny potravin vzrostly o 6,86 %, zatímco mzdy vzrostly o 8,00 %.
+  Cenový růst byl tedy nižší než růst mezd.
+- V roce 2008 došlo k meziročnímu nárůstu cen potravin o 7,87 %, zatímco mzdy
+  rostly o 15,00 %. I zde byl růst mezd výrazně vyšší než růst cen potravin.
+- Rok 2011 vykazuje nárůst cen potravin o 2,31 % a růst mezd o 10,05 %.
+  Cenový růst byl opět nižší než růst mezd.
+- V roce 2017 ceny potravin vzrostly o 6,31 %, zatímco mzdy vzrostly o 8,94 %.
+  Stejně jako v předchozích případech růst mezd převýšil růst cen potravin.
 
 **Závěr**
 
-Na základě poskytnutých dat neexistuje žádný rok, ve kterém by meziroční nárůst cen potravin byl o více než 10 % vyšší než růst mezd. Ve všech sledovaných obdobích růst mezd převyšoval růst cen potravin, což znamená, že kupní síla obyvatel v těchto letech byla z hlediska výdajů na potraviny spíše zachována nebo dokonce mírně posílena.
-Pokud bychom měli analyzovat širší časové období nebo další roky, mohlo by se objevit jiné chování, ale v rámci dostupných dat je situace jasná.
+Na základě poskytnutých dat neexistuje žádný rok, ve kterém by meziroční nárůst
+cen potravin byl o více než 10 % vyšší než růst mezd. Ve všech sledovaných 
+obdobích růst mezd převyšoval růst cen potravin, což znamená, že kupní síla 
+obyvatel v těchto letech byla z hlediska výdajů na potraviny spíše zachována 
+nebo dokonce mírně posílena.
+Pokud bychom měli analyzovat širší časové období nebo další roky, mohlo by se
+objevit jiné chování, ale v rámci dostupných dat je situace jasná.
 
 ## 5.   Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 
 **A) Vývoj průměrné mzdy**
 
-V roce 2006 dosáhla průměrná hrubá měsíční mzda v České republice hodnoty 20 211 Kč, což představovalo meziroční nárůst o 6,5 %. V roce 2018 vzrostla průměrná mzda na 32 536 Kč, což znamenalo nárůst o 61,2 %. Reálná mzda, očištěná o inflaci, vzrostla v roce 2006 o 3,9 % a v roce 2018 o 5,3 %. Tento růst reálné mzdy naznačuje zlepšení kupní síly obyvatelstva.
-Vývoj cen potravin
-Mezi lety 2006 a 2018 došlo k výrazným změnám v cenách vybraných potravin. Například cena másla vzrostla o 98,37 %, vaječných těstovin o 83,45 %, paprika o 71,25 % a rýže o 69,94 %. Naopak cena cukru klesla o 27,52 % a rajská jablka o 23,07 %. Tyto změny odrážejí různé faktory, jako jsou změny v nabídce a poptávce, sezónní výkyvy a další ekonomické vlivy.
+V roce 2006 dosáhla průměrná hrubá měsíční mzda v České republice hodnoty 
+20 211 Kč, což představovalo meziroční nárůst o 6,5 %. V roce 2018 vzrostla 
+průměrná mzda na 32 536 Kč, což znamenalo nárůst o 61,2 %. Reálná mzda,
+očištěná o inflaci, vzrostla v roce 2006 o 3,9 % a v roce 2018 o 5,3 %.
+Tento růst reálné mzdy naznačuje zlepšení kupní síly obyvatelstva.
 
-**B) Kupní síla obyvatelstva**
+**B)Vývoj cen potravin**
 
-Porovnáním průměrné mzdy a cen potravin lze vyhodnotit změny v kupní síle obyvatelstva. V roce 2006 bylo za průměrnou mzdu možné zakoupit přibližně 1 287 kg chleba nebo 1 437 litrů mléka. V roce 2018 vzrostl tento počet na 1 342 kg chleba a 1 642 litrů mléka. Tento nárůst naznačuje, že kupní síla obyvatelstva se mezi těmito lety zvýšila, což může být důsledkem růstu mezd a relativně stabilních cen některých základních potravin.
+Mezi lety 2006 a 2018 došlo k výrazným změnám v cenách vybraných potravin.
+Například cena másla vzrostla o 98,37 %, vaječných těstovin o 83,45 %,
+paprika o 71,25 % a rýže o 69,94 %. Naopak cena cukru klesla o 27,52 % 
+a rajská jablka o 23,07 %. Tyto změny odrážejí různé faktory, jako jsou
+změny v nabídce a poptávce, sezónní výkyvy a další ekonomické vlivy.
 
-**C) Vliv HDP na mzdy a ceny potravin**
+**C) Kupní síla obyvatelstva**
 
-Analýza korelací mezi růstem HDP a změnami v průměrné mzdě, cenách mléka a chleba ukazuje silné pozitivní vztahy:
+Porovnáním průměrné mzdy a cen potravin lze vyhodnotit změny v kupní síle
+obyvatelstva. V roce 2006 bylo za průměrnou mzdu možné zakoupit přibližně 
+1 287 kg chleba nebo 1 437 litrů mléka. V roce 2018 vzrostl tento počet na
+1 342 kg chleba a 1 642 litrů mléka. Tento nárůst naznačuje, že kupní síla 
+obyvatelstva se mezi těmito lety zvýšila, což může být důsledkem růstu mezd a
+relativně stabilních cen některých základních potravin.
+
+**D) Vliv HDP na mzdy a ceny potravin**
+
+Analýza korelací mezi růstem HDP a změnami v průměrné mzdě, cenách mléka a 
+chleba ukazuje silné pozitivní vztahy:
 - Korelace mezi růstem HDP a růstem mezd: 0,92
 - Korelace mezi růstem HDP a cenou mléka: 0,64
 - Korelace mezi růstem HDP a cenou chleba: 0,70
-Tyto vysoké korelace naznačují, že růst HDP má pozitivní vliv na růst mezd a také na ceny potravin. Nicméně, i když HDP roste, ceny potravin mohou být ovlivněny i dalšími faktory, jako jsou sezónní výkyvy, změny v nabídce a poptávce nebo globální ekonomické podmínky.
-
-**D) Analýza korelací mezi růstem HDP a změnami v průměrné mzdě, cenách mléka a chleba ukazuje silné pozitivní vztahy:**
-
-- Korelace mezi růstem HDP a růstem mezd: 0,92
-- Korelace mezi růstem HDP a cenou mléka: 0,64
-- Korelace mezi růstem HDP a cenou chleba: 0,70
-Tyto vysoké korelace naznačují, že růst HDP má pozitivní vliv na růst mezd a také na ceny potravin. Nicméně, i když HDP roste, ceny potravin mohou být ovlivněny i dalšími faktory, jako jsou sezónní výkyvy, změny v nabídce a poptávce nebo globální ekonomické podmínky.
+Tyto vysoké korelace naznačují, že růst HDP má pozitivní vliv na růst mezd
+a také na ceny potravin. Nicméně, i když HDP roste, ceny potravin mohou být 
+ovlivněny i dalšími faktory, jako jsou sezónní výkyvy, změny v nabídce a
+poptávce nebo globální ekonomické podmínky.
 
 **Závěr**
 
-Mezi lety 2006 a 2018 došlo v České republice k výraznému růstu průměrné mzdy a změnám v cenách potravin. Růst HDP měl pozitivní vliv na růst mezd a také na ceny některých potravin. Analýza kupní síly obyvatelstva ukazuje, že i přes růst cen některých potravin se kupní síla obyvatelstva mezi těmito lety zvýšila. Tato zjištění mohou sloužit jako základ pro další analýzy a rozhodování v oblasti ekonomické politiky a spotřebitelského chování.
+Mezi lety 2006 a 2018 došlo v České republice k výraznému růstu průměrné mzdy
+a změnám v cenách potravin. Růst HDP měl pozitivní vliv na růst mezd a také na
+ceny některých potravin. Analýza kupní síly obyvatelstva ukazuje, že i přes růst
+cen některých potravin se kupní síla obyvatelstva mezi těmito lety zvýšila.
+Tato zjištění mohou sloužit jako základ pro další analýzy a rozhodování v oblasti
+ekonomické politiky a spotřebitelského chování.
