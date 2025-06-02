@@ -59,19 +59,22 @@ V rámci sledování vývoje cen potravin jsme analyzovali meziroční nárůst 
 **Výsledky**
 
 Na základě dostupných dat o meziročním procentuálním růstu cen vybraných potravin byly jednotlivé kategorie potravin seřazeny vzestupně dle míry zdražování:
+**Tabulka: Meziroční nárůst vybraných potravin**
 
-  **| Potravina	                       | Meziroční nárůst (%) |**
-    |----------------------------------|----------------------|
-    | Cukr krystalový                  |	-1,92 %           |
-    | Rajská jablka červená kulatá     |	-0,74 %           |
-    | Banány žluté                     |	+0,81 %           |
-    | Vepřová pečeně s kostí           |	+0,99 %           |
-    | Přírodní minerální voda uhličitá |	+1,03 %           |
-    | Šunkový salám                    |	+1,85 %           |
-    | Jablka konzumní                  |	+2,02 %           |
-    | Pečivo pšeničné bílé             |	+2,20 %           |
-    | Hovězí maso zadní bez kosti      |	+2,54 %           |
-    | Kapr živý                        |	+2,60 %           |
+
+  | Potravina	                       | Meziroční nárůst (%) |
+  |----------------------------------|----------------------|
+  | Cukr krystalový                  |	-1,92 %             |
+  | Rajská jablka červená kulatá     |	-0,74 %             |
+  | Banány žluté                     |	+0,81 %             |
+  | Vepřová pečeně s kostí           |	+0,99 %             |
+  | Přírodní minerální voda uhličitá |	+1,03 %             |
+  | Šunkový salám                    |	+1,85 %             |
+  | Jablka konzumní                  |	+2,02 %             |
+  | Pečivo pšeničné bílé             |	+2,20 %             |
+  | Hovězí maso zadní bez kosti      |	+2,54 %             |
+  | Kapr živý                        |	+2,60 %             |
+  -----------------------------------|----------------------|
 
 
 **Analýza**
