@@ -59,6 +59,7 @@ V rámci sledování vývoje cen potravin jsme analyzovali meziroční nárůst 
 **Výsledky**
 
 Na základě dostupných dat o meziročním procentuálním růstu cen vybraných potravin byly jednotlivé kategorie potravin seřazeny vzestupně dle míry zdražování:
+
 **Tabulka: Meziroční nárůst vybraných potravin**
 
 
