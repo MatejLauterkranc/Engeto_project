@@ -9,7 +9,7 @@ ekonomickými krizemi, sezónností, nebo specifiky daného sektoru.
 **Růst ve většině odvětví**
 
 Informační a komunikační činnosti, peněžnictví a pojišťovnictví, profesní, 
-vědecké a technické činnosti a doprava a skladování vykazují stabilní růst mezd
+vědecké a technické činnosti, doprava a skladování vykazují stabilní růst mezd
 během celého období.
 Například v sektoru informačních a komunikačních činností vzrostla průměrná
 mzdanz 21 829 Kč (2000) na 63 416 Kč (2021), což představuje výrazný růst o
