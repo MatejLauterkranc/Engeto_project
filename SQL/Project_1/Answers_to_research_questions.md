@@ -64,8 +64,8 @@ průběhu času.
 
 | Rok	| Průměrná mzda (Kč) |	Cena chleba (Kč/kg) |	Cena mléka (Kč/l) |	Kupní síla chleba (kg) |	Kupní síla mléka (l) |
 |-----| -------------------|----------------------|-------------------|------------------------|-----------------------|
-|2006	| 20 677,04	         | 16,12                |	14,44	            | 1 282,41               |	1 432,14             |
-|2018	| 32 485,09	         | 24,24                |	19,82	            | 1 340,23	             |  1 639,21             |
+|2006	|     20 677,04	     |      16,12           |     14,44         |     1 282,41           |	    1 432,14         |
+|2018	|     32 485,09	     |      24,24           |	    19,82         |     1 340,23	         |      1 639,21         |
 
 **Z výpočtů je patrné, že:**
 
@@ -98,18 +98,18 @@ byly jednotlivé kategorie potravin seřazeny vzestupně dle míry zdražování
 **Tabulka: Meziroční nárůst vybraných potravin**
 
 
-  | Potravina	                       | Meziroční nárůst (%) |
-  |----------------------------------|----------------------|
-  | Cukr krystalový                  |	-1,92 %             |
-  | Rajská jablka červená kulatá     |	-0,74 %             |
-  | Banány žluté                     |	+0,81 %             |
-  | Vepřová pečeně s kostí           |	+0,99 %             |
-  | Přírodní minerální voda uhličitá |	+1,03 %             |
-  | Šunkový salám                    |	+1,85 %             |
-  | Jablka konzumní                  |	+2,02 %             |
-  | Pečivo pšeničné bílé             |	+2,20 %             |
-  | Hovězí maso zadní bez kosti      |	+2,54 %             |
-  | Kapr živý                        |	+2,60 %             |
+  |           Potravina	                 | Meziroční nárůst (%)   |
+  |--------------------------------------|------------------------|
+  |     Cukr krystalový                  |	  -1,92 %             |
+  |     Rajská jablka červená kulatá     |	  -0,74 %             |
+  |     Banány žluté                     |	  +0,81 %             |
+  |     Vepřová pečeně s kostí           |	  +0,99 %             |
+  |     Přírodní minerální voda uhličitá |	  +1,03 %             |
+  |     Šunkový salám                    |  	+1,85 %             |
+  |     Jablka konzumní                  |	  +2,02 %             |
+  |     Pečivo pšeničné bílé             |	  +2,20 %             |
+  |     Hovězí maso zadní bez kosti      |	  +2,54 %             |
+  |     Kapr živý                        |	  +2,60 %             |
 
 
 
