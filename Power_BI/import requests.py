@@ -3,7 +3,7 @@ import pandas as pd
 import pycountry
 import time
 
-API_KEY = "d1613f8c-b100-465f-a020-9f800887a141"
+API_KEY = "USE Own API"
 for country in pycountry.countries:
     country_code = country.alpha_2
     url = f"https://api.openchargemap.io/v3/poi/?output=json&countrycode={country_code}&maxresults=5000&key={API_KEY}"

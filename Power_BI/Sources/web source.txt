@@ -18,5 +18,4 @@ https://www.oecd.org/en/publications/serials/global-ev-outlook_70439e40.html
 
 Open Charge Map
 https://api.openchargemap.io/v3
-https://api.openchargemap.io/v3/poi/?output=json&countrycode=US&maxresults=10?key=d1613f8c-b100-465f-a020-9f800887a141
-API:d1613f8c-b100-465f-a020-9f800887a141
+https://api.openchargemap.io/v3/poi/?output=json&countrycode=US&maxresults=10?key=
