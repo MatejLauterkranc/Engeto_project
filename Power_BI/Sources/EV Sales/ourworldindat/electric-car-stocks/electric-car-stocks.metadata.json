@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "title": "Electric car stocks",
+    "subtitle": "Car stocks represent the number of cars that are in use. It is the balance of cumulative sales over time and the number of cars that have been retired or taken off the road. Electric cars include fully battery-electric vehicles and plug-in hybrids.",
+    "citation": "International Energy Agency. Global EV Outlook 2025.",
+    "originalChartUrl": "https://ourworldindata.org/grapher/electric-car-stocks?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "European Union (27)",
+      "World",
+      "China",
+      "United States"
+    ]
+  },
+  "columns": {
+    "Electric car stocks": {
+      "titleShort": "Electric car stocks",
+      "titleLong": "Electric car stocks",
+      "shortUnit": "cars",
+      "unit": "cars",
+      "timespan": "2010-2024",
+      "type": "Integer",
+      "owidVariableId": 820033,
+      "shortName": "ev_stock",
+      "lastUpdated": "2025-05-15",
+      "citationShort": "International Energy Agency. Global EV Outlook 2025. – processed by Our World in Data",
+      "citationLong": "International Energy Agency. Global EV Outlook 2025. – processed by Our World in Data. “Electric car stocks” [dataset]. International Energy Agency. Global EV Outlook 2025., “electric_cars_iea” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/820033.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-06-08",
+  "activeFilters": {}
+}

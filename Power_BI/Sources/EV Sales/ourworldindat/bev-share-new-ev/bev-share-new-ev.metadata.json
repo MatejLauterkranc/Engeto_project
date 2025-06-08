@@ -1,0 +1,33 @@
+{
+  "chart": {
+    "title": "Share of new electric cars that are fully battery-electric",
+    "subtitle": "\"Electric cars\" often refer to both  [fully battery-electric](#dod:battery_electric) cars and [plug-in hybrids](#dod:plugin_hybrid). Shown is the share of new electric cars sold that are fully battery-electric.",
+    "citation": "International Energy Agency. Global EV Outlook 2025.",
+    "originalChartUrl": "https://ourworldindata.org/grapher/bev-share-new-ev?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "China",
+      "Sweden",
+      "World",
+      "United Kingdom",
+      "Norway"
+    ]
+  },
+  "columns": {
+    "Battery-electric as a share of electric cars sold": {
+      "titleShort": "Battery electric (BEV)",
+      "titleLong": "Battery electric (BEV)",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2010-2024",
+      "type": "Numeric",
+      "owidVariableId": 820029,
+      "shortName": "bev_share_ev_cars",
+      "lastUpdated": "2025-05-15",
+      "citationShort": "International Energy Agency. Global EV Outlook 2025. – processed by Our World in Data",
+      "citationLong": "International Energy Agency. Global EV Outlook 2025. – processed by Our World in Data. “Battery electric (BEV)” [dataset]. International Energy Agency. Global EV Outlook 2025., “electric_cars_iea” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/820029.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-06-08",
+  "activeFilters": {}
+}

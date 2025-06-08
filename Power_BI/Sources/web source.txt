@@ -19,3 +19,12 @@ https://www.oecd.org/en/publications/serials/global-ev-outlook_70439e40.html
 Open Charge Map
 https://api.openchargemap.io/v3
 https://api.openchargemap.io/v3/poi/?output=json&countrycode=US&maxresults=10?key=
+
+EV shares sales
+https://ourworldindata.org/electric-car-sales
+https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer
+
+EV Manufactures
+https://www.kaggle.com/code/agarwalvishal00/ev-dataset-eda-and-regression/input
+
+EV 

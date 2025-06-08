@@ -1,6 +1,6 @@
 # Share of new cars sold that are electric - Data package
 
-This data package contains the data that powers the chart ["Share of new cars sold that are electric"](https://ourworldindata.org/grapher/electric-car-sales-share?v=1&csvType=full&useColumnShortNames=false) on the Our World in Data website. It was downloaded on June 02, 2025.
+This data package contains the data that powers the chart ["Share of new cars sold that are electric"](https://ourworldindata.org/grapher/electric-car-sales-share?v=1&csvType=full&useColumnShortNames=false) on the Our World in Data website. It was downloaded on June 08, 2025.
 
 ### Active Filters
 

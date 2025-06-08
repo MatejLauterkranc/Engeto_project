@@ -1,0 +1,33 @@
+{
+  "chart": {
+    "title": "Share of cars currently in use that are electric",
+    "subtitle": "Electric cars include [fully battery-electric](#dod:battery_electric) and [plug-in hybrids](#dod:plugin_hybrid).",
+    "citation": "International Energy Agency. Global EV Outlook 2025.",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-car-stocks-electric?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "Norway",
+      "Sweden",
+      "China",
+      "United States"
+    ]
+  },
+  "columns": {
+    "Share of car stocks that are electric": {
+      "titleShort": "Share of car stocks that are electric",
+      "titleLong": "Share of car stocks that are electric",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2010-2024",
+      "type": "Numeric",
+      "owidVariableId": 820023,
+      "shortName": "ev_stock_share",
+      "lastUpdated": "2025-05-15",
+      "citationShort": "International Energy Agency. Global EV Outlook 2025. – processed by Our World in Data",
+      "citationLong": "International Energy Agency. Global EV Outlook 2025. – processed by Our World in Data. “Share of car stocks that are electric” [dataset]. International Energy Agency. Global EV Outlook 2025., “electric_cars_iea” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/820023.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-06-08",
+  "activeFilters": {}
+}

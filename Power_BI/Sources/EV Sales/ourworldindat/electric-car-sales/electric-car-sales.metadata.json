@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "title": "Number of new electric cars sold",
+    "subtitle": "Electric cars include [fully battery-electric](#dod:battery_electric) and [plug-in hybrids](#dod:plugin_hybrid).",
+    "citation": "International Energy Agency. Global EV Outlook 2025.",
+    "originalChartUrl": "https://ourworldindata.org/grapher/electric-car-sales?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "China",
+      "United States",
+      "European Union (27)"
+    ]
+  },
+  "columns": {
+    "Electric cars sold": {
+      "titleShort": "Electric cars sold",
+      "titleLong": "Electric cars sold",
+      "shortUnit": "cars",
+      "unit": "cars",
+      "timespan": "2010-2024",
+      "type": "Integer",
+      "owidVariableId": 820028,
+      "shortName": "ev_sales",
+      "lastUpdated": "2025-05-15",
+      "citationShort": "International Energy Agency. Global EV Outlook 2025. – processed by Our World in Data",
+      "citationLong": "International Energy Agency. Global EV Outlook 2025. – processed by Our World in Data. “Electric cars sold” [dataset]. International Energy Agency. Global EV Outlook 2025., “electric_cars_iea” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/820028.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-06-08",
+  "activeFilters": {}
+}
