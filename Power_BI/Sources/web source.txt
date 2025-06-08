@@ -18,7 +18,8 @@ https://www.oecd.org/en/publications/serials/global-ev-outlook_70439e40.html
 
 Open Charge Map
 https://api.openchargemap.io/v3
-https://api.openchargemap.io/v3/poi/?output=json&countrycode=US&maxresults=10?key=
+https://api.openchargemap.io/v3/poi/?output=json&countrycode=US&maxresults=10?key= (must API key, must registration a then get API key)
+https://overpass-turbo.eu/ (no API key)
 
 EV shares sales
 https://ourworldindata.org/electric-car-sales
