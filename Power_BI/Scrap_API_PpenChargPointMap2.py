@@ -4,7 +4,7 @@ import pycountry
 import time
 
 API_KEY = "d1613f8c-b100-465f-a020-9f800887a141"
-country_code = "CN"
+country_code = "CZ"
 all_data = []
 
 max_results_per_request = 5000
@@ -21,7 +21,7 @@ while True:
             all_data.extend(data)
             print(f"Fetched {len(data)} records with offset {offset}")
             offset += max_results_per_request
-            time.sleep(15)  # pauza mezi požadavky
+            time.sleep(5)  # pauza mezi požadavky
         else:
             print(f"Failed to fetch data. Status code: {response.status_code}")
             break
