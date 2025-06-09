@@ -28,3 +28,6 @@ https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer
 EV Manufactures
 https://www.kaggle.com/code/agarwalvishal00/ev-dataset-eda-and-regression/input
 https://m.arenaev.com/makers.php3
+
+Logo company
+https://www.carlogos.org/car-brands/
