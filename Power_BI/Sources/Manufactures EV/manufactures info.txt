@@ -1,0 +1,561 @@
+Market name,Kategorie,Hodnota
+Alfa Romeo,Datum založení,24. června 1910
+Alfa Romeo,Zakladatelé,"Ugo Stella, Nicola Romeo"
+Alfa Romeo,Historie,"Založeno v Miláně pod názvem A.L.F.A. (Anonima Lombarda Fabbrica Automobili), poté převzato a přejmenováno na Alfa Romeo Nicola Romeem. Slavná závodní éra (1920s–1930s), úspěchy na Targa Florio a Mille Miglia. Po 2. světové válce sériová auta (Giulietta, Giulia, Alfetta). V roce 1986 koupeno Fiatem, dnes součást Stellantis."
+Alfa Romeo,Ředitelé,"Nicola Romeo (1915–1928), IRI (státní holding), Fiat Group (od 1986), Jean-Philippe Imparato (od 2021)"
+Alfa Romeo,Nepovedené projekty,"Alfa 90 (1984–1987), Arna (1983–1987), Alfa 6 (1979–1986)"
+Alfa Romeo,Aktuální stav,"Součást koncernu Stellantis, sídlo v Turíně, aktuální modely: Giulia, Stelvio, Tonale (SUV). Plán elektrifikace s několika EV modely."
+Alfa Romeo,Sídlo,Milán, Itálie
+Alfa Romeo,Klíčové modely,"Giulietta, Giulia, Stelvio, Tonale, 8C Competizione"
+Alfa Romeo,Inovace,"Twin Spark motory, DNA jízdní režimy, Q4 pohon všech kol, hliníková architektura Giorgio"
+Alfa Romeo,Významná ocenění,"Evropské auto roku (Alfa Romeo 156), vítězství v Formuli 1 (první dva šampionáty), Targa Florio, Mille Miglia"
+Audi,Datum založení,16. července 1909
+Audi,Zakladatelé,August Horch
+Audi,Historie,"Založeno v Zwickau Augustem Horchem po odchodu z dřívější společnosti A. Horch & Cie. Motorwagenwerke. Značka Audi (latinský překlad Horch - naslouchej!). Fúze se třemi dalšími automobilkami (DKW, Horch, Wanderer) do Auto Union AG v roce 1932 (čtyři kruhy v logu). Po 2. světové válce obnovena v Ingolstadtu. V roce 1965 převzata Volkswagenem. Značka se stala synonymem pro pohon Quattro a progresivní technologie."
+Audi,Ředitelé,"August Horch (do 1920), Rupert Stadler (2007–2018), Markus Duesmann (2020–2023), Gernot Döllner (od 2023)"
+Audi,Nepovedené projekty,"Audi A2 (2000–2005 - příliš drahá na hromadný trh), Audi V8 (1988-1994 - snažilo se konkurovat S-Class, ale neúspěšně)"
+Audi,Aktuální stav,"Součást koncernu Volkswagen Group, sídlo v Ingolstadtu, zaměření na prémiové a luxusní vozy. Silný důraz na elektromobilitu (e-tron modely) a autonomní řízení."
+Audi,Sídlo,Ingolstadt, Německo
+Audi,Klíčové modely,"Audi Quattro, A4, A6, A8, Q7, R8, e-tron (SUV)"
+Audi,Inovace,"Quattro pohon všech kol, TFSI/TDI motory, LED/Matrix LED světlomety, MMI infotainment systém, Audi Virtual Cockpit"
+Audi,Významná ocenění,"Světové auto roku (vícekrát), Zlatý volant, četná vítězství v Le Mans (např. s R8 a R10 TDI)"
+BMW,Datum založení,7. března 1916
+BMW,Zakladatelé,"Franz Josef Popp, Karl Rapp, Gustav Otto"
+BMW,Historie,"Založeno jako Bayerische Motoren Werke AG, původně výrobce leteckých motorů. První motocykl v roce 1923, první automobil v roce 1928 (Dixie). Po 2. světové válce se potýkalo s problémy, ale zachránily ho ikonické modely jako Isetta a ""Neue Klasse"". Dnes globální lídr v prémiovém segmentu s důrazem na sportovnost a inovace."
+BMW,Ředitelé,"Franz Josef Popp (první generální ředitel), Harald Krüger (2015–2019), Oliver Zipse (od 2019)"
+BMW,Nepovedené projekty,"BMW Z1 Coupé (aka ""Clown Shoe"" - sice kultovní, ale nízké prodeje), E65 7 Series (kontroverzní design, iDrive první generace)"
+BMW,Aktuální stav,"Nezávislý výrobce prémiových automobilů a motocyklů. Sídlo v Mnichově. Silný fokus na elektrifikaci (řada i), digitalizaci a autonomní řízení. Vlastní značky Mini a Rolls-Royce."
+BMW,Sídlo,Mnichov, Německo
+BMW,Klíčové modely,"BMW 3 Series, 5 Series, 7 Series, X5, M3, i3, iX"
+BMW,Inovace,"Řadové šestiválce, iDrive infotainment, technologie EfficientDynamics, karbonové prvky (např. i3), Laserlight světlomety"
+BMW,Významná ocenění,"Světové auto roku, Zlatý volant, četná ocenění za motory a design, úspěchy v DTM a Formuli 1"
+BYD,Datum založení,Únor 1995
+BYD,Zakladatelé,Wang Chuanfu
+BYD,Historie,"Založeno v čínském Shenzhenu jako výrobce dobíjecích baterií. V roce 2003 vstoupilo do automobilového průmyslu. Rychlý růst v oblasti elektromobilů a hybridů. V roce 2022 předběhlo Teslu v prodejích BEV/PHEV dohromady. Silná vertikální integrace (baterie, čipy)."
+BYD,Ředitelé,Wang Chuanfu (současný CEO)
+BYD,Nepovedené projekty,"BYD F3DM (jeden z prvních PHEV, ale s omezeným dojezdem a vysokou cenou v počátcích), některé rané modely trpěly horší kvalitou zpracování"
+BYD,Aktuální stav,"Jeden z největších světových výrobců elektromobilů a baterií. Sídlo v Shenzhenu, Čína. Agresivní globální expanze. Rozsáhlé portfolio zahrnující osobní automobily, autobusy, nákladní vozidla a železniční dopravu."
+BYD,Sídlo,Shenzhen, Čína
+BYD,Klíčové modely,"BYD Blade Battery, Han, Seal, Dolphin, Atto 3 (Yuan Plus)"
+BYD,Inovace,"Blade Battery (LiFePO4, zvyšuje bezpečnost a prostorové využití), e-Platform 3.0, Dual Mode hybridní technologie"
+BYD,Významná ocenění,"Četná ocenění za inovace v oblasti baterií a elektromobilů, nejprodávanější BEV/PHEV značka na světě (2022, 2023)"
+Cadillac,Datum založení,22. srpna 1902
+Cadillac,Zakladatelé,Henry Leland
+Cadillac,Historie,"Založeno z pozůstatků Henry Ford Company. Pojmenováno po zakladateli Detroitu, Antoinu de la Mothe Cadillace. Brzy se stalo průkopníkem ve standardizaci dílů a elektrickém startéru. Dlouholetý symbol amerického luxusu a inovací. V posledních letech se snaží oživit značku a konkurovat německým prémiovkám."
+Cadillac,Ředitelé,"Henry Leland (zakladatel), John F. Smith (současný viceprezident pro Cadillac Global)"
+Cadillac,Nepovedené projekty,"Cadillac Cimarron (1982–1988 - rebadge Chevrolet Cavalier, poškodil image), Cadillac Allanté (1987–1993 - drahý a nespolehlivý), V8-6-4 motor (1981 - nespolehlivý systém deaktivace válců)"
+Cadillac,Aktuální stav,"Součást General Motors. Sídlo v Detroitu, USA. Zaměření na luxusní segment s důrazem na SUV a elektrifikaci (např. Lyriq, Celestiq). Cílem je stát se plně elektrickou značkou."
+Cadillac,Sídlo,Detroit, USA
+Cadillac,Klíčové modely,"Cadillac Escalade, CT5-V Blackwing, Lyriq, Fleetwood, Eldorado"
+Cadillac,Inovace,"Elektrický startér, plně uzavřená karoserie, Super Cruise (hands-free řízení), MagneRide odpružení"
+Cadillac,Významná ocenění,"Četná ocenění za luxus a design, MotorTrend Car of the Year (vícekrát)"
+Chevrolet,Datum založení,3. listopadu 1911
+Chevrolet,Zakladatelé,"Louis Chevrolet, William C. Durant"
+Chevrolet,Historie,"Založeno švýcarským závodním jezdcem Louisem Chevroletem a zakladatelem General Motors, Williamem C. Durantem. Původně konkurent Fordu, brzy se stal součástí GM. Známý pro cenově dostupné a spolehlivé vozy pro masy. Ikonické modely jako Corvette a Camaro."
+Chevrolet,Ředitelé,"Louis Chevrolet (zakladatel), Mark Reuss (prezident General Motors), Scott Bell (současný viceprezident pro Chevrolet Global)"
+Chevrolet,Nepovedené projekty,"Chevrolet Vega (1971–1977 - problémy s korozí a motorem), Chevrolet Citation (1980–1985 - špatná kvalita a nespolehlivost), Chevrolet Corvair (1960–1969 - problémy s ovladatelností, proslavil Ralph Nader)"
+Chevrolet,Aktuální stav,"Hlavní značka General Motors. Globální působnost s rozmanitým portfoliem od osobních vozů, SUV, pick-upů (Silverado) po sportovní vozy (Corvette, Camaro). Silný posun k elektromobilitě s modely jako Bolt a Silverado EV."
+Chevrolet,Sídlo,Detroit, USA
+Chevrolet,Klíčové modely,"Chevrolet Corvette, Camaro, Silverado, Tahoe, Equinox, Bolt EV"
+Chevrolet,Inovace,"Small Block V8 motor, OnStar telematika, aktivní palivový management"
+Chevrolet,Významná ocenění,"MotorTrend Truck/SUV of the Year, North American Car of the Year, četná ocenění za spolehlivost"
+Citroen,Datum založení,1919
+Citroen,Zakladatelé,André Citroën
+Citroen,Historie,"Založeno André Citroënem, který do Francie přinesl sériovou výrobu podle vzoru Henryho Forda. Průkopník v oblasti inovativních technologií (např. samonosná karoserie u Traction Avant, hydropneumatické odpružení u DS). Často spojován s avantgardním designem a komfortem. Součást skupiny PSA, dnes Stellantis."
+Citroen,Ředitelé,"André Citroën (zakladatel), Linda Jackson (2014–2020), Thierry Koskas (od 2020)"
+Citroen,Nepovedené projekty,"Citroën C6 (2005–2012 - luxusní, ale nízké prodeje), Citroën AX (nedostatečná bezpečnost v porovnání s konkurencí v některých verzích), Citroën M35 (Wankelův motor, nespolehlivý)"
+Citroen,Aktuální stav,"Součást koncernu Stellantis. Sídlo v Paříži, Francie. Zaměření na komfort, design a praktičnost. Rozšiřuje svou nabídku elektrifikovaných modelů a usiluje o dostupnou mobilitu."
+Citroen,Sídlo,Paříž, Francie
+Citroen,Klíčové modely,"Citroën DS, 2CV, Traction Avant, C4 Cactus, C5 Aircross"
+Citroen,Inovace,"Hydropneumatické odpružení, samonosná karoserie, natáčecí světlomety, Advanced Comfort program"
+Citroen,Významná ocenění,"Evropské auto roku (např. GS, CX), World Car Design of the Year (C4 Cactus)"
+Cupra,Datum založení,2018 (jako samostatná značka)
+Cupra,Zakladatelé,SEAT S.A.
+Cupra,Historie,"Původně sportovní divize španělské automobilky SEAT, zaměřená na výkonné verze modelů. V roce 2018 se osamostatnila jako plnohodnotná značka s vlastním designem a filozofií. Klade důraz na sportovnost, sofistikovanost a emocionální design. Rychlý růst na evropském trhu."
+Cupra,Ředitelé,Wayne Griffiths (CEO SEAT a CUPRA)
+Cupra,Nepovedené projekty,"Zatím se neobjevily výrazné ""nepovedené projekty"" vzhledem k mládí značky a pečlivému výběru modelů. Některé rané modely Cupra pod značkou SEAT (např. Leon Cupra R) trpěly omezenou exkluzivitou."
+Cupra,Aktuální stav,"Součást koncernu Volkswagen Group (pod SEAT S.A.). Sídlo v Martorellu, Španělsko. Značka s jasným sportovním a prémiovým zaměřením. Rychle rozšiřuje portfolio o elektrifikované modely (hybridy a plně elektrické vozy jako Born)."
+Cupra,Sídlo,Martorell, Španělsko
+Cupra,Klíčové modely,"Cupra Formentor, Born, Leon, Ateca"
+Cupra,Inovace,"Charakteristický design, plug-in hybridní technologie, adaptivní podvozek DCC, progresivní řízení"
+Cupra,Významná ocenění,"Red Dot Design Award, Zlatý volant (pro Formentor), ocenění za sportovní výkony"
+Dacia,Datum založení,1966
+Dacia,Zakladatelé,Rumunský stát (s podporou Renaultu)
+Dacia,Historie,"Založeno v Rumunsku pod názvem Uzina de Autoturisme Pitești (UAP) s cílem vyrábět vozy pro rumunský trh. V roce 1968 podepsána licenční dohoda s Renaultem (model Dacia 1100 = Renault 8). V roce 1999 plně převzata Renaultem. Stala se symbolem cenově dostupné a robustní mobility, zaměřená na esenciální potřeby."
+Dacia,Ředitelé,"Mihai Bordeanu (generální ředitel pro Rumunsko), Denis Le Vot (CEO Dacia & Lada)"
+Dacia,Nepovedené projekty,"Některé rané modely (např. Dacia 1300/1310) trpěly problémy s kvalitou a spolehlivostí před převzetím Renaultem, ale to bylo dáno tehdejšími podmínkami."
+Dacia,Aktuální stav,"Součást koncernu Renault Group. Sídlo v Mioveni, Rumunsko. Zaměření na cenově dostupné a spolehlivé vozy, které nabízejí dobrou hodnotu za peníze. Velký úspěch s modely jako Duster a Sandero. Rozšiřuje se o elektrifikované modely (např. Spring)."
+Dacia,Sídlo,Mioveni, Rumunsko
+Dacia,Klíčové modely,"Dacia Logan, Sandero, Duster, Spring, Jogger"
+Dacia,Inovace,"Cenová dostupnost a robustnost, modularita (např. Jogger), jednoduchost a spolehlivost"
+Dacia,Významná ocenění,"Četná ocenění za ""hodnotu za peníze"", nejprodávanější modely v některých segmentech v Evropě"
+Dodge,Datum založení,1900 (Dodge Brothers Company), 1914 (výroba automobilů)
+Dodge,Zakladatelé,"Horace Elgin Dodge, John Francis Dodge"
+Dodge,Historie,"Založeno bratry Dodgeovými, původně dodavateli dílů pro Ford. V roce 1914 začali vyrábět vlastní automobily. Rychle si získali reputaci pro robustnost a spolehlivost. V roce 1928 koupeno Chryslerem. Známý pro muscle cars a výkonné motory (HEMI)."
+Dodge,Ředitelé,"Horace E. Dodge, John F. Dodge (zakladatelé), Tim Kuniskis (CEO Dodge Brand)"
+Dodge,Nepovedené projekty,"Dodge Caliber (2007–2012 - kritizovaný za levné materiály a jízdu), Dodge Dart (2013–2016 - nedostatečný úspěch v kompaktní třídě), Dodge Omni/Horizon (rané modely s problémy s kvalitou)"
+Dodge,Aktuální stav,"Součást koncernu Stellantis. Sídlo v Auburn Hills, Michigan, USA. Zaměření na výkonné vozy, muscle cars a SUV. Postupný přechod k elektrifikovaným modelům (např. Charger Daytona SRT Concept) při zachování sportovní identity."
+Dodge,Sídlo,Auburn Hills, USA
+Dodge,Klíčové modely,"Dodge Charger, Challenger, Durango, Ram (dříve Dodge Ram), Viper"
+Dodge,Inovace,"HEMI V8 motory, SRT divize (Street and Racing Technology), Uconnect infotainment"
+Dodge,Významná ocenění,"Četná ocenění za výkon a sportovní modely, JD Power Initial Quality Study"
+DongFeng,Datum založení,1969
+DongFeng,Zakladatelé,Čínský stát
+DongFeng,Historie,"Jeden z největších čínských státních automobilových výrobců. Původně založen jako Second Automobile Works. Spolupracuje s mnoha zahraničními automobilkami (např. Honda, Nissan, Peugeot, Citroën) prostřednictvím joint ventures. Rozvíjí vlastní značky a technologie, zaměřuje se na elektrifikaci a nákladní vozidla."
+DongFeng,Ředitelé,"Zhu Yanfeng (předseda představenstva)"
+DongFeng,Nepovedené projekty,"Některé rané modely vyráběné ve spolupráci se zahraničními partnery trpěly horšími prodejními výsledky kvůli silné konkurenci na čínském trhu."
+DongFeng,Aktuální stav,"Jeden z ""velké čtyřky"" čínských státních automobilek. Sídlo ve Wu-chanu, Čína. Široké portfolio zahrnující osobní automobily (včetně EV), nákladní vozidla a autobusy. Aktivně expanduje na mezinárodní trhy a investuje do elektromobility a autonomního řízení."
+DongFeng,Sídlo,Wu-chan, Čína
+DongFeng,Klíčové modely,"Dongfeng Fengshen, Aeolus, Forthing, Voyah (EV značka)"
+DongFeng,Inovace,"Vlastní platformy pro EV, bateriové technologie, vodíkové palivové články, inteligentní sítě"
+DongFeng,Významná ocenění,"Četná ocenění na čínském trhu za prodeje a technologický pokrok, spolupráce s předními světovými automobilkami"
+DS,Datum založení,2014 (jako samostatná značka)
+DS,Zakladatelé,Groupe PSA (nyní Stellantis)
+DS,Historie,"Původně luxusní řada automobilky Citroën (modely DS3, DS4, DS5). V roce 2014 se osamostatnila jako prémiová značka koncernu PSA s cílem konkurovat německým luxusním značkám. Klade důraz na francouzský luxus, avantgardní design, precizní řemeslné zpracování a špičkové technologie. Dnes součást Stellantis."
+DS,Ředitelé,"Yves Bonnefont (první CEO), Béatrice Foucher (od 2020)"
+DS,Nepovedené projekty,"Zatím se neobjevily výrazné ""nepovedené projekty"" vzhledem k mládí značky. Rané modely DS pod značkou Citroën byly někdy kritizovány za nedostatečnou odlišnost od mateřské značky."
+DS,Aktuální stav,"Součást koncernu Stellantis. Sídlo v Paříži, Francie. Zaměření na prémiový a luxusní segment. Silný důraz na elektrifikaci (nabízí výhradně elektrifikované modely od roku 2025) a unikátní design. Rozšiřuje svou globální přítomnost."
+DS,Sídlo,Paříž, Francie
+DS,Klíčové modely,"DS 7 Crossback, DS 9, DS 4, DS 3 Crossback"
+DS,Inovace,"E-TENSE elektrické a plug-in hybridní pohony, DS Active Scan Suspension, DS Matrix LED Vision, Pearl Stitches (prošívání)"
+DS,Významná ocenění,"Četná ocenění za design (např. Red Dot Design Award), ocenění za luxus a kvalitu interiéru"
+Fiat,Datum založení,11. července 1899
+Fiat,Zakladatelé,Giovanni Agnelli a další
+Fiat,Historie,"Založeno jako Fabbrica Italiana Automobili Torino. Brzy se stalo největším italským výrobcem automobilů. Proslulé kompaktními a městskými vozy (např. 500, Panda). Mělo zásadní vliv na industrializaci Itálie. Dlouholetá dominance v Itálii a silná přítomnost v Evropě a Jižní Americe. V roce 2021 se stalo součástí Stellantis."
+Fiat,Ředitelé,"Giovanni Agnelli (zakladatel), Sergio Marchionne (2004–2014), Olivier Francois (CEO Fiat Brand)"
+Fiat,Nepovedené projekty,"Fiat Croma (první generace byla úspěšná, druhá (2005–2010) kritizována za design a prodeje), Fiat Duna (1985–2000 - kritizována za design a kvalitu), Fiat Multipla (1998–2010 - kontroverzní design, ale praktičnost)"
+Fiat,Aktuální stav,"Součást koncernu Stellantis. Sídlo v Turíně, Itálie. Zaměření na městské vozy, kompaktní modely a dostupné elektromobily (např. nová Fiat 500e). Silná pozice na evropském a jihoamerickém trhu."
+Fiat,Sídlo,Turín, Itálie
+Fiat,Klíčové modely,"Fiat 500, Panda, Tipo, Punto, Topolino"
+Fiat,Inovace,"TwinAir motory, mild-hybridní technologie, modularita platforem, městská mobilita"
+Fiat,Významná ocenění,"Evropské auto roku (Fiat 500, Punto, Tipo, Panda), Red Dot Design Award"
+Fisker,Datum založení,2007 (první iterace), 2016 (druhá iterace)
+Fisker,Zakladatelé,Henrik Fisker
+Fisker,Historie,"První společnost Fisker Automotive založená Henrikem Fiskerem v roce 2007, představila plug-in hybrid Fisker Karma. Společnost se potýkala s finančními problémy a bankrotem. V roce 2016 byla založena nová společnost Fisker Inc. s cílem vyrábět elektrická vozidla. Současný model Ocean je jejich prvním sériovým vozem."
+Fisker,Ředitelé,Henrik Fisker (CEO a předseda představenstva)
+Fisker,Nepovedené projekty,"Fisker Karma (původní model - problémy s bateriemi, softwarem a dodavatelským řetězcem vedly k bankrotu původní firmy)."
+Fisker,Aktuální stav,"Výrobce elektrických vozidel. Sídlo v Los Angeles, Kalifornie, USA. Zaměření na udržitelnost a inovativní design. Vyrábí SUV Fisker Ocean a plánuje další modely. Čelí výzvám s výrobou a financováním."
+Fisker,Sídlo,Los Angeles, USA
+Fisker,Klíčové modely,"Fisker Ocean, Fisker Karma (historicky)"
+Fisker,Inovace,"Udržitelné materiály, solární střecha (SolarSky), Fisker Flexee App, kalifornský režim (otevřená okna a střecha)"
+Fisker,Významná ocenění,"Red Dot Design Award (pro Ocean), ocenění za udržitelnost"
+Ford,Datum založení,16. června 1903
+Ford,Zakladatelé,Henry Ford
+Ford,Historie,"Založeno Henrym Fordem. Průkopník v hromadné výrobě automobilů a montážní lince (Model T). Zásadně ovlivnil americkou a globální ekonomiku. Dlouholetý lídr v inovacích a výrobě osobních vozů, pick-upů a užitkových vozidel. Globální přítomnost."
+Ford,Ředitelé,"Henry Ford (zakladatel), Henry Ford II (významný leader), Alan Mulally (zachránil Ford před bankrotem), Jim Farley (od 2020)"
+Ford,Nepovedené projekty,"Ford Edsel (1958–1960 - komerční propadák, špatný design a načasování), Ford Pinto (1971–1980 - problémy s palivovou nádrží a bezpečností), Ford Focus RS Mk2 (ne homologovaný v USA, některé země měli problém s emisemi)"
+Ford,Aktuální stav,"Jeden z největších světových výrobců automobilů. Sídlo v Dearbornu, Michigan, USA. Silné zaměření na elektrifikaci (F-150 Lightning, Mustang Mach-E), komerční vozidla a propojené služby. Celosvětová působnost."
+Ford,Sídlo,Dearborn, USA
+Ford,Klíčové modely,"Ford Model T, Mustang, F-150, Focus, Explorer, Bronco, Mach-E"
+Ford,Inovace,"Montážní linka, V8 motor, SYNC infotainment, EcoBoost motory, BlueCruise (hands-free řízení)"
+Ford,Významná ocenění,"North American Car/Truck of the Year, Světové auto roku, četná ocenění za motory a technologie"
+Geely,Datum založení,1986
+Geely,Zakladatelé,Li Shufu
+Geely,Historie,"Založeno Li Shufu jako výrobce ledniček. V roce 1997 vstoupilo do automobilového průmyslu. Rychlý růst a expanze, včetně akvizice Volva (2010), Lotusu (2017), Polestaru a Smartu. Dnes je to globální automobilový gigant s rozsáhlým portfoliem značek a silným zaměřením na technologie a elektromobilitu."
+Geely,Ředitelé,Li Shufu (předseda představenstva)
+Geely,Nepovedené projekty,"Některé rané modely Geely trpěly horší kvalitou a designem ve srovnání se západní konkurencí, ale společnost od té doby výrazně pokročila."
+Geely,Aktuální stav,"Jeden z největších čínských soukromých automobilových výrobců a globální holdingová společnost. Sídlo v Chang-čou, Čína. Vlastní značky jako Geely Auto, Volvo Cars, Polestar, Lotus, Lynk & Co, Zeekr, Smart (společný podnik) a další. Silný důraz na elektrifikaci a nové technologie."
+Geely,Sídlo,Chang-čou, Čína
+Geely,Klíčové modely,"Geely Coolray, Xingyue L (Monjaro), Emgrand, Zeekr 001, Volvo XC90"
+Geely,Inovace,"SEA (Sustainable Experience Architecture) platforma pro EV, inteligentní kokpity, autonomní řízení, vývoj baterií"
+Geely,Významná ocenění,"Četná ocenění za růst a inovace na čínském trhu, ocenění za design u svých dceřiných značek."
+Genesis,Datum založení,2015 (jako samostatná značka)
+Genesis,Zakladatelé,Hyundai Motor Group
+Genesis,Historie,"Původně luxusní divize jihokorejské automobilky Hyundai. V roce 2015 se osamostatnila jako prémiová značka s cílem konkurovat zavedeným luxusním automobilkám. Rychle si získala uznání pro svůj design, kvalitu interiéru a jízdní vlastnosti. Rozšiřuje svou nabídku o SUV a elektrifikované modely."
+Genesis,Ředitelé,Luc Donckerwolke (Chief Creative Officer), Jay Chang (CEO Hyundai Motor Group)
+Genesis,Nepovedené projekty,"Vzhledem k mládí značky se zatím neobjevily výrazné ""nepovedené projekty"". Některé rané modely Hyundai pod označením Genesis (např. Hyundai Genesis sedan) byly kritizovány za nedostatečnou image luxusní značky."
+Genesis,Aktuální stav,"Součást Hyundai Motor Group. Sídlo v Soulu, Jižní Korea. Zaměření na prémiový a luxusní segment. Rychle se etablovala na globálním trhu. Silný důraz na elektrifikaci (např. GV60, Electrified G80) a špičkové technologie."
+Genesis,Sídlo,Soul, Jižní Korea
+Genesis,Klíčové modely,"Genesis G70, G80, G90, GV70, GV80, GV60"
+Genesis,Inovace,"Charakteristický design ""Athletic Elegance"", Face Connect, křišťálový shift-by-wire volič, Highway Driving Assist (HDA)"
+Genesis,Významná ocenění,"North American Car/SUV of the Year, MotorTrend Car of the Year, Red Dot Design Award, Consumer Reports Top Pick"
+GMC,Datum založení,1911 (jako General Motors Truck Company)
+GMC,Zakladatelé,William C. Durant (General Motors)
+GMC,Historie,"Založeno jako divize General Motors zaměřená na nákladní automobily a užitková vozidla. Postupně se rozšířila i na SUV a pick-upy. Známá pro robustnost, schopnosti a prémiové prvky v segmentu užitkových vozidel. Sdílí platformy s Chevroletem, ale s důrazem na vyšší výbavu a design."
+GMC,Ředitelé,Duncan Aldred (viceprezident Global Buick and GMC)
+GMC,Nepovedené projekty,"Některé modely, které byly příliš podobné Chevroletům (např. GMC Envoy XUV), neměly velký úspěch. Obecně se GMC drží konzervativnějšího přístupu, což minimalizuje ""nepovedené"" experimenty."
+GMC,Aktuální stav,"Součást General Motors. Sídlo v Detroitu, USA. Zaměření na prémiové pick-upy, SUV a komerční dodávky. Řada Denali nabízí luxusní výbavu. Postupně rozšiřuje nabídku elektrifikovaných vozidel (např. Hummer EV)."
+GMC,Sídlo,Detroit, USA
+GMC,Klíčové modely,"GMC Sierra, Yukon, Canyon, Acadia, Hummer EV"
+GMC,Inovace,"MultiPro Tailgate (víceúčelové zadní víko), Super Cruise (hands-free řízení), Adaptive Ride Control"
+GMC,Významná ocenění,"JD Power Initial Quality Study, ocenění za robustnost a užitkovost"
+Honda,Datum založení,24. září 1948
+Honda,Zakladatelé,"Soichiro Honda, Takeo Fujisawa"
+Honda,Historie,"Založeno Soichirem Hondou, původně výrobce motocyklů. Největší výrobce motocyklů na světě. Do automobilového průmyslu vstoupila v roce 1963. Známá pro spolehlivost, technické inovace (VTEC motory) a efektivitu. Jedna z největších automobilových společností na světě."
+Honda,Ředitelé,"Soichiro Honda (zakladatel), Toshihiro Mibe (od 2021)"
+Honda,Nepovedené projekty,"Honda Element (2003–2011 - kontroverzní design, omezená praktičnost pro některé), Honda Insight (první generace - velmi efektivní, ale nízké prodeje kvůli nekonvenčnímu designu), Honda CR-Z (hybridní sportovní auto, nerozhodný koncept)"
+Honda,Aktuální stav,"Jeden z největších světových výrobců automobilů, motocyklů a energetických zařízení. Sídlo v Tokiu, Japonsko. Silný důraz na elektrifikaci (hybridy, BEV), vodíkové palivové články a autonomní řízení. Globální působnost."
+Honda,Sídlo,Tokio, Japonsko
+Honda,Klíčové modely,"Honda Civic, Accord, CR-V, Pilot, Ridgeline, NSX"
+Honda,Inovace,"VTEC motory, i-VTEC, Earth Dreams Technology, Honda Sensing (bezpečnostní balíček), vodíkové palivové články (Clarity Fuel Cell)"
+Honda,Významná ocenění,"MotorTrend Car of the Year, Consumer Reports Top Pick, četná ocenění za spolehlivost a efektivitu"
+Hongqi,Datum založení,1958
+Hongqi,Zakladatelé,FAW Group (čínský stát)
+Hongqi,Historie,"První čínská luxusní automobilová značka, původně určená pro vládní úředníky a vysoce postavené osobnosti. Symbol čínské národní hrdosti. Dlouholetá výroba exkluzivních limuzín. V posledních letech se snaží expandovat na komerční trh s prémiovými a luxusními SUV a sedany, včetně elektromobilů."
+Hongqi,Ředitelé,Xu Liuping (předseda představenstva FAW Group)
+Hongqi,Nepovedené projekty,"Některé rané modely byly kritizovány za vysokou cenu a omezenou dostupnost pro běžné spotřebitele, což bránilo masovému rozšíření."
+Hongqi,Aktuální stav,"Luxusní značka spadající pod FAW Group. Sídlo v Čchang-čchunu, Čína. Zaměření na domácí luxusní trh a expanzi do zahraničí. Silný důraz na design, komfort a elektrifikaci (např. E-HS9)."
+Hongqi,Sídlo,Čchang-čchun, Čína
+Hongqi,Klíčové modely,"Hongqi CA770 (historicky), H9, E-HS9, H5"
+Hongqi,Inovace,"Tradiční čínský design, pokročilé technologie autonomního řízení, elektrické pohony, luxusní interiéry"
+Hongqi,Významná ocenění,"Ocenění za design na čínském trhu, uznání jako národní luxusní značka"
+Hyundai,Datum založení,29. prosince 1967
+Hyundai,Zakladatelé,Chung Ju-yung
+Hyundai,Historie,"Založeno Chung Ju-yungem jako divize Hyundai Engineering and Construction. Původně montovala vozy Ford, poté začala vyrábět vlastní modely (Pony). Rychlý růst v 90. letech díky agresivní cenové politice a zlepšování kvality. Dnes globální automobilový gigant s důrazem na design, technologie a elektromobilitu (IONIQ)."
+Hyundai,Ředitelé,"Chung Ju-yung (zakladatel), Euisun Chung (předseda Hyundai Motor Group)"
+Hyundai,Nepovedené projekty,"Hyundai Scoupe (1990–1995 - nízký výkon, nevýrazný design), Hyundai Excel (rané modely 80. let - kritizovány za spolehlivost, ale pomohly firmě na trh)"
+Hyundai,Aktuální stav,"Jeden z největších světových výrobců automobilů. Sídlo v Soulu, Jižní Korea. Silný důraz na elektrifikaci (IONIQ řada), vodíkové palivové články a robotiku. Vlastní značky Kia a Genesis. Globální působnost."
+Hyundai,Sídlo,Soul, Jižní Korea
+Hyundai,Klíčové modely,"Hyundai Elantra, Sonata, Santa Fe, Tucson, Kona Electric, IONIQ 5"
+Hyundai,Inovace,"Nexo (vodíkové palivové články), E-GMP (Electric Global Modular Platform), Bluelink konektivita, SmartSense (bezpečnostní balíček)"
+Hyundai,Významná ocenění,"North American Car/SUV of the Year, World Car of the Year, Red Dot Design Award, JD Power Initial Quality Study"
+Jaguar,Datum založení,1922 (jako Swallow Sidecar Company), 1945 (Jaguar Cars Ltd.)
+Jaguar,Zakladatelé,"William Lyons, William Walmsley"
+Jaguar,Historie,"Založeno jako výrobce motocyklových sajdkár, později se zaměřilo na sportovní automobily a luxusní sedany. Značka je synonymem pro elegantní design, sportovní výkony a britský luxus. Ikonické modely jako E-Type. Mělo složitou historii vlastnictví (British Leyland, Ford). Dnes součást Tata Motors."
+Jaguar,Ředitelé,"William Lyons (zakladatel), Adrian Mardell (CEO Jaguar Land Rover)"
+Jaguar,Nepovedené projekty,"Jaguar X-Type (2001–2009 - rebadge Ford Mondeo, kritizován za nedostatečnou ""Jaguar"" identitu), Jaguar XJS (rané modely - problémy se spolehlivostí)"
+Jaguar,Aktuální stav,"Součást Jaguar Land Rover (JLR), patřící indické Tata Motors. Sídlo v Coventry, Velká Británie. Zaměření na luxusní a sportovní vozy. Plánuje se stát plně elektrickou luxusní značkou do roku 2025 s novou platformou a posunutím na vyšší luxusní úroveň."
+Jaguar,Sídlo,Coventry, Velká Británie
+Jaguar,Klíčové modely,"Jaguar E-Type, XJ, F-Type, I-PACE, F-PACE"
+Jaguar,Inovace,"Hliníkové platformy, InControl infotainment, elektrické pohony (I-PACE)"
+Jaguar,Významná ocenění,"World Car of the Year (I-PACE), Evropské auto roku, četná ocenění za design a sportovní výkony"
+Jeep,Datum založení,1941 (původní vozidlo Willys MB), 1945 (civilní Willys-Overland), 1963 (Jeep Corporation)
+Jeep,Zakladatelé,"Willys-Overland (pro armádu), později různí majitelé"
+Jeep,Historie,"Původně navrženo pro americkou armádu (Willys MB) během 2. světové války. Po válce se stalo symbolem terénní mobility a dobrodružství pro civilní použití. Prošlo mnoha vlastnickými změnami (Willys-Overland, Kaiser-Jeep, AMC, Chrysler). Dnes silná globální značka, synonymum pro SUV a off-road schopnosti."
+Jeep,Ředitelé,Antonio Filosa (CEO Jeep Brand)
+Jeep,Nepovedené projekty,"Jeep Cherokee KL (2014–2023 - kontroverzní design přední části, rané problémy s převodovkou), Jeep Commander (2006–2010 - velký SUV, ale vysoká spotřeba a nižší prodeje)"
+Jeep,Aktuální stav,"Součást koncernu Stellantis. Sídlo v Auburn Hills, Michigan, USA. Zaměření na SUV a terénní vozidla s důrazem na off-road schopnosti a ikonický design. Rychle rozšiřuje nabídku elektrifikovaných modelů (např. Wrangler 4xe, Avenger)."
+Jeep,Sídlo,Auburn Hills, USA
+Jeep,Klíčové modely,"Jeep Wrangler, Cherokee, Grand Cherokee, Compass, Gladiator"
+Jeep,Inovace,"Quadra-Trac/Drive pohony 4x4, Trail Rated certifikace, Uconnect infotainment, plug-in hybridní technologie 4xe"
+Jeep,Významná ocenění,"North American Utility Vehicle of the Year, JD Power Initial Quality Study, četná ocenění za off-road schopnosti"
+Kia,Datum založení,11. prosince 1944 (jako Kyungsung Precision Industry)
+Kia,Zakladatelé,Kim Chul-ho
+Kia,Historie,"Založeno jako výrobce ocelových trubek a jízdních kol. Později se zaměřilo na motocykly a nákladní automobily. V roce 1974 vyrobilo svůj první osobní automobil (Brisa). V roce 1997 čelilo bankrotu a bylo zachráněno Hyundai Motor Company. Od té doby zažívá obrovský růst díky agresivnímu designu, kvalitě a technologiím."
+Kia,Ředitelé,"Ho Sung Song (prezident a CEO)"
+Kia,Nepovedené projekty,"Kia Sephia (rané modely - kritizovány za méně atraktivní design a nižší kvalitu interiéru ve srovnání s japonskou konkurencí), Kia Opirus (v USA známá jako Amanti - snaha o luxusní vůz, ale nenaplnila očekávání)"
+Kia,Aktuální stav,"Součást Hyundai Motor Group. Sídlo v Soulu, Jižní Korea. Zaměření na inovativní design, moderní technologie a elektrifikaci (EV6, EV9). Globální působnost, silná pozice na mnoha trzích."
+Kia,Sídlo,Soul, Jižní Korea
+Kia,Klíčové modely,"Kia Sportage, Sorento, Carnival, Telluride, EV6, EV9"
+Kia,Inovace,"Designová filozofie ""Opposites United"", E-GMP (Electric Global Modular Platform), UVO konektivita, Kia Connect, digitální kokpity"
+Kia,Významná ocenění,"Red Dot Design Award, World Car of the Year (EV6), North American Utility Vehicle of the Year, JD Power Initial Quality Study"
+Lancia,Datum založení,29. listopadu 1906
+Lancia,Zakladatelé,Vincenzo Lancia
+Lancia,Historie,"Založeno Vincenzem Lanciou, známé pro inovativní technická řešení a elegantní design. Průkopník v oblasti nezávislého zavěšení kol, samonosných karoserií (Lambda) a V-motorů s úzkým úhlem. Dlouholeté úspěchy v motoristickém sportu (rallye). Prošla řadou vlastnických změn, dnes součást Stellantis a zaměřena na oživení značky."
+Lancia,Ředitelé,"Vincenzo Lancia (zakladatel), Luca Napolitano (CEO Lancia Brand)"
+Lancia,Nepovedené projekty,"Lancia Thema (Chrysler 300C rebadge, poškodil image značky), Lancia Beta (rané modely s problémy s korozí), Lancia Kappa (nedosáhl očekávaných prodejů v luxusním segmentu)"
+Lancia,Aktuální stav,"Součást koncernu Stellantis. Sídlo v Turíně, Itálie. Značka prochází oživením s novým modelem Ypsilon a zaměřením na elektrifikaci a luxusní segment. Cílem je návrat na mezinárodní trhy s prémiovými modely."
+Lancia,Sídlo,Turín, Itálie
+Lancia,Klíčové modely,"Lancia Delta (Integrale), Stratos, Fulvia, Lambda, Ypsilon"
+Lancia,Inovace,"Samonosná karoserie, hydropneumatické odpružení (spolupráce s Citroënem), úzké V-motory, ALA aerodynamika"
+Lancia,Významná ocenění,"Četná vítězství v mistrovství světa v rallye (WRC), ocenění za design a technické inovace"
+Leapmotor,Datum založení,2015
+Leapmotor,Zakladatelé,"Zhu Jiangming, Fu Liquan"
+Leapmotor,Historie,"Čínský výrobce elektromobilů zaměřený na chytré technologie a cenovou dostupnost. Společnost se rychle rozvíjí s podporou strategických investic. Klade důraz na vlastní vývoj klíčových komponentů, jako jsou motory, baterie a software. Spolupráce se Stellantis pro globální expanzi."
+Leapmotor,Ředitelé,Zhu Jiangming (předseda a CEO)
+Leapmotor,Nepovedené projekty,"Jako relativně mladá značka se zatím neobjevily výrazné ""nepovedené projekty"". Rané fáze růstu jsou spojeny s výzvami masové výroby a budování značky."
+Leapmotor,Aktuální stav,"Čínský výrobce elektromobilů. Sídlo v Chang-čou, Čína. Nabízí širokou škálu EV modelů, od městských vozů po SUV a sedany. V roce 2023 navázala strategické partnerství se Stellantis pro expanzi na mezinárodní trhy, zejména do Evropy."
+Leapmotor,Sídlo,Chang-čou, Čína
+Leapmotor,Klíčové modely,"Leapmotor T03, C11, C01"
+Leapmotor,Inovace,"Vlastní platforma pro EV (Leap3.0), CTC (Cell-to-Chassis) technologie baterií, inteligentní kokpit Leapmotor OS"
+Leapmotor,Významná ocenění,"Ocenění za technologické inovace na čínském trhu, uznání za růst v segmentu EV"
+Lexus,Datum založení,1989
+Lexus,Zakladatelé,Toyota Motor Corporation
+Lexus,Historie,"Založeno společností Toyota jako luxusní divize s cílem konkurovat německým prémiovým značkám na severoamerickém trhu. Rychle si získalo pověst pro bezkonkurenční spolehlivost, kvalitu a špičkový zákaznický servis. V průběhu let rozšířilo svou nabídku o sportovní a hybridní modely. Dnes globální luxusní značka."
+Lexus,Ředitelé,"Akio Toyoda (bývalý prezident Toyota, stál za posunem Lexusu), Koji Sato (bývalý prezident Lexus International)"
+Lexus,Nepovedené projekty,"Lexus SC 430 (2001–2010 - kritizován za design a jízdní vlastnosti), Lexus HS 250h (2009–2012 - nevýrazný hybridní sedan, nízké prodeje)"
+Lexus,Aktuální stav,"Luxusní divize Toyota Motor Corporation. Sídlo v Nagoji, Japonsko. Zaměření na prémiový a luxusní segment s důrazem na komfort, spolehlivost a hybridní technologie. Postupně rozšiřuje nabídku plně elektrických modelů."
+Lexus,Sídlo,Nagoja, Japonsko
+Lexus,Klíčové modely,"Lexus LS, RX, ES, IS, LFA, LC"
+Lexus,Inovace,"Hybridní pohon Lexus Hybrid Drive, Remote Touch Interface, Mark Levinson audio systémy, Lexus Safety System+"
+Lexus,Významná ocenění,"JD Power Initial Quality Study (často nejvyšší hodnocení), Consumer Reports Top Pick, četná ocenění za spolehlivost a zákaznický servis"
+Lotus,Datum založení,1948
+Lotus,Zakladatelé,Colin Chapman
+Lotus,Historie,"Založeno Colinem Chapmanem, známé pro lehké sportovní vozy s vynikající ovladatelností a filozofií ""Simplify, then add lightness"". Silná historie v motoristickém sportu (Formule 1). Prošlo mnoha vlastnickými změnami, dnes součást Geely Holding. Zaměřuje se na oživení značky s novými elektrickými modely."
+Lotus,Ředitelé,"Colin Chapman (zakladatel), Feng Qingfeng (CEO Group Lotus)"
+Lotus,Nepovedené projekty,"Lotus Elan M100 (1989–1995 - pohon předních kol, kontroverzní pro puristy), Lotus Europa S (2006–2010 - nebyl přijat tak dobře jako Elise/Exige)"
+Lotus,Aktuální stav,"Součást Geely Holding. Sídlo v Hethelu, Velká Británie. Zaměření na sportovní vozy a superauta. Prochází transformací směrem k elektrifikaci a novým modelům (např. Emira, Eletre). Otevření nové výrobní linky v Číně."
+Lotus,Sídlo,Hethel, Velká Británie
+Lotus,Klíčové modely,"Lotus Elan, Esprit, Elise, Exige, Evora, Emira, Eletre"
+Lotus,Inovace,"Lehké materiály (hliník, karbon), šasi s lepenými spoji, aerodynamika, elektrické pohony"
+Lotus,Významná ocenění,"Četná vítězství ve Formuli 1, ocenění za ovladatelnost a jízdní dynamiku"
+Lucid,Datum založení,2007 (jako Atieva), 2016 (jako Lucid Motors)
+Lucid,Zakladatelé,"Bernard Tse, Sam Weng (původní Atieva), Peter Rawlinson (CEO Lucid Motors)"
+Lucid,Historie,"Původně založeno jako výrobce baterií a pohonů pro elektromobily (Atieva). V roce 2016 se přejmenovalo na Lucid Motors a začalo se soustředit na výrobu luxusních elektrických vozidel. První model, Lucid Air, je známý pro svůj dlouhý dojezd a vysoký výkon. Velké investice od Public Investment Fund ze Saúdské Arábie."
+Lucid,Ředitelé,Peter Rawlinson (CEO a CTO)
+Lucid,Nepovedené projekty,"Jako relativně mladá značka se zatím neobjevily výrazné ""nepovedené projekty"". Rané výzvy jsou spojeny s náběhem výroby a logistikou."
+Lucid,Aktuální stav,"Výrobce luxusních elektromobilů. Sídlo v Newarku, Kalifornie, USA. Zaměření na prémiový segment, výkon a dojezd. Vyrábí model Lucid Air a připravuje SUV Lucid Gravity. Silná konkurence na trhu s luxusními EV."
+Lucid,Sídlo,Newark, USA
+Lucid,Klíčové modely,"Lucid Air, Lucid Gravity (připravuje se)"
+Lucid,Inovace,"Vlastní pohonné ústrojí (Leap motor), nejdelší dojezd na jedno nabití (pro EV), rychlé nabíjení, Micro Lens Array světlomety"
+Lucid,Významná ocenění,"MotorTrend Car of the Year (Lucid Air), World Luxury Car of the Year (Lucid Air), ocenění za dojezd a výkon"
+Mazda,Datum založení,30. ledna 1920 (jako Toyo Cork Kogyo Co., Ltd.)
+Mazda,Zakladatelé,Jujiro Matsuda
+Mazda,Historie,"Založeno Jujiro Matsudou, původně výrobce korkových výrobků, poté obráběcích strojů a tříkolových nákladních vozidel. V roce 1960 vyrobilo svůj první osobní automobil (R360 Coupe). Známá pro jedinečné rotační (Wankelovy) motory a designovou filozofii Kodo. Snaží se být alternativou k mainstreamovým značkám."
+Mazda,Ředitelé,"Jujiro Matsuda (zakladatel), Masahiro Moro (CEO a prezident)"
+Mazda,Nepovedené projekty,"Mazda Millenia (1995–2002 - luxusní sedan s Miller cyklem motoru, nedosáhl očekávaných prodejů), rané modely s Wankelovým motorem trpěly problémy se spolehlivostí a spotřebou oleje."
+Mazda,Aktuální stav,"Nezávislý japonský výrobce automobilů. Sídlo v Hirošimě, Japonsko. Zaměření na design (Kodo), prémiový pocit a jízdní dynamiku. Rozšiřuje svou nabídku o SUV a elektrifikované modely (mild-hybridy, plug-in hybridy, MX-30 EV)."
+Mazda,Sídlo,Hirošima, Japonsko
+Mazda,Klíčové modely,"Mazda MX-5 Miata, RX-7, 3, CX-5, CX-90"
+Mazda,Inovace,"Rotační motory (Wankel), Skyactiv Technology (optimalizace motorů a platforem), Kodo designová filozofie, G-Vectoring Control"
+Mazda,Významná ocenění,"World Car Design of the Year, JD Power Initial Quality Study, ocenění za jízdní dynamiku a motory"
+Mercedes-Benz,Datum založení,1886 (Karl Benz - Benz Patent-Motorwagen, Gottlieb Daimler - Daimler Motoren Gesellschaft), 1926 (fúze Daimler-Benz)
+Mercedes-Benz,Zakladatelé,"Karl Benz, Gottlieb Daimler, Wilhelm Maybach"
+Mercedes-Benz,Historie,"Považována za vynálezce automobilu (Benz Patent-Motorwagen). Fúze Daimler Motoren Gesellschaft a Benz & Cie. v roce 1926 vytvořila Daimler-Benz. Symbol luxusu, inženýrství a inovací. Dlouholetá dominance v prémiovém segmentu. Silná historie v motoristickém sportu."
+Mercedes-Benz,Ředitelé,"Karl Benz, Gottlieb Daimler (zakladatelé), Ola Källenius (předseda představenstva Mercedes-Benz Group AG)"
+Mercedes-Benz,Nepovedené projekty,"Mercedes-Benz A-Class (první generace - problém s losím testem, brzy opraveno), Mercedes-Benz C-Class (W203 - rané modely s problémy s korozí a elektronikou), Maybach (oživení nebylo komerčně tak úspěšné jako původní záměr)"
+Mercedes-Benz,Aktuální stav,"Jeden z největších světových výrobců luxusních automobilů. Sídlo ve Stuttgartu, Německo. Silný důraz na elektrifikaci (EQ řada), digitalizaci (MBUX) a autonomní řízení. Rozsáhlé portfolio od kompaktních vozů po luxusní limuzíny a SUV."
+Mercedes-Benz,Sídlo,Stuttgart, Německo
+Mercedes-Benz,Klíčové modely,"Mercedes-Benz S-Class, C-Class, E-Class, G-Class, EQS, AMG GT"
+Mercedes-Benz,Inovace,"ABS, airbag, PRE-SAFE, MBUX infotainment, EQ elektrické platformy, Multibeam LED světlomety"
+Mercedes-Benz,Významná ocenění,"Světové auto roku, Zlatý volant, četná ocenění za design, inovace a bezpečnost, úspěchy ve Formuli 1"
+MG,Datum založení,1924 (Morris Garages)
+MG,Zakladatelé,Cecil Kimber
+MG,Historie,"Původně britská automobilka známá pro sportovní vozy a roadstery (např. MGB). Dlouholetá historie v motoristickém sportu. Prošla mnoha vlastnickými problémy a bankroty. V roce 2007 značku koupila čínská SAIC Motor. Dnes se zaměřuje na cenově dostupné osobní vozy, SUV a elektromobily."
+MG,Ředitelé,"Cecil Kimber (zakladatel), William Wang (CEO MG Motor UK)"
+MG,Nepovedené projekty,"MG Rover (poslední fáze před bankrotem - zastaralé modely, problémy s kvalitou), MG TF (poslední britská generace - nízké prodeje, omezená konkurenceschopnost)"
+MG,Aktuální stav,"Součást čínské SAIC Motor. Sídlo v Londýně, Velká Británie (design a vývoj) a Shanghai, Čína (mateřská společnost). Zaměření na cenově dostupné a elektrifikované vozy pro globální trhy (zejména Evropa a Asie). Rychlý růst prodejů EV."
+MG,Sídlo,Londýn, Velká Británie / Shanghai, Čína
+MG,Klíčové modely,"MG ZS EV, MG4 EV, MG HS, MGB (historicky)"
+MG,Inovace,"Nové platformy pro EV, bateriové technologie, iSmart konektivita, dostupná elektrifikace"
+MG,Významná ocenění,"Ocenění za hodnotu za peníze, ocenění za elektromobily v Evropě (např. MG4)"
+Mini,Datum založení,1959 (původní Mini), 2001 (BMW Mini)
+Mini,Zakladatelé,"Sir Alec Issigonis (původní Mini), BMW (novodobé Mini)"
+Mini,Historie,"Původní Mini bylo revoluční britské malé auto navržené Alecem Issigonisem. Známé pro své prostorové řešení, ovladatelnost a ikonický design. Silná historie v motoristickém sportu (Monte Carlo Rallye). Značku v roce 1994 koupila BMW a v roce 2001 představila moderní reinkarnaci. Dnes prémiová značka s retro designem."
+Mini,Ředitelé,"Sir Alec Issigonis (tvůrce původního Mini), Stefanie Wurst (šéfka Mini Brand)"
+Mini,Nepovedené projekty,"Mini Countryman (první generace - kritizován za velikost, ""ne-Mini"" pocit), Mini Paceman (nízké prodeje, byl rychle ukončen)"
+Mini,Aktuální stav,"Součást BMW Group. Sídlo v Oxfordu, Velká Británie. Zaměření na prémiové malé vozy s charakteristickým retro designem a sportovním duchem. Rozšiřuje svou nabídku o elektrifikované modely (např. Mini Cooper Electric) a SUV. Cílem je stát se plně elektrickou značkou."
+Mini,Sídlo,Oxford, Velká Británie
+Mini,Klíčové modely,"Mini Cooper, Countryman, Clubman, Mini Electric"
+Mini,Inovace,"Charakteristický design, go-kart feeling (jízdní projev), digitální kokpit, adaptivní odpružení"
+Mini,Významná ocenění,"Evropské auto roku (původní Mini), North American Car of the Year, Red Dot Design Award"
+Nio,Datum založení,2014
+Nio,Zakladatelé,William Li (Li Bin)
+Nio,Historie,"Čínský výrobce prémiových elektromobilů. Klade důraz na inovace, technologie a prémiový zákaznický servis (např. Battery Swap Stations, Nio House). Rychle si získalo popularitu na čínském trhu a expanduje do Evropy. Založeno s vizí ""uživatelské společnosti""."
+Nio,Ředitelé,William Li (CEO a zakladatel)
+Nio,Nepovedené projekty,"Nio ES8 (rané modely - problémy s výrobou a dodávkami v prvních fázích, omezená síť nabíjecích stanic mimo velká města)."
+Nio,Aktuální stav,"Čínský výrobce prémiových elektromobilů. Sídlo v Šanghaji, Čína. Zaměření na luxusní a technologicky vyspělé EV (SUV, sedany). Provozuje jedinečný systém výměny baterií (Battery Swap). Aktivně expanduje na evropské trhy (Norsko, Německo, Nizozemsko, Dánsko, Švédsko)."
+Nio,Sídlo,Šanghaj, Čína
+Nio,Klíčové modely,"Nio ES8, ES6, ET7, ET5, EC7"
+Nio,Inovace,"Battery Swap Technology (výměna baterií), Nio House (komunitní centra), NOMI (AI asistent), autonomní řízení (Aquila Super Sensing)"
+Nio,Významná ocenění,"Ocenění za technologické inovace, nejrychlejší doba nabíjení/výměny baterií, ocenění za zákaznický servis"
+Nissan,Datum založení,26. prosince 1933 (jako Jidosha Seizo Co., Ltd., později Nissan Motor Co., Ltd.)
+Nissan,Zakladatelé,"Yoshisuke Aikawa (Nissan Konzern), Kenjiro Den, Rokuro Aoyama, Meitaro Takeuchi (původní DAT Motors)"
+Nissan,Historie,"Původně jako Jidosha Seizo Co., Ltd., později se jméno změnilo na Nissan Motor Co., Ltd. Dlouholetý výrobce osobních automobilů, pick-upů a užitkových vozidel. Známý pro modely jako Z-series, Skyline GT-R a v posledních letech pro elektrický Leaf. Prošel strategickou aliancí s Renaultem a Mitsubihsi."
+Nissan,Ředitelé,"Yoshisuke Aikawa (zakladatel), Makoto Uchida (CEO)"
+Nissan,Nepovedené projekty,"Nissan Murano CrossCabriolet (2011–2014 - neúspěšná kombinace SUV a kabrioletu), Nissan Quest (minivan - ztrácel prodeje vůči konkurenci), rané modely s CVT převodovkou trpěly problémy se spolehlivostí."
+Nissan,Aktuální stav,"Jeden z největších světových výrobců automobilů. Sídlo v Jokohamě, Japonsko. Součást aliance Renault-Nissan-Mitsubishi. Zaměření na elektrifikaci (Nissan Leaf, Ariya), SUV a dostupné modely. Prochází reorganizací a zefektivněním provozu."
+Nissan,Sídlo,Jokohama, Japonsko
+Nissan,Klíčové modely,"Nissan Leaf, Qashqai, Rogue (X-Trail), GT-R, Z, Titan"
+Nissan,Inovace,"ProPILOT Assist (asistent řízení), e-POWER (sériový hybrid), V-Motion design, Zero Emission strategie (EV)"
+Nissan,Významná ocenění,"World Car of the Year (Nissan Leaf), MotorTrend SUV of the Year, četná ocenění za spolehlivost a efektivitu."
+Opel,Datum založení,21. ledna 1862 (jako výrobce šicích strojů), 1899 (výroba automobilů)
+Opel,Zakladatelé,Adam Opel
+Opel,Historie,"Založeno Adamem Opelem jako výrobce šicích strojů, poté jízdních kol. V roce 1899 začalo vyrábět automobily. Dlouholetá německá značka s historií masové výroby dostupných a spolehlivých vozů. Od roku 1929 do 2017 součást General Motors. V roce 2017 koupeno skupinou PSA, dnes součást Stellantis."
+Opel,Ředitelé,"Adam Opel (zakladatel), Florian Huettl (šéf Opel Brand)"
+Opel,Nepovedené projekty,"Opel Signum (2003–2008 - neúspěšný pokus o prémiový crossover), Opel Agila (první generace - kritizován za nízkou kvalitu materiálů), Opel Vectra C (rané modely s problémy s elektronikou)"
+Opel,Aktuální stav,"Součást koncernu Stellantis. Sídlo v Rüsselsheimu, Německo. Zaměření na moderní, dostupné a technologicky vyspělé vozy pro evropský trh. Silný důraz na elektrifikaci (několik modelů s plně elektrickým pohonem) a digitalizaci."
+Opel,Sídlo,Rüsselsheim, Německo
+Opel,Klíčové modely,"Opel Astra, Corsa, Zafira, Mokka, Grandland, Insignia"
+Opel,Inovace,"Adaptivní maticové světlomety IntelliLux LED, Pure Panel kokpit, Intelli-Drive asistenční systémy, elektrické pohony"
+Opel,Významná ocenění,"Evropské auto roku (např. Astra, Ampera), Zlatý volant, ocenění za design a bezpečnost"
+ORA,Datum založení,2018
+ORA,Zakladatelé,Great Wall Motor (GWM)
+ORA,Historie,"Podznačka čínského výrobce Great Wall Motor, zaměřená výhradně na elektromobily. Založena s cílem oslovit mladší a ženské publikum s vozy s retro-futuristickým designem a bohatou výbavou. Rychle roste na domácím čínském trhu a expanduje do Evropy (např. Funky Cat / 03)."
+ORA,Ředitelé,"Mu Feng (prezident Great Wall Motor), Tony Whitehorn (CEO GWM ORA Europe)"
+ORA,Nepovedené projekty,"Jako velmi mladá značka se zatím neobjevily výrazné ""nepovedené projekty"". Rané výzvy jsou spojeny s budováním povědomí o značce mimo Čínu."
+ORA,Aktuální stav,"Značka elektromobilů pod Great Wall Motor. Sídlo v Pao-tingu, Čína. Zaměření na stylové, chytré a elektrické městské vozy. Aktivně expanduje na evropské trhy s modely jako ORA 03 (Funky Cat) a dalšími EV. Cílem je stát se globálním hráčem v segmentu EV."
+ORA,Sídlo,Pao-ting, Čína
+ORA,Klíčové modely,"ORA Good Cat (03), ORA Ballet Cat, ORA Punk Cat"
+ORA,Inovace,"Retro-futuristický design, inteligentní konektivita, pokročilé asistenční systémy, bezbateriové technologie"
+ORA,Významná ocenění,"Ocenění za design na čínském trhu, uznání za inovace v segmentu EV"
+Peugeot,Datum založení,1810 (rodinný podnik), 1882 (výroba jízdních kol), 1891 (výroba automobilů)
+Peugeot,Zakladatelé,"Armand Peugeot (automobily), Jean-Pierre Peugeot (rodinný podnik)"
+Peugeot,Historie,"Rodinný podnik s dlouhou historií, původně výrobce mlýnků na kávu, jízdních kol a nástrojů. V roce 1891 začal vyrábět automobily. Dlouholetá francouzská automobilka s inovativním designem, spolehlivostí a úspěchy v motoristickém sportu. Součást skupiny PSA, dnes Stellantis."
+Peugeot,Ředitelé,"Armand Peugeot (zakladatel automobilky), Linda Jackson (šéfka Peugeot Brand)"
+Peugeot,Nepovedené projekty,"Peugeot 1007 (2005–2009 - drahý, těžký, klouzavé dveře, nízké prodeje), Peugeot 607 (2000–2010 - luxusní sedan, který se snažil konkurovat německé prémii, ale neúspěšně), rané modely s Multiplex elektrickým systémem."
+Peugeot,Aktuální stav,"Součást koncernu Stellantis. Sídlo v Paříži, Francie. Zaměření na moderní design, prémiový pocit a technologii i-Cockpit. Silný důraz na elektrifikaci (plně elektrické a plug-in hybridní modely) a udržitelnost. Globální působnost."
+Peugeot,Sídlo,Paříž, Francie
+Peugeot,Klíčové modely,"Peugeot 205, 308, 2008, 3008, 5008, 508"
+Peugeot,Inovace,"i-Cockpit, PureTech motory, Hybrid4 pohon, elektrické pohony, Black Pack design"
+Peugeot,Významná ocenění,"Evropské auto roku (např. 308, 3008), Zlatý volant, ocenění za design a efektivitu"
+Polestar,Datum založení,1996 (jako závodní tým), 2017 (jako samostatná značka)
+Polestar,Zakladatelé,Volvo Car Corporation (dnes součást Geely)
+Polestar,Historie,"Původně závodní tým a výkonná divize Volva, známá pro optimalizaci výkonu a sportovních komponent. V roce 2017 se osamostatnila jako prémiová značka zaměřená výhradně na vysoce výkonné elektromobily. Klade důraz na minimalistický skandinávský design, udržitelnost a digitální inovace."
+Polestar,Ředitelé,Thomas Ingenlath (CEO)
+Polestar,Nepovedené projekty,"Jako velmi mladá značka se zatím neobjevily výrazné ""nepovedené projekty"". Rané výzvy jsou spojeny s budováním povědomí o značce a servisní sítě."
+Polestar,Aktuální stav,"Výrobce elektrických vozidel. Součást Geely Holding (spolu s Volvo Cars). Sídlo v Göteborgu, Švédsko. Zaměření na prémiové elektrické sedany a SUV. Rychle roste na globálním trhu. Aktivně se snaží o uhlíkově neutrální výrobu."
+Polestar,Sídlo,Göteborg, Švédsko
+Polestar,Klíčové modely,"Polestar 1, Polestar 2, Polestar 3, Polestar 4"
+Polestar,Inovace,"Minimalistický design, Android Automotive OS, udržitelné materiály, vysokovýkonné elektrické pohony, Polestar Performance Pack"
+Polestar,Významná ocenění,"Red Dot Design Award, Zlatý volant, ocenění za udržitelnost a inovace v EV"
+Porsche,Datum založení,1931
+Porsche,Zakladatelé,Ferdinand Porsche
+Porsche,Historie,"Založeno Ferdinandem Porschem, původně konstruktérská kancelář (např. návrh VW Brouk). První vlastní sportovní vůz, Porsche 356, v roce 1948. Značka je synonymem pro sportovní výkony, precizní inženýrství a ikonický design (911). Dlouholeté úspěchy v motoristickém sportu (Le Mans). Dnes součást Volkswagen Group."
+Porsche,Ředitelé,"Ferdinand Porsche (zakladatel), Oliver Blume (předseda představenstva)"
+Porsche,Nepovedené projekty,"Porsche 914 (1969–1976 - společný projekt s VW, kritizován puristy jako ""pravé Porsche""), Porsche 924 (1976–1988 - původně Audi/VW model, považován za méně exkluzivní než 911)."
+Porsche,Aktuální stav,"Výrobce luxusních sportovních automobilů a SUV. Součást Volkswagen Group. Sídlo ve Stuttgartu, Německo. Silný důraz na sportovní výkony, design, digitalizaci a elektrifikaci (Taycan, Macan EV). Stabilní ziskovost a vysoká hodnota značky."
+Porsche,Sídlo,Stuttgart, Německo
+Porsche,Klíčové modely,"Porsche 911, Cayenne, Panamera, Macan, Taycan"
+Porsche,Inovace,"Ploché motory (boxer), PDK převodovka, Porsche Stability Management (PSM), adaptivní podvozek PASM, elektrický pohon (Taycan)"
+Porsche,Významná ocenění,"World Performance Car of the Year, Zlatý volant, četná vítězství v motoristickém sportu (Le Mans, WEC), ocenění za spolehlivost a design"
+Ram,Datum založení,2009 (jako samostatná značka)
+Ram,Zakladatelé,FCA (nyní Stellantis)
+Ram,Historie,"Původně značka pick-upů pod Dodge (Dodge Ram). V roce 2009 se osamostatnila jako plnohodnotná značka pod Fiat Chrysler Automobiles (FCA). Zaměřuje se výhradně na výrobu pick-upů a užitkových dodávek. Známá pro robustnost, výkon a luxusní interiéry. Velký úspěch na severoamerickém trhu."
+Ram,Ředitelé,Tim Kuniskis (CEO Ram Brand)
+Ram,Nepovedené projekty,"Jako poměrně mladá samostatná značka se neobjevily výrazné ""nepovedené projekty"". Před oddělením od Dodge byly některé modely Ram součástí širší kritiky Dodge."
+Ram,Aktuální stav,"Součást koncernu Stellantis. Sídlo v Auburn Hills, Michigan, USA. Zaměření na pick-upy a užitkové vozy. Silná pozice na severoamerickém trhu. Rozšiřuje nabídku elektrifikovaných verzí (např. Ram 1500 REV) a pokračuje v inovacích v segmentu nákladních vozidel."
+Ram,Sídlo,Auburn Hills, USA
+Ram,Klíčové modely,"Ram 1500, 2500, 3500, ProMaster"
+Ram,Inovace,"Multi-Function Tailgate, Uconnect infotainment, RamBox úložný systém, E-Torque mild-hybrid systém"
+Ram,Významná ocenění,"MotorTrend Truck of the Year, JD Power Initial Quality Study, ocenění za užitkovost a luxusní výbavu v segmentu pick-upů"
+Renault,Datum založení,25. února 1899
+Renault,Zakladatelé,"Louis Renault, Marcel Renault, Fernand Renault"
+Renault,Historie,"Založeno bratry Renaultovými. Dlouholetý francouzský výrobce automobilů, dodávek a sportovních vozů. Průkopník v inovacích a masové výrobě. Silná historie v motoristickém sportu (Formule 1). Vedoucí postavení v segmentu malých vozů a rodinných automobilů. Součást aliance Renault-Nissan-Mitsubishi."
+Renault,Ředitelé,"Louis Renault (zakladatel), Luca de Meo (CEO Renault Group)"
+Renault,Nepovedené projekty,"Renault Vel Satis (2001–2009 - kontroverzní design, nízké prodeje v prémiovém segmentu), Renault Avantime (2001–2003 - designově unikátní, ale komerční propadák), rané modely Megane Scenic s problémy s elektrikou."
+Renault,Aktuální stav,"Jeden z největších světových výrobců automobilů. Sídlo v Boulogne-Billancourt, Francie. Vede alianci Renault-Nissan-Mitsubishi. Silný důraz na elektrifikaci (Megane E-Tech Electric, Scenic E-Tech Electric), recyklaci materiálů a digitální služby. Zaměřuje se na renesanci značky."
+Renault,Sídlo,Boulogne-Billancourt, Francie
+Renault,Klíčové modely,"Renault Clio, Megane, Captur, Zoe, Trafic"
+Renault,Inovace,"E-Tech hybridní a elektrické pohony, Multi-Sense jízdní režimy, CMF platformy, OpenR Link infotainment"
+Renault,Významná ocenění,"Evropské auto roku (např. Clio, Megane, Scenic), Světové auto roku (např. Zoe), četná vítězství ve Formuli 1"
+Rivian,Datum založení,2009
+Rivian,Zakladatelé,RJ Scaringe
+Rivian,Historie,"Založeno RJ Scaringem. Původně se zaměřovalo na sportovní vozy, ale později přešlo na vývoj elektrických pick-upů a SUV s důrazem na dobrodružství a udržitelnost. Velké investice od Amazonu a Fordu. První modely R1T a R1S jsou určeny pro outdoorové nadšence."
+Rivian,Ředitelé,RJ Scaringe (CEO)
+Rivian,Nepovedené projekty,"Jako mladá značka se zatím neobjevily výrazné ""nepovedené projekty"". Rané výzvy jsou spojeny s náběhem výroby a efektivitou logistiky."
+Rivian,Aktuální stav,"Výrobce elektrických vozidel. Sídlo v Irvine, Kalifornie, USA. Zaměření na elektrické pick-upy (R1T), SUV (R1S) a komerční dodávky (EDV pro Amazon). Prochází fází ramp-up výroby a rozšiřování dodavatelského řetězce."
+Rivian,Sídlo,Irvine, USA
+Rivian,Klíčové modely,"Rivian R1T, R1S, EDV (Electric Delivery Van)"
+Rivian,Inovace,"Quad-Motor AWD (čtyři motory), Tank Turn (otáčení na místě), Gear Tunnel úložný prostor, vlastní platforma pro EV"
+Rivian,Významná ocenění,"MotorTrend Truck of the Year (R1T), Green Car Journal Green Car of the Year, ocenění za design a terénní schopnosti"
+Škoda,Datum založení,1895 (Laurin & Klement), 1925 (součást Škody), 1991 (součást VW Group)
+Škoda,Zakladatelé,"Václav Laurin, Václav Klement (Laurin & Klement)"
+Škoda,Historie,"Původně založeno jako výrobce jízdních kol (Laurin & Klement), poté motocyklů a automobilů. V roce 1925 se stalo součástí průmyslového konglomerátu Škoda Plzeň. Po 2. světové válce znárodněno. Po pádu komunismu v roce 1991 převzato Volkswagen Group, což vedlo k obrovskému kvalitativnímu a prodejnímu nárůstu. Dnes je to globální hráč."
+Škoda,Ředitelé,"Václav Laurin, Václav Klement (zakladatelé), Klaus Zellmer (CEO Škoda Auto)"
+Škoda,Nepovedené projekty,"Škoda Rapid (první generace v 80. letech - zastaralá technologie a design ve srovnání se západní konkurencí), Škoda Favorit (rané modely před převzetím VW - problémy s kvalitou, ale důležitý pro přechod)."
+Škoda,Aktuální stav,"Součást koncernu Volkswagen Group. Sídlo v Mladé Boleslavi, Česká republika. Zaměření na prostorné, praktické a cenově dostupné vozy s moderními technologiemi. Silný důraz na elektrifikaci (Enyaq iV) a digitální služby. Globální působnost s důrazem na Evropu a Indii."
+Škoda,Sídlo,Mladá Boleslav, Česká republika
+Škoda,Klíčové modely,"Škoda Octavia, Superb, Kodiaq, Fabia, Enyaq iV"
+Škoda,Inovace,"Simply Clever řešení, iV elektrické pohony, Matrix LED světlomety, adaptivní podvozek DCC, Columbus infotainment"
+Škoda,Významná ocenění,"Evropské auto roku (např. Fabia, Octavia), Zlatý volant, Auto roku v ČR, ocenění za prostornost a praktičnost"
+Smart,Datum založení,1994
+Smart,Zakladatelé,"Nicolas Hayek (Swatch), Mercedes-Benz (Daimler)"
+Smart,Historie,"Společný podnik mezi švýcarskou hodinářskou firmou Swatch (Nicolas Hayek) a Mercedes-Benz (Daimler). Cílem bylo vyvinout malé, městské a ekologické vozidlo. Známé pro kompaktní rozměry a unikátní design. Původně neslo název Swatchmobile. Prošlo několika změnami strategie. Dnes společný podnik Daimler a Geely."
+Smart,Ředitelé,"Nicolas Hayek (zakladatel konceptu), Dirk Adelmann (CEO Smart Europe)"
+Smart,Nepovedené projekty,"Smart Forfour (první generace 2004–2006 - sdílel platformu s Mitsubishi Colt, ale nízké prodeje a vysoká cena), Smart Roadster (2003–2005 - kultovní, ale finanční propadák), rané modely Fortwo s robotizovanou převodovkou."
+Smart,Aktuální stav,"Společný podnik (joint venture) mezi Mercedes-Benz Group a Geely Holding. Sídlo v Niohuru, Čína (vývoj a výroba) a Böblingenu, Německo (design). Zaměření na prémiové elektrické městské vozy a kompaktní SUV (např. #1, #3). Globální expanze s důrazem na elektromobilitu."
+Smart,Sídlo,Niohuru, Čína / Böblingen, Německo
+Smart,Klíčové modely,"Smart Fortwo, Smart Forfour, Smart #1, Smart #3"
+Smart,Inovace,"Tridion bezpečnostní klec, kompaktní design, elektrické pohony, inteligentní konektivita"
+Smart,Významná ocenění,"Red Dot Design Award, ocenění za městskou mobilitu a inovace v EV"
+Suzuki,Datum založení,1909 (jako Suzuki Loom Works), 1955 (výroba automobilů)
+Suzuki,Zakladatelé,Michio Suzuki
+Suzuki,Historie,"Založeno Michiem Suzukim jako výrobce tkalcovských stavů. Později se zaměřilo na motocykly (jeden z největších světových výrobců) a v roce 1955 začalo vyrábět automobily. Známé pro kompaktní vozy, malé SUV a pohon 4x4. Důraz na spolehlivost, efektivitu a cenovou dostupnost. Silná pozice na indickém trhu."
+Suzuki,Ředitelé,"Michio Suzuki (zakladatel), Toshihiro Suzuki (prezident a CEO)"
+Suzuki,Nepovedené projekty,"Suzuki Kizashi (2009–2014 - solidní sedan, ale nedostatečný marketing a nízké prodeje), Suzuki X-90 (1995–1997 - malý SUV/roadster, který nebyl pochopen trhem)."
+Suzuki,Aktuální stav,"Nezávislý japonský výrobce automobilů, motocyklů a lodních motorů. Sídlo v Hamamatsu, Japonsko. Zaměření na kompaktní vozy, SUV a mild-hybridní technologie. Velmi silná pozice na indickém trhu (Maruti Suzuki). Rozšiřuje svou nabídku elektrifikovaných modelů."
+Suzuki,Sídlo,Hamamatsu, Japonsko
+Suzuki,Klíčové modely,"Suzuki Swift, Vitara, Jimny, S-Cross, Alto"
+Suzuki,Inovace,"ALLGRIP pohon všech kol, SHVS mild-hybridní systém, kompaktní platformy, K-platform"
+Suzuki,Významná ocenění,"Četná ocenění za spolehlivost a efektivitu, nejprodávanější modely v některých asijských zemích"
+Tata Motors,Datum založení,1945 (divize automobilů), 1868 (mateřská společnost Tata Group)
+Tata Motors,Zakladatelé,"J. R. D. Tata (pro Tata Group), Ratan Tata (klíčová postava v rozvoji automobilové divize)"
+Tata Motors,Historie,"Automobilová divize indického konglomerátu Tata Group. Původně výrobce lokomotiv, v roce 1945 začala vyrábět nákladní vozidla a autobusy. V 90. letech vstoupila do výroby osobních automobilů. Proslula modelem Nano (nejlevnější auto na světě). Akvizice Jaguar Land Rover v roce 2008. Dnes silný hráč na indickém trhu a v EV segmentu."
+Tata Motors,Ředitelé,"Ratan Tata (bývalý předseda), N. Chandrasekaran (předseda představenstva), Shailesh Chandra (výkonný ředitel pro osobní vozidla a EV)"
+Tata Motors,Nepovedené projekty,"Tata Nano (původní koncept nejlevnějšího auta se potýkal s bezpečnostními obavami a nízkými prodeji, nenaplnil očekávání), Tata Indica Vista (méně úspěšná než původní Indica)."
+Tata Motors,Aktuální stav,"Jeden z největších indických výrobců automobilů. Sídlo v Bombaji, Indie. Vlastní Jaguar Land Rover. Silný důraz na elektrifikaci (vedoucí postavení v Indii v prodejích EV), bezpečnost a prémiové technologie pro indický trh. Globální expanze."
+Tata Motors,Sídlo,Bombaj, Indie
+Tata Motors,Klíčové modely,"Tata Nexon, Punch, Harrier, Tiago, Safari, Nano (historicky)"
+Tata Motors,Inovace,"Zipy (Ziptron) elektrický pohon, Alpha-Arc platforma, Impact design 2.0, i-Turbo motory"
+Tata Motors,Významná ocenění,"Nejprodávanější EV značka v Indii, ocenění za bezpečnost (Global NCAP), ocenění za design a inovace"
+Tesla,Datum založení,1. července 2003
+Tesla,Zakladatelé,"Martin Eberhard, Marc Tarpenning, Elon Musk (hlavní vizionář a CEO)"
+Tesla,Historie,"Založeno Martinem Eberhardem a Marcem Tarpenningem s cílem vyrábět elektrická vozidla. Elon Musk se stal klíčovou postavou a vizionářem, který posunul Teslu k masové výrobě. Průkopník v oblasti elektromobilů, bateriových technologií a autonomního řízení. Rychle se stala nejhodnotnější automobilkou na světě."
+Tesla,Ředitelé,Elon Musk (CEO)
+Tesla,Nepovedené projekty,"Tesla Cybertruck (odložené dodávky, kontroverzní design, problémy s výrobou a materiály), Tesla Model X (rané problémy s křídlovými dveřmi, softwarem a výrobou), Solar Roof (pomalý náběh a komplikovaná instalace)."
+Tesla,Aktuální stav,"Přední světový výrobce elektromobilů, baterií a solárních panelů. Sídlo v Austinu, Texas, USA. Lídři v technologii baterií, autonomního řízení (Autopilot, FSD) a síti Supercharger. Pokračuje v rychlé expanzi výroby a vývoje nových produktů."
+Tesla,Sídlo,Austin, USA
+Tesla,Klíčové modely,"Tesla Model S, Model 3, Model X, Model Y, Cybertruck"
+Tesla,Inovace,"Bateriové technologie, Supercharger síť, Autopilot / Full Self-Driving, gigafactory, over-the-air (OTA) aktualizace"
+Tesla,Významná ocenění,"MotorTrend Car of the Year (Model S), World Car of the Year, četná ocenění za inovace a dopad na průmysl"
+Togg,Datum založení,2018
+Togg,Zakladatelé,"Anadolu Group, BMC, Turkcell, Zorlu Holding, Kok Group (společný podnik)"
+Togg,Historie,"Turecký automobilový výrobce, který vznikl jako společný podnik pěti tureckých společností s podporou turecké vlády. Cílem je vytvořit národní tureckou automobilovou značku, zaměřenou na elektrická vozidla a chytré technologie. První model, Togg T10X, je SUV."
+Togg,Ředitelé,Gürcan Karakaş (CEO)
+Togg,Nepovedené projekty,"Jako velmi mladá značka se zatím neobjevily výrazné ""nepovedené projekty"". Rané výzvy jsou spojeny s budováním výrobních kapacit a budováním značky na mezinárodním trhu."
+Togg,Aktuální stav,"Turecký výrobce elektromobilů. Sídlo v Gemliku, Turecko. Zaměření na inteligentní a propojená elektrická vozidla. První model, Togg T10X, je v prodeji. Cílem je stát se globálním hráčem v segmentu EV a přispět k turecké ekonomice."
+Togg,Sídlo,Gemlik, Turecko
+Togg,Klíčové modely,"Togg T10X (SUV)"
+Togg,Inovace,"Chytrý kokpit s integrací digitálních služeb, pokročilé asistenční systémy, Over-the-Air aktualizace, vlastní platforma pro EV"
+Togg,Významná ocenění,"Ocenění za design a technologické inovace na tureckém trhu, podpora turecké vlády"
+Toyota,Datum založení,28. srpna 1937 (jako samostatná společnost), 1933 (automobilová divize pod Toyoda Automatic Loom Works)
+Toyota,Zakladatelé,Kiichiro Toyoda
+Toyota,Historie,"Původně jako automobilová divize Toyoda Automatic Loom Works, později se osamostatnila jako Toyota Motor Corporation. Průkopník v efektivitě výroby (Toyota Production System - TPS). Známá pro spolehlivost, kvalitu a průkopnickou práci s hybridními pohony (Prius). Největší automobilka na světě."
+Toyota,Ředitelé,"Kiichiro Toyoda (zakladatel), Akio Toyoda (předseda představenstva), Koji Sato (prezident a CEO)"
+Toyota,Nepovedené projekty,"Toyota C-HR (kontroverzní design, nízká praktičnost pro některé trhy), Toyota Mirai (první generace - vysoká cena, omezená infrastruktura pro vodík), rané modely Yaris s robotizovanou převodovkou MMT."
+Toyota,Aktuální stav,"Největší světový výrobce automobilů. Sídlo v Toyota City, Japonsko. Silný důraz na hybridní technologie, vodíkové palivové články a rozšiřuje nabídku elektrických vozidel. Globální působnost a silná reputace pro kvalitu a spolehlivost. Vlastní značky Lexus a Daihatsu."
+Toyota,Sídlo,Toyota City, Japonsko
+Toyota,Klíčové modely,"Toyota Corolla, Camry, RAV4, Prius, Land Cruiser, Supra"
+Toyota,Inovace,"Toyota Production System (Lean Manufacturing), Hybrid Synergy Drive, Toyota Safety Sense, vodíkové palivové články, TNGA platforma"
+Toyota,Významná ocenění,"Světové auto roku (vícekrát), Green Car of the Year, četná ocenění za spolehlivost, efektivitu a bezpečnost"
+VinFast,Datum založení,2017
+VinFast,Zakladatelé,Pham Nhat Vuong (Vingroup)
+VinFast,Historie,"Vietnamský výrobce automobilů a motocyklů, součást konglomerátu Vingroup. Rychle vstoupil na trh s licencovanými technologiemi od BMW a Pininfariny. V roce 2021 oznámil, že se zaměří výhradně na elektrická vozidla. Agresivně expanduje na mezinárodní trhy, zejména do USA a Evropy."
+VinFast,Ředitelé,Pham Nhat Vuong (zakladatel Vingroup), Le Thi Thu Thuy (CEO)
+VinFast,Nepovedené projekty,"Jako mladá značka čelila VinFast výzvám s budováním povědomí o značce a servisní sítí na mezinárodních trzích. Rané modely s benzinovými motory byly kritizovány za vyšší spotřebu."
+VinFast,Aktuální stav,"Vietnamský výrobce elektromobilů. Sídlo v Haiphongu, Vietnam. Zaměření na elektrická SUV a sedany pro globální trhy. Vlastní výrobní závod s vysokou kapacitou. Buduje síť prodejen a servisních center v USA a Evropě. Čelí výzvám s budováním globální značky."
+VinFast,Sídlo,Haiphong, Vietnam
+VinFast,Klíčové modely,"VinFast VF 8, VF 9, VF 7, VF 5"
+VinFast,Inovace,"Vlastní elektrické platformy, inteligentní funkce (virtuální asistent), technologie baterií, pokročilé asistenční systémy"
+VinFast,Významná ocenění,"Ocenění za design (Pininfarina design), uznání za rychlý růst a expanzi na mezinárodní trhy"
+Volkswagen,Datum založení,28. května 1937
+Volkswagen,Zakladatelé,Deutsche Arbeitsfront (Německá pracovní fronta, na objednávku Adolfa Hitlera)
+Volkswagen,Historie,"Založeno za účelem výroby ""lidového vozu"" (Volkswagen = lidový vůz), což vedlo k modelu Brouk. Po 2. světové válce se stal jedním z největších světových výrobců automobilů. Známý pro Golf, Passat a moderní technologie. Vlastní mnoho dalších automobilových značek (Audi, Škoda, Porsche atd.)."
+Volkswagen,Ředitelé,"Ferdinand Porsche (autor Brouka), Herbert Diess (2018–2022), Oliver Blume (od 2022)"
+Volkswagen,Nepovedené projekty,"VW Phaeton (2002–2016 - luxusní sedan, komerční propadák, i když technicky vyspělý), VW Routan (2008–2012 - rebadge Chrysler Town & Country, nízké prodeje), aféra Dieselgate (2015 - masivní dopad na reputaci a finance)."
+Volkswagen,Aktuální stav,"Největší automobilová skupina v Evropě a jedna z největších na světě. Sídlo ve Wolfsburgu, Německo. Silný důraz na elektrifikaci (ID. řada), digitalizaci a softwarový vývoj. Rozsáhlé portfolio značek a globální působnost. Prochází transformací k elektromobilitě."
+Volkswagen,Sídlo,Wolfsburg, Německo
+Volkswagen,Klíčové modely,"Volkswagen Golf, Passat, Tiguan, Beetle, ID.3, ID.4"
+Volkswagen,Inovace,"MQB platforma, DSG převodovka, IQ.Light LED světlomety, MEB platforma pro EV, Car-Net konektivita"
+Volkswagen,Významná ocenění,"Evropské auto roku (vícekrát), Světové auto roku (vícekrát), Zlatý volant, ocenění za design a technologie"
+Volvo,Datum založení,14. dubna 1927
+Volvo,Zakladatelé,"Assar Gabrielsson, Gustaf Larson"
+Volvo,Historie,"Založeno jako dceřiná společnost kuličkových ložisek SKF. Zaměření na bezpečnost, kvalitu a robustnost vozidel. Průkopník v bezpečnostních inovacích (např. tříbodové bezpečnostní pásy). Mělo složitou historii vlastnictví (Ford). Od roku 2010 součást Geely Holding. Dnes prémiová značka s důrazem na udržitelnost a elektrifikaci."
+Volvo,Ředitelé,"Assar Gabrielsson, Gustaf Larson (zakladatelé), Jim Rowan (prezident a CEO)"
+Volvo,Nepovedené projekty,"Volvo 262C (1977–1981 - kontroverzní design Bertoneho, ale nízké prodeje), Volvo 340/360 (rané modely s CVT převodovkou, méně spolehlivé), některé modely V70 a S80 s problémy s elektronikou v raných 2000s."
+Volvo,Aktuální stav,"Výrobce prémiových automobilů. Součást Geely Holding. Sídlo v Göteborgu, Švédsko. Zaměření na bezpečnost, skandinávský design a udržitelnost. Silný důraz na elektrifikaci (plug-in hybridy a plně elektrické modely) a cíl stát se plně elektrickou značkou do roku 2030."
+Volvo,Sídlo,Göteborg, Švédsko
+Volvo,Klíčové modely,"Volvo XC90, S60, V60, EX30, EX90, 850"
+Volvo,Inovace,"Tříbodové bezpečnostní pásy, SIPS (Side Impact Protection System), City Safety, Recharge elektrické pohony, Google infotainment"
+Volvo,Významná ocenění,"North American Utility Vehicle of the Year, Euro NCAP pětihvězdičkové hodnocení, ocenění za bezpečnost a udržitelnost"
+Xiaomi,Datum založení,2010 (mateřská společnost), 2021 (Xiaomi EV)
+Xiaomi,Zakladatelé,Lei Jun (mateřská společnost)
+Xiaomi,Historie,"Původně známý jako výrobce chytrých telefonů a spotřební elektroniky. V roce 2021 oznámil vstup do automobilového průmyslu s ambicí stát se velkým hráčem v segmentu elektromobilů. Klade důraz na integraci chytrých technologií, konektivitu a ekosystém Xiaomi. První model, SU7, je sportovní sedan."
+Xiaomi,Ředitelé,Lei Jun (zakladatel a CEO Xiaomi Group)
+Xiaomi,Nepovedené projekty,"Jako velmi mladá značka v automobilovém průmyslu se zatím neobjevily výrazné ""nepovedené projekty"". Rané výzvy jsou spojeny s náběhem výroby a budováním distribuční sítě."
+Xiaomi,Aktuální stav,"Výrobce chytrých telefonů a spotřební elektroniky, nově i elektromobilů. Sídlo v Pekingu, Čína. Zaměření na integraci chytrých technologií, internet věcí (IoT) a elektrické pohony. První model, Xiaomi SU7, byl představen v roce 2023 a cílí na prémiový segment EV. Silná konkurence na čínském trhu s EV."
+Xiaomi,Sídlo,Peking, Čína
+Xiaomi,Klíčové modely,"Xiaomi SU7"
+Xiaomi,Inovace,"Integrovaný ekosystém Xiaomi, pokročilé AI a infotainment systémy, vysoký výkon EV, chytrý kokpit"
+Xiaomi,Významná ocenění,"Zatím nejsou relevantní automobilová ocenění, ale mateřská společnost má četná ocenění v elektronice a inovacích."
+XPeng,Datum založení,2014
+XPeng,Zakladatelé,"He Xiaopeng, Xia Heng, He Tao"
+XPeng,Historie,"Čínský výrobce elektromobilů zaměřený na chytré technologie a autonomní řízení. Rychle roste na domácím trhu a expanduje do Evropy. Klade důraz na vlastní vývoj softwaru a hardwaru pro inteligentní řízení a konektivitu. Jeden z předních čínských ""nových"" EV hráčů."
+XPeng,Ředitelé,He Xiaopeng (předseda a CEO)
+XPeng,Nepovedené projekty,"Jako relativně mladá značka se zatím neobjevily výrazné ""nepovedené projekty"". Rané fáze růstu jsou spojeny s výzvami masové výroby a budování značky."
+XPeng,Aktuální stav,"Čínský výrobce elektromobilů. Sídlo v Kuang-čou, Čína. Zaměření na inteligentní elektrické sedany a SUV. Silný důraz na autonomní řízení (XPILOT) a pokročilé funkce kokpitu. Aktivně expanduje na evropské trhy (Norsko, Švédsko, Dánsko, Nizozemsko)."
+XPeng,Sídlo,Kuang-čou, Čína
+XPeng,Klíčové modely,"XPeng P7, G9, P5, G6"
+XPeng,Inovace,"XPILOT (autonomní řízení), Xmart OS (chytrý kokpit), 800V rychlonabíjení, XPeng Flying Car (vzdušné vozidlo)"
+XPeng,Významná ocenění,"Ocenění za technologické inovace na čínském trhu, uznání za pokrok v autonomním řízení"
+Zeekr,Datum založení,2021
+Zeekr,Zakladatelé,Geely Holding
+Zeekr,Historie,"Značka prémiových elektromobilů pod Geely Holding, zaměřená na moderní design, vysoký výkon a pokročilé technologie. Založena s cílem konkurovat Tesle a dalším prémiovým EV značkám. Rychle expanduje na domácím čínském trhu a začíná vstupovat na globální trhy."
+Zeekr,Ředitelé,Andy An Conghui (CEO)
+Zeekr,Nepovedené projekty,"Jako velmi mladá značka se zatím neobjevily výrazné ""nepovedené projekty"". Rané výzvy jsou spojeny s budováním povědomí o značce a servisní sítě na mezinárodních trzích."
+Zeekr,Aktuální stav,"Prémiová značka elektromobilů pod Geely Holding. Sídlo v Ning-po, Čína. Zaměření na elektrické ""lifestyle"" vozy (shooting brake, SUV, minivan). Rychle roste na čínském trhu a expanduje do Evropy. Využívá platformu SEA od Geely."
+Zeekr,Sídlo,Ning-po, Čína
+Zeekr,Klíčové modely,"Zeekr 001, Zeekr 007, Zeekr X, Zeekr 009"
+Zeekr,Inovace,"SEA (Sustainable Experience Architecture) platforma, 800V rychlonabíjení, ZAD (Zeekr Autonomous Driving), chytrý kokpit s pokročilým infotainmentem"
+Zeekr,Významná ocenění,"Ocenění za design a technologické inovace na čínském trhu, uznání za výkon a kvalitu EV"
