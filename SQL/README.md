@@ -20,19 +20,19 @@ Dále je potřeba připravit sadu SQL dotazů, které z těchto dvou nově vytvo
 
 Projekt využívá data z veřejně dostupné databáze Engeto Akademie (nebo jejích zrcadlených online verzí). Konkrétně se jedná o následující tabulky:
 
--   `czechia_payroll`
--   `czechia_payroll_calculation`
--   `czechia_payroll_industry_branch`
--   `czechia_payroll_unit`
--   `czechia_payroll_value_type`
--   `czechia_price`
--   `czechia_price_category`
--   `economies` - mezinárodní ekonomická data (pravděpodobně z World Bank)
--   `countries` (pro širší kontext, ačkoli v tomto projektu primárně nevyužito pro finální tabulky)
--   `czechia_region`
--   `czechia_district`
+- `czechia_payroll` – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
+- `czechia_payroll_calculation` – Číselník kalkulací v tabulce mezd.
+- `czechia_payroll_industry_branch` – Číselník odvětví v tabulce mezd.
+- `czechia_payroll_unit` – Číselník jednotek hodnot v tabulce mezd.
+- `czechia_payroll_value_type` – Číselník typů hodnot v tabulce mezd.
+- `czechia_price` – Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
+- `czechia_price_category` – Číselník kategorií potravin, které se vyskytují v našem přehledu.
+- `czechia_region` – Číselník krajů České republiky dle normy CZ-NUTS 2.
+- `czechia_district` – Číselník okresů České republiky dle normy LAU.
+- `countries` - Všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace.
+- `economies` - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 
-**Poznámka:** Je nutné mít přístup k těmto datům – bez nich projekt nebude fungovat. Pokud databázi nemáte, je třeba si ji stáhnout z oficiálního vzdělávacího rozhraní Engeto Akademie (viz jejich GitHub nebo studijní portál).
+**Poznámka:** Je nutné mít přístup k těmto datům – bez nich projekt nebude fungovat. Pokud databázi nemáte, je třeba si ji stáhnout z oficiálního vzdělávacího rozhraní Engeto Akademie (viz jejich studijní portál).
 
 ## Výstupní tabulky
 
