@@ -153,7 +153,7 @@ Tato analýza zkoumá, zda růst HDP v jednom roce ovlivňuje mzdy a ceny potrav
 Zatímco korelační koeficienty poskytují celkový obraz vztahu, detailnější pohled na meziroční procentuální změny HDP, mezd a cen potravin nám umožňuje lépe pochopit dynamiku a odpovědět na otázku, zda se výraznější růst HDP projeví i na ostatních faktorech.
 
 * **Vliv HDP na průměrné mzdy:**
-    * **Silná přímá úměra (korelace 0,92 ve stejném roce, 0,81 v následujícím roce):** Data jasně ukazují, že růst HDP je velmi silně spojen s růstem průměrných mezd. Tento vliv je patrný okamžitě i s mírným zpožděním.
+    * **Silná přímá úměra (korelace 0,92 ve stejném roce; 0,81 v následujícím roce):** Data jasně ukazují, že růst HDP je velmi silně spojen s růstem průměrných mezd. Tento vliv je patrný okamžitě i s mírným zpožděním.
     * **Projev v meziročním růstu:** Z analýzy meziročních změn vyplývá, že **období silného růstu HDP často předcházela nebo provázela výrazné nárůsty mezd.** I zde je korelace silná a pozitivní, byť mírně nižší než pro stejný rok. To znamená, že růst HDP v daném roce má stále silný, i když o něco menší, pozitivní vliv na růst mezd v roce následujícím. Mzdy tedy reagují na ekonomický růst jak okamžitě, tak s určitým zpožděním.
     * * Například v roce 2007 HDP na obyvatele vzrostlo o **5,57%**, a průměrné mzdy ve stejném roce zaznamenaly nárůst o **6,86%**. Podobně, i v roce 2018 při růstu HDP o **3,20%** došlo k nárůstu mezd o **7,65%**. To potvrzuje, že ekonomický růst se přímo promítá do vyšších příjmů obyvatelstva.
 
