@@ -116,13 +116,13 @@ V žádném ze sledovaných let se však nenašla situace, kdy by cena **mléka*
 
 Na rozdíl od původního předpokladu **existují roky (konkrétně 2007, 2008 a 2011), ve kterých meziroční nárůst cen chleba výrazně převýšil růst průměrných mezd o více než 10 procentních bodů.** To má přímý dopad na kupní sílu obyvatelstva a dostupnost této základní potraviny. V těchto letech se průměrný spotřebitel mohl potýkat s relativně rychlejším zdražováním chleba oproti svému příjmu. Tato zjištění jsou klíčová pro pochopení dynamiky cen a mezd v České republice a jejich dopadu na životní úroveň.
 
----
+
 ---
 ## 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 
 Prozkoumali jsme korelace mezi HDP na obyvatele (z `t_matej_lauterkranc_project_sql_secondary_final`) a průměrnými mzdami, cenami mléka a chleba (z `t_matej_lauterkranc_project_sql_primary_final`) pro Českou republiku **v letech 2006-2018**. Cílem bylo zjistit, zda existuje vztah mezi ekonomickým růstem a vývojem mzdové úrovně a cen potravin v tomto období.
 
----
+
 
 **Výsledky korelační analýzy (současný rok, 2006-2018):**
 
@@ -134,7 +134,7 @@ Tato analýza zkoumá vztah mezi HDP a mzdami/cenami potravin ve stejném roce (
 | HDP vs. Cena mléka      | 0,64             |
 | HDP vs. Cena chleba     | 0,70             |
 
----
+
 
 **Výsledky korelační analýzy (HDP vs. následující rok, 2006-2018):**
 
@@ -146,7 +146,7 @@ Tato analýza zkoumá, zda růst HDP v jednom roce (v letech 2006-2017) ovlivňu
 | HDP (t) vs. Cena mléka (t+1)      | 0,52             |
 | HDP (t) vs. Cena chleba (t+1)     | 0,47             |
 
----
+
 
 **Analýza**
 
@@ -162,7 +162,7 @@ Tato analýza zkoumá, zda růst HDP v jednom roce (v letech 2006-2017) ovlivňu
     * **Současný rok (2006-2018, 0,70):** Silnější pozitivní korelace než u mléka. S růstem HDP měly tendenci růst i ceny chleba ve stejném roce.
     * **Následující rok (2006-2018, 0,47):** Korelace je pozitivní, ale poměrně slabá a podstatně nižší než pro stejný rok. To naznačuje, že HDP mělo spíše okamžitý vliv na cenu chleba než zpožděný dopad v následujícím roce v tomto období.
 
----
+
 
 **Závěr**
 
