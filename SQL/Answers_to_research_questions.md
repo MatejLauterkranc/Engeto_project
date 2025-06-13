@@ -121,7 +121,7 @@ Na rozdíl od původního předpokladu **existují roky (konkrétně 2007, 2008 
 
 Prozkoumali jsme korelace mezi HDP na obyvatele (z `t_matej_lauterkranc_project_sql_secondary_final`) a průměrnými mzdami, cenami mléka a chleba (z `t_matej_lauterkranc_project_sql_primary_final`) pro Českou republiku. Cílem bylo zjistit, zda existuje vztah mezi ekonomickým růstem a vývojem mzdové úrovně a cen potravin.
 
---
+
 
 **Výsledky korelační analýzy (současný rok):**
 
@@ -133,7 +133,7 @@ Tato analýza zkoumá vztah mezi HDP a mzdami/cenami potravin ve stejném roce.
 | HDP vs. Cena mléka      | 0,64             |
 | HDP vs. Cena chleba     | 0,70             |
 
--
+
 
 **Výsledky korelační analýzy (HDP vs. následující rok):**
 
@@ -145,7 +145,7 @@ Tato analýza zkoumá, zda růst HDP v jednom roce ovlivňuje mzdy a ceny potrav
 | HDP (t) vs. Cena mléka (t+1)      | 0,52             |
 | HDP (t) vs. Cena chleba (t+1)     | 0,47             |
 
----
+
 
 **Analýza**
 
@@ -161,7 +161,7 @@ Tato analýza zkoumá, zda růst HDP v jednom roce ovlivňuje mzdy a ceny potrav
     * **Současný rok (0,70):** Silnější pozitivní korelace než u mléka. S růstem HDP mají tendenci růst i ceny chleba ve stejném roce.
     * **Následující rok (0,47):** Korelace je pozitivní, ale poměrně slabá a podstatně nižší než pro stejný rok. To naznačuje, že HDP má spíše okamžitý vliv na cenu chleba než zpožděný dopad v následujícím roce.
 
----
+
 
 **Závěr**
 
