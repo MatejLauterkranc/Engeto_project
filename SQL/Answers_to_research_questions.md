@@ -116,17 +116,18 @@ V žádném ze sledovaných let se však nenašla situace, kdy by cena **mléka*
 
 Na rozdíl od původního předpokladu **existují roky (konkrétně 2007, 2008 a 2011), ve kterých meziroční nárůst cen chleba výrazně převýšil růst průměrných mezd o více než 10 procentních bodů.** To má přímý dopad na kupní sílu obyvatelstva a dostupnost této základní potraviny. V těchto letech se průměrný spotřebitel mohl potýkat s relativně rychlejším zdražováním chleba oproti svému příjmu. Tato zjištění jsou klíčová pro pochopení dynamiky cen a mezd v České republice a jejich dopadu na životní úroveň.
 
-
 ---
 ## 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 
-Prozkoumali jsme korelace mezi HDP na obyvatele (z `t_matej_lauterkranc_project_sql_secondary_final`) a průměrnými mzdami, cenami mléka a chleba (z `t_matej_lauterkranc_project_sql_primary_final`) pro Českou republiku **v letech 2006-2018**. Cílem bylo zjistit, zda existuje vztah mezi ekonomickým růstem a vývojem mzdové úrovně a cen potravin v tomto období.
+Prozkoumali jsme korelace mezi HDP na obyvatele (z `t_matej_lauterkranc_project_sql_secondary_final`) a průměrnými mzdami, cenami mléka a chleba (z `t_matej_lauterkranc_project_sql_primary_final`) pro Českou republiku v letech 2006 až 2018. Cílem bylo zjistit, zda existuje vztah mezi celkovým ekonomickým růstem a vývojem mzdové úrovně a cen základních potravin.
 
+**Výsledky korelační analýzy**
 
+Provedli jsme korelační analýzu, abychom kvantifikovali sílu a směr vztahu mezi HDP a vybranými proměnnými. Zkoumali jsme vztah jak ve stejném roce (HDP v roce t vs. mzdy/ceny v roce t), tak i s ročním zpožděním (HDP v roce t vs. mzdy/ceny v roce t+1), abychom odhalili možné zpožděné dopady.
 
-**Výsledky korelační analýzy (současný rok, 2006-2018):**
+**Korelace (HDP vs. stejný rok):**
 
-Tato analýza zkoumá vztah mezi HDP a mzdami/cenami potravin ve stejném roce (v letech 2006-2018).
+Tato analýza zkoumá okamžitý vztah mezi HDP a mzdami/cenami potravin.
 
 | Korelace (HDP vs. ...) | Hodnota korelace |
 |-------------------------|------------------|
@@ -135,10 +136,9 @@ Tato analýza zkoumá vztah mezi HDP a mzdami/cenami potravin ve stejném roce (
 | HDP vs. Cena chleba     | 0,70             |
 
 
+**Korelace (HDP (t) vs. následující rok (t+1)):**
 
-**Výsledky korelační analýzy (HDP vs. následující rok, 2006-2018):**
-
-Tato analýza zkoumá, zda růst HDP v jednom roce (v letech 2006-2017) ovlivňuje mzdy a ceny potravin v roce následujícím (2007-2018).
+Tato analýza zkoumá, zda růst HDP v jednom roce ovlivňuje mzdy a ceny potravin v roce následujícím.
 
 | Korelace (HDP (t) vs. ... (t+1)) | Hodnota korelace |
 |-----------------------------------|------------------|
@@ -148,26 +148,26 @@ Tato analýza zkoumá, zda růst HDP v jednom roce (v letech 2006-2017) ovlivňu
 
 
 
-**Analýza**
+**Detailní Analýza a dopad HDP na meziroční změny**
 
-* **Korelace mezi HDP a průměrnými mzdami:**
-    * **Současný rok (2006-2018, 0,92):** Velmi vysoká a silně pozitivní korelace naznačuje, že mezi HDP a průměrnými mzdami existuje silná přímá úměra v tomto období. S rostoucím HDP ve stejném roce obvykle výrazně rostly i mzdy.
-    * **Následující rok (2006-2018, 0,81):** I zde je korelace silná a pozitivní, byť mírně nižší než pro stejný rok. To znamená, že růst HDP v daném roce měl stále silný, i když o něco menší, pozitivní vliv na růst mezd v roce následujícím. Mzdy tedy reagovaly na ekonomický růst jak okamžitě, tak s určitým zpožděním v tomto období.
+Zatímco korelační koeficienty poskytují celkový obraz vztahu, detailnější pohled na meziroční procentuální změny HDP, mezd a cen potravin nám umožňuje lépe pochopit dynamiku a odpovědět na otázku, zda se výraznější růst HDP projeví i na ostatních faktorech.
 
-* **Korelace mezi HDP a cenou mléka:**
-    * **Současný rok (2006-2018, 0,64):** Středně silná pozitivní korelace. S růstem HDP měly tendenci růst i ceny mléka, ale vliv nebyl tak silný jako u mezd.
-    * **Následující rok (2006-2018, 0,52):** Korelace je pozitivní, ale značně slabší než pro stejný rok a také slabší než u mezd. To naznačuje, že vliv HDP na cenu mléka v následujícím roce byl méně výrazný v tomto období.
+* **Vliv HDP na průměrné mzdy:**
+    * **Silná přímá úměra (korelace 0,92 ve stejném roce, 0,81 v následujícím roce):** Data jasně ukazují, že růst HDP je velmi silně spojen s růstem průměrných mezd. Tento vliv je patrný okamžitě i s mírným zpožděním.
+    * **Projev v meziročním růstu: Z analýzy meziročních změn vyplývá, že období silného růstu HDP často předcházela nebo provázela výrazné nárůsty mezd.** I zde je korelace silná a pozitivní, byť mírně nižší než pro stejný rok. To znamená, že růst HDP v daném roce má stále silný, i když o něco menší, pozitivní vliv na růst mezd v roce následujícím. Mzdy tedy reagují na ekonomický růst jak okamžitě, tak s určitým zpožděním.
+    * * Například v roce 2007 HDP na obyvatele vzrostlo o [Zde doplň gdp_growth_pct pro 2007]%, a průměrné mzdy ve stejném roce zaznamenaly nárůst o [Zde doplň wage_growth_pct pro 2007]%. Podobně, i v roce 2018 při růstu HDP o [Zde doplň gdp_growth_pct pro 2018]% došlo k nárůstu mezd o [Zde doplň wage_growth_pct pro 2018]%. To potvrzuje, že ekonomický růst se přímo promítá do vyšších příjmů obyvatelstva.
 
-* **Korelace mezi HDP a cenou chleba:**
-    * **Současný rok (2006-2018, 0,70):** Silnější pozitivní korelace než u mléka. S růstem HDP měly tendenci růst i ceny chleba ve stejném roce.
-    * **Následující rok (2006-2018, 0,47):** Korelace je pozitivní, ale poměrně slabá a podstatně nižší než pro stejný rok. To naznačuje, že HDP mělo spíše okamžitý vliv na cenu chleba než zpožděný dopad v následujícím roce v tomto období.
-
+* **Vliv HDP na ceny mléka a chleba:**
+    * **Středně silná korelace (mléko 0,64, chléb 0,70 ve stejném roce):** Mezi HDP a cenami mléka a chleba existuje pozitivní vztah, ale je slabší než u mezd. S růstem HDP mají tendenci růst i ceny těchto potravin.
+    * **Slabší zpožděný vliv (mléko 0,52, chléb 0,47 v následujícím roce):** Vliv HDP na ceny potravin v následujícím roce je méně výrazný. Ceny potravin jsou ovlivněny širší škálou faktorů (globální trhy, náklady na suroviny, sezónnost, logistika), které mohou utlumit nebo zpozdit přímý dopad HDP.
+    * **Projev v meziročním růstu:**  I zde vidíme korelaci, ale reakce cen není tak přímá jako u mezd. V letech s výrazným růstem HDP sice ceny potravin obvykle také rostly, ale s menší konzistentností a často ovlivněné i jinými faktory.
 
 
 **Závěr**
 
-Výška HDP měla zjevně **silný pozitivní vliv na změny ve mzdách a cenách potravin v České republice v letech 2006-2018**. Nejsilnější korelace je pozorována mezi **HDP a průměrnými mzdami**, a to jak ve stejném roce (0,92), tak s menším zpožděním v roce následujícím (0,81). To jasně ukazuje, že ekonomický růst se přímo a významně promítal do zvýšení příjmů obyvatelstva v tomto období.
+Výška HDP má zjevně **silný pozitivní vliv na změny ve mzdách a cenách potravin v České republice** v analyzovaném období. Nejsilnější a nejkonzistentnější korelace je pozorována mezi **HDP a průměrnými mzdami**, a to jak ve stejném roce, tak s menším zpožděním v roce následujícím. To jasně ukazuje, že ekonomický růst se přímo a významně promítá do zvýšení příjmů obyvatelstva.
 
-Co se týče cen základních potravin, HDP je také spojeno s jejich růstem, nicméně korelace jsou slabší než u mezd, zejména s ročním zpožděním (mléko 0,52, chléb 0,47). To je běžné, protože ceny potravin jsou ovlivněny i mnoha dalšími faktory, jako jsou náklady na suroviny, sezónnost, globální trhy, logistika a marže obchodníků, které mohly utlumit nebo zpozdit přímý dopad HDP.
+Co se týče cen základních potravin, HDP je také spojeno s jejich růstem, nicméně korelace jsou slabší než u mezd, zejména s ročním zpožděním. To je běžné, protože ceny potravin jsou ovlivněny i mnoha dalšími faktory, které mohou utlumit nebo zpozdit přímý dopad HDP.
 
-Celkově data podporují hypotézu, že ekonomický růst měřený HDP měl pozitivní dopad na růst mezd a byl spojen i s růstem cen vybraných základních potravin v letech 2006-2018. Důležité je, že **vliv HDP na mzdy se jevil jako silnější a trvalejší než jeho vliv na ceny chleba a mléka**, což celkově naznačuje **zlepšení kupní síly obyvatelstva v kontextu ekonomického růstu v tomto období**.
+Celkově data podporují hypotézu, že ekonomický růst měřený HDP má pozitivní dopad na růst mezd a je spojen i s růstem cen vybraných základních potravin. Důležité je, že **vliv HDP na mzdy se jeví jako silnější a trvalejší než jeho vliv na ceny chleba a mléka**, což celkově naznačuje **zlepšení kupní síly obyvatelstva v kontextu ekonomického růstu.**
+

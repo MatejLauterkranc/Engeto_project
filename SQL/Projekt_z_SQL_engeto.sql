@@ -283,6 +283,9 @@ ORDER BY
 -- ================================================
 -- Question 5: Correlation between GDP and prices/wages
 -- (Using t_matej_lauterkranc_project_sql_primary_final and t_matej_lauterkranc_project_sql_secondary_final)
+-- This SQL query calculates the Pearson correlation coefficient between GDP per capita
+-- and average wages, milk prices, and bread prices for the Czech Republic.
+-- It specifically focuses on the relationship within the same year for all variables.
 -- ================================================
 WITH
     joined_data AS (
@@ -309,6 +312,61 @@ SELECT
     CORR(gdp_per_capita, avg_price_bread) AS corr_gdp_bread
 FROM
     joined_data;
+
+WITH yearly_data AS (
+    SELECT
+        tpf.year,
+        tpf.overall_avg_wage,
+        tpf.avg_price_milk,
+        tpf.avg_price_bread,
+        tsf.gdp_per_capita
+    FROM
+        t_matej_lauterkranc_project_sql_primary_final tpf
+    JOIN
+        t_matej_lauterkranc_project_sql_secondary_final tsf
+        ON tpf.year = tsf.year
+        AND tsf.country = 'Czech Republic' -- Zajištění, že se berou data jen pro ČR
+    WHERE
+        tpf.overall_avg_wage IS NOT NULL
+        AND tpf.avg_price_milk IS NOT NULL
+        AND tpf.avg_price_bread IS NOT NULL
+        AND tsf.gdp_per_capita IS NOT NULL
+),
+lagged_data AS (
+    SELECT
+        year,
+        overall_avg_wage,
+        LAG(overall_avg_wage, 1) OVER (ORDER BY year) AS prev_overall_avg_wage,
+        avg_price_milk,
+        LAG(avg_price_milk, 1) OVER (ORDER BY year) AS prev_avg_price_milk,
+        avg_price_bread,
+        LAG(avg_price_bread, 1) OVER (ORDER BY year) AS prev_avg_price_bread,
+        gdp_per_capita,
+        LAG(gdp_per_capita, 1) OVER (ORDER BY year) AS prev_gdp_per_capita
+    FROM
+        yearly_data
+)
+SELECT
+    year,
+    overall_avg_wage,
+    avg_price_milk,
+    avg_price_bread,
+    gdp_per_capita,
+    -- Meziroční nárůst v %
+    ROUND(CAST(((overall_avg_wage - prev_overall_avg_wage) / prev_overall_avg_wage) * 100 AS NUMERIC), 2) AS wage_growth_pct,
+    ROUND(CAST(((avg_price_milk - prev_avg_price_milk) / prev_avg_price_milk) * 100 AS NUMERIC), 2) AS milk_growth_pct,
+    ROUND(CAST(((avg_price_bread - prev_avg_price_bread) / prev_avg_price_bread) * 100 AS NUMERIC), 2) AS bread_growth_pct,
+    ROUND(CAST(((gdp_per_capita - prev_gdp_per_capita) / prev_gdp_per_capita) * 100 AS NUMERIC), 2) AS gdp_growth_pct
+FROM
+    lagged_data
+WHERE
+    prev_gdp_per_capita IS NOT NULL
+    AND prev_overall_avg_wage IS NOT NULL
+    AND prev_avg_price_milk IS NOT NULL
+    AND prev_avg_price_bread IS NOT NULL
+ORDER BY
+    year;
+
 
 -- ================================================
 -- Optional (for Question 5): GDP effect one year ahead
@@ -352,4 +410,4 @@ SELECT
 FROM
     data_with_next_gdp
 WHERE
-    next_year_gdp IS NOT NULL; -- Filter out NULL values from LEAD, as there's no "next_year_gdp" for the last year
+    next_year_gdp IS NOT NULL; -- Filter out NULL values from LEAD, as there's no "next_year_gdp" for the last YEAR
