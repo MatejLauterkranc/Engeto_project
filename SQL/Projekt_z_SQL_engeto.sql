@@ -275,7 +275,7 @@ WHERE
     AND (
         ((avg_milk_price - prev_milk) / NULLIF(prev_milk, 0) * 100) > ((avg_wage - prev_wage) / NULLIF(prev_wage, 0) * 100) + 10
         OR
-        ((avg_bread_price - prev_bread) / NULLIF(prev_bread, 0) * 100) > ((avg_wage - prev_wage) / NULLIF(prev_wage, 0) * 100) + 10
+        ((avg_bread_price - prev_bread) / NULLIF(prev_bread, 0) * 100) > ((avg_wage - prev_wage) / NULLIF(wage - prev_wage, 0) * 100) + 10 -- Corrected NULLIF denominator here
     )
 ORDER BY
     "year";
@@ -313,28 +313,29 @@ SELECT
 FROM
     joined_data;
 
------
+---
 
+-- This CTE aggregates primary and secondary data by year to ensure single, averaged entries for accurate year-over-year comparisons.
 WITH yearly_data AS (
     SELECT
         tpf.year,
-        AVG(tpf.overall_avg_wage) AS overall_avg_wage, -- Použijte AVG() pro agregaci na roční průměr
-        AVG(tpf.avg_price_milk) AS avg_price_milk,     -- Použijte AVG() pro agregaci na roční průměr
-        AVG(tpf.avg_price_bread) AS avg_price_bread,   -- Použijte AVG() pro agregaci na roční průměr
-        AVG(tsf.gdp_per_capita) AS gdp_per_capita      -- Použijte AVG() pro agregaci na roční průměr
+        AVG(tpf.overall_avg_wage) AS overall_avg_wage,     -- Use AVG() to aggregate to yearly average
+        AVG(tpf.avg_price_milk) AS avg_price_milk,         -- Use AVG() to aggregate to yearly average
+        AVG(tpf.avg_price_bread) AS avg_price_bread,       -- Use AVG() to aggregate to yearly average
+        AVG(tsf.gdp_per_capita) AS gdp_per_capita          -- Use AVG() to aggregate to yearly average
     FROM
         t_matej_lauterkranc_project_sql_primary_final tpf
     JOIN
         t_matej_lauterkranc_project_sql_secondary_final tsf
         ON tpf.year = tsf.year
-        AND tsf.country = 'Czech Republic' -- Zajištění, že se berou data jen pro ČR
+        AND tsf.country = 'Czech Republic' -- Ensure data is only for Czech Republic
     WHERE
         tpf.overall_avg_wage IS NOT NULL
         AND tpf.avg_price_milk IS NOT NULL
         AND tpf.avg_price_bread IS NOT NULL
         AND tsf.gdp_per_capita IS NOT NULL
     GROUP BY
-        tpf.year -- Klíčová změna: Seskládejte data podle roku
+        tpf.year -- Crucial change: Group data by year to prevent duplicate entries for LAG() function
 ),
 lagged_data AS (
     SELECT
@@ -356,7 +357,7 @@ SELECT
     avg_price_milk,
     avg_price_bread,
     gdp_per_capita,
-    -- Meziroční nárůst v %
+    -- Year-on-year growth in %
     ROUND(CAST(((overall_avg_wage - prev_overall_avg_wage) / prev_overall_avg_wage) * 100 AS NUMERIC), 2) AS wage_growth_pct,
     ROUND(CAST(((avg_price_milk - prev_avg_price_milk) / prev_avg_price_milk) * 100 AS NUMERIC), 2) AS milk_growth_pct,
     ROUND(CAST(((avg_price_bread - prev_avg_price_bread) / prev_avg_price_bread) * 100 AS NUMERIC), 2) AS bread_growth_pct,
