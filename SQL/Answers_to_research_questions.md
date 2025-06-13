@@ -21,6 +21,7 @@ Odvětví jako Administrativní a podpůrné činnosti, Ubytování, stravován�
 
 Dlouhodobě vzato, mzdy ve všech sledovaných odvětvích v ČR vykazují vzestupný trend. Krátkodobé výjimky s mírným poklesem nebo stagnací jsou většinou ovlivněny ekonomickými cykly nebo specifickými faktory daného odvětví. Žádné odvětví v dostupných datech (2006-2018) nevykazuje dlouhodobý a setrvalý pokles mezd.
 
+---
 ## 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
 Pro posouzení kupní síly domácností jsme analyzovali, kolik kilogramů chleba a litrů mléka bylo možné zakoupit za průměrnou mzdu v prvním (2006) a posledním (2018) srovnatelném období dostupném v tabulce `t_matej_lauterkranc_project_sql_primary_final`. Tyto údaje nám poskytují přehled o změnách dostupnosti základních potravin v čase.
@@ -32,20 +33,21 @@ Kupní síla je vypočítána jako poměr průměrné hrubé mzdy k průměrné 
 **Výsledky**
 
 | Rok | Průměrná mzda (Kč) | Cena chleba (Kč/kg) | Cena mléka (Kč/l) | Kupní síla chleba (kg) | Kupní síla mléka (l) |
-|-----|--------------------|---------------------|-------------------|------------------------|-----------------------|
-|2006 | 20 677,04          | 16,12               | 14,44             | 1 282,41               | 1 432,14              |
-|2021 | 32 485,09          | 24,24               | 19,82             | 1 340,23               | 1 639,21              |
+|-----|--------------------|---------------------|-------------------|------------------------|----------------------|
+|2006 | 20 677,04          | 16,12               | 14,44             | 1 282,41               | 1 432,14             |
+|2018 | 32 485,09          | 24,24               | 19,82             | 1 340,23               | 1 639,21             |
 
 
 **Z výpočtů je patrné, že:**
 
 -   **Kupní síla obyvatel obecně rostla** jak u chleba, tak u mléka. Průměrná mzda v roce 2018 umožňuje zakoupit více litrů mléka i kilogramů chleba než v roce 2006.
--   **Nárůst kupní síly byl výraznější u mléka.** Zatímco počet litrů mléka, které si průměrný člověk mohl koupit, vzrostl z 1 432,14 l na 1 639,21 l (nárůst o 207,07 l), počet kilogramů chleba vzrostl z 1 282,41 kg na 1 340,23 kg (nárůst o 57,82 kg). Tento rozdíl naznačuje, že cena mléka rostla pomaleji ve srovnání s průměrnou mzdou a cenou chleba.
+-   **Nárůst kupní síly byl výraznější u mléka.** Zatímco počet litrů mléka, které si průměrný člověk mohl koupit, vzrostl z 1 432,14 l na 1 639,21 l (nárůst o 207,07 l) což představuje 12,63 %, počet kilogramů chleba vzrostl z 1 282,41 kg na 1 340,23 kg (nárůst o 57,82 kg), což představuje 4,31 %. Tento rozdíl naznačuje, že cena mléka rostla pomaleji ve srovnání s průměrnou mzdou a cenou chleba.
 
 **Závěr**
 
 Ve sledovaném období (2006-2018) došlo ke zvýšení kupní síly domácností při nákupu základních potravin, konkrétně chleba a mléka. Růst průměrné mzdy převýšil tempo růstu cen obou komodit, což vedlo k vyšší dostupnosti těchto základních položek pro průměrného zaměstnance. Tento trend svědčí o zlepšení ekonomické situace domácností z hlediska dostupnosti potravin, byť je důležité sledovat i další faktory (např. inflaci, náklady na bydlení či energie), které mohou celkovou kupní sílu ovlivňovat.
 
+---
 ## 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 
 V rámci sledování vývoje cen potravin jsme analyzovali meziroční nárůst cen vybraných potravinářských kategorií, dostupných v tabulce `t_matej_lauterkranc_project_sql_primary_final`. Cílem bylo identifikovat potravinu s nejnižším procentuálním meziročním změnou ceny, tedy tu, která v čase zdražuje nejpomaleji.
@@ -82,7 +84,7 @@ Na základě dostupných dat o meziročním procentuálním růstu cen vybranýc
 
 **`Cukr krystalový`** je z hlediska dlouhodobé cenové stability a meziročního růstu cen nejvýraznějším příkladem potraviny, která nezdražuje nebo dokonce mírně zlevňuje. Tento trend může být způsoben řadou faktorů, jako je konkurence, stabilizace výrobních nákladů nebo příznivý vývoj cen surovin na světových trzích. U sezónních produktů, jako je **`Kapr živý`**, je třeba počítat s vyššími výkyvy cen. Pro komplexní analýzu cenové dostupnosti potravin je vhodné zohlednit nejen absolutní procentuální změny, ale i charakter produktu, jeho sezónnost a další externí faktory.
 
-
+---
 ## 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 
 Analyzovali jsme data z `t_matej_lauterkranc_project_sql_primary_final` o meziročním procentuálním nárůstu průměrných cen mléka a chleba a růstu průměrné mzdy, abychom zjistili, zda existoval rok, ve kterém by byl růst cen potravin (mléka nebo chleba) o více než 10 procentních bodů vyšší než růst mezd.
@@ -119,7 +121,7 @@ Na rozdíl od původního předpokladu **existují roky (konkrétně 2007, 2008 
 
 Prozkoumali jsme korelace mezi HDP na obyvatele (z `t_matej_lauterkranc_project_sql_secondary_final`) a průměrnými mzdami, cenami mléka a chleba (z `t_matej_lauterkranc_project_sql_primary_final`) pro Českou republiku. Cílem bylo zjistit, zda existuje vztah mezi ekonomickým růstem a vývojem mzdové úrovně a cen potravin.
 
----
+--
 
 **Výsledky korelační analýzy (současný rok):**
 
@@ -131,7 +133,7 @@ Tato analýza zkoumá vztah mezi HDP a mzdami/cenami potravin ve stejném roce.
 | HDP vs. Cena mléka      | 0,64             |
 | HDP vs. Cena chleba     | 0,70             |
 
----
+-
 
 **Výsledky korelační analýzy (HDP vs. následující rok):**
 
