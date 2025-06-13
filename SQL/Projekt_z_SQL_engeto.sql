@@ -275,7 +275,7 @@ WHERE
     AND (
         ((avg_milk_price - prev_milk) / NULLIF(prev_milk, 0) * 100) > ((avg_wage - prev_wage) / NULLIF(prev_wage, 0) * 100) + 10
         OR
-        ((avg_bread_price - prev_bread) / NULLIF(prev_bread, 0) * 100) > ((avg_wage - prev_wage) / NULLIF(wage - prev_wage, 0) * 100) + 10 -- Corrected NULLIF denominator here
+        ((avg_bread_price - prev_bread) / NULLIF(prev_bread, 0) * 100) > ((avg_wage - prev_wage) / NULLIF(prev_wage, 0) * 100) + 10 -- TADY BYLA CHYBA: "wage" změněno na "avg_wage"
     )
 ORDER BY
     "year";
