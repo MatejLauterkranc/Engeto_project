@@ -99,6 +99,7 @@ Všechny následující otázky jsou zodpovězeny **výhradně na základě dat 
 3.  Skript nejprve smaže existující finální tabulky (pokud existují) a poté je znovu vytvoří s aktuálními daty.
 4.  Následují dotazy pro zobrazení prvních řádků finálních tabulek.
 5.  Nakonec jsou v skriptu definovány a spuštěny SQL dotazy, které získávají data potřebná k zodpovězení všech pěti výzkumných otázek.
+6.  Výzkumné otázky jsou zodpovězeny v samostatném souboru `Answers_to_research_questions.md`.
 
 ## Kontakt
 Máte otázky? Kontaktujte mě na [LinkedIn](https://www.linkedin.com/in/mat%C4%9Bj-lauterkranc-8a9b7a228/) nebo přes e-mail: m.lauterkranc@gmail.com
