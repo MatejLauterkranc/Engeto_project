@@ -313,13 +313,15 @@ SELECT
 FROM
     joined_data;
 
+-----
+
 WITH yearly_data AS (
     SELECT
         tpf.year,
-        tpf.overall_avg_wage,
-        tpf.avg_price_milk,
-        tpf.avg_price_bread,
-        tsf.gdp_per_capita
+        AVG(tpf.overall_avg_wage) AS overall_avg_wage, -- Použijte AVG() pro agregaci na roční průměr
+        AVG(tpf.avg_price_milk) AS avg_price_milk,     -- Použijte AVG() pro agregaci na roční průměr
+        AVG(tpf.avg_price_bread) AS avg_price_bread,   -- Použijte AVG() pro agregaci na roční průměr
+        AVG(tsf.gdp_per_capita) AS gdp_per_capita      -- Použijte AVG() pro agregaci na roční průměr
     FROM
         t_matej_lauterkranc_project_sql_primary_final tpf
     JOIN
@@ -331,6 +333,8 @@ WITH yearly_data AS (
         AND tpf.avg_price_milk IS NOT NULL
         AND tpf.avg_price_bread IS NOT NULL
         AND tsf.gdp_per_capita IS NOT NULL
+    GROUP BY
+        tpf.year -- Klíčová změna: Seskládejte data podle roku
 ),
 lagged_data AS (
     SELECT
@@ -366,7 +370,6 @@ WHERE
     AND prev_avg_price_bread IS NOT NULL
 ORDER BY
     year;
-
 
 -- ================================================
 -- Optional (for Question 5): GDP effect one year ahead
