@@ -8,7 +8,11 @@ Tento projekt analyzuje dostupnost základních potravin (primárně mléka a ch
 
 ## Zadání projektu (rekapitulace)
 
-Cílem je připravit robustní datové podklady, které umožní porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období. Jako dodatečný materiál je požadována tabulka s HDP, GINI koeficientem a populací dalších evropských států ve stejném období jako primární přehled pro ČR.
+Na analytickém oddělení nezávislé společnosti, která se zabývá životní úrovní občanů, bylo dohodnuto, že se pokusíme odpovědět na pár definovaných výzkumných otázek, které adresují dostupnost základních potravin široké veřejnosti. Kolegové již vydefinovali základní otázky, na které se pokusí odpovědět a poskytnout tuto informaci tiskovému oddělení. Toto oddělení bude výsledky prezentovat na následující konferenci zaměřené na tuto oblast.
+
+Pro tento úkol je potřeba připravit robustní datové podklady, ve kterých bude možné vidět porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období.
+
+Jako dodatečný materiál je požadována tabulka s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR.
 
 Výstupem projektu mají být dvě tabulky v databázi:
 1.  `t_matej_lauterkranc_project_sql_primary_final`: Data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období. Tato tabulka je rozšířena o detaily potřebné pro zodpovězení všech výzkumných otázek (např. mzdy dle odvětví, ceny všech kategorií potravin).
@@ -16,10 +20,12 @@ Výstupem projektu mají být dvě tabulky v databázi:
 
 Dále je potřeba připravit sadu SQL dotazů, které z těchto dvou nově vytvořených tabulek získají datový podklad k odpovězení na vytyčené výzkumné otázky.
 
+
 ## Datové zdroje
 
 Projekt využívá data z veřejně dostupné databáze Engeto Akademie (nebo jejích zrcadlených online verzí). Konkrétně se jedná o následující tabulky:
-
+¨
+**Primární tabulky:**
 - `czechia_payroll` – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
 - `czechia_payroll_calculation` – Číselník kalkulací v tabulce mezd.
 - `czechia_payroll_industry_branch` – Číselník odvětví v tabulce mezd.
@@ -27,11 +33,12 @@ Projekt využívá data z veřejně dostupné databáze Engeto Akademie (nebo je
 - `czechia_payroll_value_type` – Číselník typů hodnot v tabulce mezd.
 - `czechia_price` – Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
 - `czechia_price_category` – Číselník kategorií potravin, které se vyskytují v našem přehledu.
+**Číselníky sdílených informací o ČR:**
 - `czechia_region` – Číselník krajů České republiky dle normy CZ-NUTS 2.
 - `czechia_district` – Číselník okresů České republiky dle normy LAU.
+**Dodatečné tabulky:**
 - `countries` - Všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace.
 - `economies` - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
-
 **Poznámka:** Je nutné mít přístup k těmto datům – bez nich projekt nebude fungovat. Pokud databázi nemáte, je třeba si ji stáhnout z oficiálního vzdělávacího rozhraní Engeto Akademie (viz jejich studijní portál).
 
 ## Výstupní tabulky
