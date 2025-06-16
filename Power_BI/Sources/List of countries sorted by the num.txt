@@ -1,0 +1,167 @@
+List of countries sorted by the number of search squares:
+- Vatican (VAT): 1 squares
+- Nauru (NAU): 4 squares
+- San Marino (SAN): 6 squares
+- Kuwait (KUW): 12 squares
+- Liechtenstein (LIE): 20 squares
+- Niue (NIU): 20 squares
+- Barbados (BAR): 30 squares
+- Andorra (AND): 40 squares
+- Malta (MAL): 54 squares
+- Singapore (SIN): 70 squares
+- Antigua And Barbuda (ANT): 90 squares
+- Grenada (GRE): 99 squares
+- Saint Vincent And The Grenadines (SAI): 136 squares
+- Bahrain (BAH): 160 squares
+- Mauritius (MAU): 165 squares
+- Luxembourg (LUX): 240 squares
+- Samoa (SAM): 377 squares
+- Brunei (BRU): 546 squares
+- Comoros (COM): 594 squares
+- Qatar (QAT): 665 squares
+- Sao Tome And Principe (SAO): 735 squares
+- Palestine (PAL): 756 squares
+- Jamaica (JAM): 765 squares
+- Trinidad And Tobago (TRI): 810 squares
+- Eswatini (ESW): 864 squares
+- Gambia (GAM): 976 squares
+- Lebanon (LEB): 1023 squares
+- Cyprus (CYP): 1152 squares
+- Djibouti (DJI): 1224 squares
+- El Salvador (EL ): 1300 squares
+- Montenegro (MON): 1365 squares
+- Rwanda (RWA): 1476 squares
+- Burundi (BUR): 1628 squares
+- Belize (BEL): 1855 squares
+- East Timor (EAS): 1876 squares
+- Slovenia (SLO): 1950 squares
+- Lesotho (LES): 2107 squares
+- Albania (ALB): 2196 squares
+- Israel (ISR): 2204 squares
+- Guinea Bissau (GUI): 2294 squares
+- Bhutan (BHU): 2312 squares
+- Haiti (HAI): 2436 squares
+- Cape Verde (CAP): 2695 squares
+- Armenia (ARM): 3200 squares
+- Equatorial Guinea (EQU): 3540 squares
+- Switzerland (SWI): 3640 squares
+- Dominican Republic (DOM): 3700 squares
+- Sierra Leone (SIE): 3782 squares
+- Sri Lanka (SRI): 3871 squares
+- Togo (TOG): 3939 squares
+- Bosnia And Herzegovina (BOS): 4290 squares
+- Moldova (MOL): 4331 squares
+- Estonia (EST): 5676 squares
+- Panama (PAN): 5950 squares
+- Lithuania (LIT): 6018 squares
+- Guatemala (GUA): 6642 squares
+- Czech (CZE): 6800 squares
+- Tonga (TON): 6800 squares
+- Georgia (GEO): 6885 squares
+- Suriname (SUR): 6972 squares
+- Latvia (LAT): 7154 squares
+- Jordan (JOR): 7308 squares
+- Serbia (SER): 7308 squares
+- Bulgaria (BUL): 7560 squares
+- Benin (BEN): 7688 squares
+- Ireland (IRE): 7695 squares
+- Hungary (HUN): 7752 squares
+- Tuvalu (TUV): 8008 squares
+- Austria (AUS): 8109 squares
+- Azerbaijan (AZE): 8733 squares
+- Nicaragua (NIC): 8787 squares
+- Honduras (HON): 8875 squares
+- Cook Islands (COO): 9440 squares
+- Croatia (CRO): 10080 squares
+- Costa Rica (COS): 10580 squares
+- Uruguay (URU): 10791 squares
+- Vanuatu (VAN): 10800 squares
+- Senegal (SEN): 11000 squares
+- Bangladesh (BAN): 11468 squares
+- Ghana (GHA): 11610 squares
+- Tunisia (TUN): 12054 squares
+- Uganda (UGA): 12535 squares
+- Nepal (NEP): 13366 squares
+- Syria (SYR): 13736 squares
+- Tajikistan (TAJ): 13816 squares
+- Guyana (GUY): 14652 squares
+- Iceland (ICE): 14718 squares
+- Gabon (GAB): 14868 squares
+- Eritrea (ERI): 15255 squares
+- Cuba (CUB): 15260 squares
+- Ivory Coast (IVO): 15744 squares
+- Romania (ROM): 17763 squares
+- Kyrgyzstan (KYR): 18040 squares
+- Zimbabwe (ZIM): 21509 squares
+- Western Sahara (WES): 23630 squares
+- Poland (POL): 23718 squares
+- Laos (LAO): 26144 squares
+- Congo (CON): 26576 squares
+- Seychelles (SEY): 26593 squares
+- Paraguay (PAR): 28056 squares
+- Germany (GER): 28704 squares
+- Kenya (KEN): 30080 squares
+- Oman (OMA): 31284 squares
+- Iraq (IRA): 32899 squares
+- Botswana (BOT): 34404 squares
+- Cameroon (CAM): 35495 squares
+- Yemen (YEM): 35584 squares
+- Madagascar (MAD): 40278 squares
+- Morocco (MOR): 40504 squares
+- Ecuador (ECU): 42900 squares
+- Turkmenistan (TUR): 43890 squares
+- South Sudan (SOU): 44000 squares
+- Vietnam (VIE): 44100 squares
+- Sweden (SWE): 45080 squares
+- Central African Republic (CEN): 45936 squares
+- Marshall Islands (MAR): 46284 squares
+- Zambia (ZAM): 46295 squares
+- Nigeria (NIG): 46320 squares
+- Solomon Islands (SOL): 46452 squares
+- Egypt (EGY): 47530 squares
+- Tanzania (TAN): 47952 squares
+- Thailand (THA): 49766 squares
+- Finland (FIN): 50922 squares
+- Afghanistan (AFG): 52704 squares
+- Italy (ITA): 55687 squares
+- Somalia (SOM): 57540 squares
+- Uzbekistan (UZB): 57967 squares
+- Ukraine (UKR): 58282 squares
+- Bolivia (BOL): 64660 squares
+- Philippines (PHI): 64796 squares
+- Namibia (NAM): 65280 squares
+- Papua New Guinea (PAP): 66576 squares
+- Chad (CHA): 67731 squares
+- Angola (ANG): 67977 squares
+- Myanmar (MYA): 68220 squares
+- Saudi Arabia (SAU): 68628 squares
+- Ethiopia (ETH): 69000 squares
+- Mozambique (MOZ): 70406 squares
+- Venezuela (VEN): 81571 squares
+- Libya (LIB): 86584 squares
+- Sudan (SUD): 86614 squares
+- Pakistan (PAK): 87425 squares
+- Micronesia (MIC): 92820 squares
+- Peru (PER): 93585 squares
+- Portugal (POR): 98392 squares
+- Colombia (COL): 120094 squares
+- Spain (SPA): 146124 squares
+- Algeria (ALG): 150282 squares
+- Mexico (MEX): 230776 squares
+- Kazakhstan (KAZ): 244283 squares
+- Argentina (ARG): 265734 squares
+- Japan (JAP): 267460 squares
+- Indonesia (IND): 312219 squares
+- Brazil (BRA): 613085 squares
+- Fiji (FIJ): 719900 squares
+- China (CHI): 921952 squares
+- Denmark (DEN): 1031910 squares
+- Netherlands (NET): 1288651 squares
+- Canada (CAN): 1468270 squares
+- Kiribati (KIR): 1470560 squares
+- Norway (NOR): 2310924 squares
+- Russia (RUS): 5302938 squares
+- New Zealand (NEW): 6315120 squares
+- United Kingdom (UNI): 9786862 squares
+- Usa (USA): 12349600 squares
+- France (FRA): 13985613 squares

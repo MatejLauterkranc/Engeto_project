@@ -34,3 +34,28 @@ https://www.carlogos.org/car-brands/
 
 Palete visualisation
 https://platesmania.com/de/informer
+
+CO2 emissions from new passenger cars
+https://co2cars.apps.eea.europa.eu/?source=%7B%22track_total_hits%22%3Atrue%2C%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22constant_score%22%3A%7B%22filter%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22bool%22%3A%7B%22should%22%3A%5B%7B%22term%22%3A%7B%22year%22%3A2024%7D%7D%5D%7D%7D%2C%7B%22bool%22%3A%7B%22should%22%3A%5B%7B%22term%22%3A%7B%22scStatus%22%3A%22Provisional%22%7D%7D%5D%7D%7D%5D%7D%7D%7D%7D%5D%7D%7D%2C%22display_type%22%3A%22tabular%22%7D
+
+
+Transport and environment report 2021 - Report (PDF)Published 01 Jun 2022
+https://www.eea.europa.eu/en/analysis/publications/transport-and-environment-report-2021
+
+Electric vehicles from life cycle and circular economy perspectives - TERM 2018
+https://www.eea.europa.eu/en/analysis/publications/electric-vehicles-from-life-cycle
+
+Database Transport
+https://ec.europa.eu/eurostat/web/transport/database
+
+Gas price  by Country
+https://tradingeconomics.com/country-list/gasoline-prices?continent=world
+
+Exchange value
+https://www.cnb.cz/cs/financni-trhy/devizovy-trh/kurzy-devizoveho-trhu/kurzy-devizoveho-trhu/denni_kurz.txt
+
+Cost of Electricity by Country
+https://worldpopulationreview.com/country-rankings/cost-of-electricity-by-country
+
+ICE vehicle data
+https://data.opendatasoft.com/explore/dataset/all-vehicles-model%40public/export/?sort=modifiedon

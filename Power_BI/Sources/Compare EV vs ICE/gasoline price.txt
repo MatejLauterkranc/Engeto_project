@@ -1,0 +1,96 @@
+Country,Last,Previous,Reference,Unit
+Albania,2.01,2.03,May/25,USD/Liter
+Argentina,1,1.01,May/25,USD/Liter
+Australia,1.14,1.15,May/25,USD/Liter
+Austria,1.78,1.78,May/25,USD/Liter
+Azerbaijan,0.65,0.65,May/25,USD/Liter
+Bahrain,0.37,0.37,May/25,USD/Liter
+Belarus,0.66,0.65,May/25,USD/Liter
+Belgium,1.85,1.83,May/25,USD/Liter
+Bolivia,0.54,0.54,May/25,USD/Liter
+Bosnia and Herzegovina,1.34,1.4,May/25,USD/Liter
+Brazil,1.11,1.12,May/25,USD/Liter
+Bulgaria,1.36,1.39,May/25,USD/Liter
+Cambodia,1.16,1.17,May/25,USD/Liter
+Canada,1.07,1.04,May/25,USD/Liter
+Chile,1.33,1.33,May/25,USD/Liter
+China,0.83,0.85,May/25,USD/Liter
+Colombia,1.01,0.97,May/25,USD/Liter
+Costa Rica,1.36,1.33,May/25,USD/Liter
+Croatia,1.61,1.59,May/25,USD/Liter
+Cyprus,1.5,1.55,May/25,USD/Liter
+Czech Republic,1.61,1.64,May/25,USD/Liter
+Denmark,2.14,2.17,May/25,USD/Liter
+Egypt,0.35,0.34,May/25,USD/Liter
+El Salvador,0.94,0.92,May/25,USD/Liter
+Estonia,1.77,1.79,May/25,USD/Liter
+Finland,1.9,1.96,May/25,USD/Liter
+France,1.98,1.99,May/25,USD/Liter
+Germany,1.97,2.03,May/25,USD/Liter
+Ghana,1.5,1.1,May/25,USD/Liter
+Greece,1.96,1.96,May/25,USD/Liter
+Guatemala,1.02,1.03,May/25,USD/Liter
+Haiti,1.13,1.13,May/25,USD/Liter
+Honduras,0.93,0.94,May/25,USD/Liter
+Hong Kong,3.44,3.46,May/25,USD/Liter
+Hungary,1.63,1.65,May/25,USD/Liter
+Iceland,2.43,2.44,May/25,USD/Liter
+India,1.11,1.11,May/25,USD/Liter
+Indonesia,0.61,0.6,May/25,USD/Liter
+Iran,0.36,0.36,May/25,USD/Liter
+Ireland,2.04,2.05,May/25,USD/Liter
+Israel,2.03,2.02,May/25,USD/Liter
+Italy,2.03,2.05,May/25,USD/Liter
+Jamaica,1,0.96,May/25,USD/Liter
+Japan,1.24,1.3,May/25,USD/Liter
+Kazakhstan,0.48,0.47,May/25,USD/Liter
+Kenya,1.35,1.36,May/25,USD/Liter
+Kuwait,0.28,0.28,May/25,USD/Liter
+Latvia,1.96,1.76,May/25,USD/Liter
+Lebanon,0.78,0.79,May/25,USD/Liter
+Lithuania,1.56,1.54,May/25,USD/Liter
+Luxembourg,1.65,1.65,May/25,USD/Liter
+Macedonia,1.38,1.35,May/25,USD/Liter
+Malaysia,0.48,0.47,May/25,USD/Liter
+Malta,1.19,1.18,May/25,USD/Liter
+Mexico,1.22,1.21,May/25,USD/Liter
+Montenegro,1.54,1.53,May/25,USD/Liter
+Netherlands,2.4,2.36,May/25,USD/Liter
+New Zealand,1.58,1.57,May/25,USD/Liter
+Nicaragua,1.33,1.33,May/25,USD/Liter
+Nigeria,0.65,0.64,May/25,USD/Liter
+Norway,1.9,1.97,Apr/25,USD/Liter
+Oman,0.61,0.61,May/25,USD/Liter
+Pakistan,0.89,0.91,May/25,USD/Liter
+Paraguay,0.73,0.77,May/25,USD/Liter
+Peru,1.08,1.19,May/25,USD/Liter
+Philippines,0.98,0.98,May/25,USD/Liter
+Poland,1.56,1.61,May/25,USD/Liter
+Portugal,1.91,1.92,May/25,USD/Liter
+Puerto Rico,0.74,0.74,May/25,USD/Liter
+Qatar,0.53,0.55,May/25,USD/Liter
+Romania,1.57,1.59,May/25,USD/Liter
+Russia,0.76,0.75,May/25,USD/Liter
+Saudi Arabia,0.62,0.62,May/25,USD/Liter
+Serbia,1.7,1.71,May/25,USD/Liter
+Singapore,2.83,2.83,May/25,USD/Liter
+Slovakia,1.31,1.3,May/25,USD/Liter
+Slovenia,1.3,1.27,May/25,USD/Liter
+South Africa,1.19,1.17,May/25,USD/Liter
+South Korea,1.18,1.14,May/25,USD/Liter
+Spain,1.71,1.75,May/25,USD/Liter
+Sudan,1.05,1.05,May/25,USD/Liter
+Sweden,1.55,1.57,May/25,USD/Liter
+Switzerland,2.08,2.13,May/25,USD/Liter
+Tanzania,1.09,1.13,May/25,USD/Liter
+Thailand,1,0.98,May/25,USD/Liter
+Trinidad And Tobago,0.53,0.55,Apr/25,USD/Liter
+Turkey,1.21,1.19,May/25,USD/Liter
+Ukraine,1.35,1.3,May/25,USD/Liter
+United Arab Emirates,0.67,0.67,May/25,USD/Liter
+United Kingdom,1.79,1.79,May/25,USD/Liter
+United States,0.83,0.84,May/25,USD/Liter
+Uruguay,1.89,1.87,May/25,USD/Liter
+Venezuela,0.01,0.01,May/25,USD/Liter
+Vietnam,0.74,0.74,May/25,USD/Liter
+Zimbabwe,1.53,1.53,May/25,USD/Liter
