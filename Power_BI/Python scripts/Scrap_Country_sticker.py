@@ -1,7 +1,7 @@
 import pycountry
 import pandas as pd
 
-# Vytvoříme seznam slovníků
+# Create a list of dictionaries
 countries = []
 
 for country in pycountry.countries:
@@ -10,8 +10,8 @@ for country in pycountry.countries:
         "Code": country.alpha_2
     })
 
-# Převedeme na DataFrame a uložíme do CSV
+# Convert to DataFrame and save to CSV
 df = pd.DataFrame(countries)
 df.to_csv("countries.csv", index=False, encoding="utf-8-sig")
 
-print("Data byla úspěšně uložena do countries.csv")
+print("Data successfully saved to countries.csv")
