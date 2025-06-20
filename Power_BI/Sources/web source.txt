@@ -61,4 +61,9 @@ ICE vehicle data
 https://data.opendatasoft.com/explore/dataset/all-vehicles-model%40public/export/?sort=modifiedon
 
 Car price data
-https://www.autotrader.co.uk/cars
+https://github.com/Azure/carprice/blob/master/dataset/carprice.csv
+https://github.com/YBIFoundation/Dataset/blob/main/Car%20Price.csv
+https://github.com/Abdalla28/Used-Cars
+https://github.com/rmadan16/LinearRegression_CarPrice
+https://github.com/sanithps98/Automobile-Dataset-Analysis
+https://github.com/sit-2021-int214/007-Car-Prices-Dataset
