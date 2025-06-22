@@ -8,18 +8,15 @@ from bs4 import BeautifulSoup
 import time
 import re
 import os
-import random # For random delays
+import random 
 
 # --- Configuration ---
 EDMUNDS_URL = "https://www.edmunds.com/inventory/srp.html"
-OUTPUT_CSV_FILE = "edmunds_scraped_prices_firefox_paginated_v2.csv" # New file name for distinction
+OUTPUT_CSV_FILE = "edmunds_scraped_prices_firefox_paginated_v3.csv" # Updated file name for new data
 
-# Get the directory path where this script is located
 script_dir = os.path.dirname(os.path.abspath(__file__))
-# Path to your local geckodriver
-GECKODRIVER_PATH = os.path.join(script_dir, 'geckodriver.exe') # On Linux/macOS just 'geckodriver'
+GECKODRIVER_PATH = os.path.join(script_dir, 'geckodriver.exe')
 
-# List of brands to scrape
 BRANDS_TO_SCRAPE = [
     "Volkswagen",
     "Tesla",
@@ -81,7 +78,7 @@ def scrape_page(driver, url):
         # Aggressive scrolling to load all content
         last_height = driver.execute_script("return document.body.scrollHeight")
         scroll_attempts = 0
-        max_scroll_attempts = 10 # Increased number of scroll attempts
+        max_scroll_attempts = 10 
         while scroll_attempts < max_scroll_attempts:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(random.uniform(5, 9)) # Longer random pause after each scroll
@@ -101,7 +98,7 @@ def scrape_page(driver, url):
 
 # --- Function for extracting data from HTML ---
 def extract_car_data(soup):
-    """Extracts car data (name, price, fuel type) from a BeautifulSoup object."""
+    """Extracts car data (name, price, year, fuel type) from a BeautifulSoup object."""
     cars_data = []
     
     vehicle_cards = soup.find_all('div', class_='clickable-card')
@@ -115,26 +112,39 @@ def extract_car_data(soup):
         
         # --- NEW CODE FOR FUEL TYPE ---
         fuel_type = "Gas/Diesel" # Default value
-        # Look for the lightning bolt icon (Electric Vehicle)
-        # The icon is inside the h2 heading (or anywhere within the card)
         electric_icon = card.find('i', class_='icon-power2')
         
         if electric_icon:
             fuel_type = "Electric"
-        # --- END OF NEW CODE ---
+        # --- END OF NEW CODE FOR FUEL TYPE ---
 
-        car_name = name_element.get_text(strip=True) if name_element else None
+        car_name_raw = name_element.get_text(strip=True) if name_element else None
         price_text = price_element.get_text(strip=True) if price_element else None
 
-        if car_name and price_text:
-            # Remove lightning bolt icon from car name if present
-            # If electric_icon is found and car_name exists,
-            # we need to consider if get_text(strip=True) correctly handles
-            # stripping the icon's HTML without affecting the actual text.
-            # Usually, get_text(strip=True) will just ignore HTML tags.
-            # If the name was getting truncated before the icon, we'd need a different approach.
-            pass # With icon-power2, get_text(strip=True) should be fine.
+        # --- NEW CODE FOR YEAR EXTRACTION ---
+        car_year = None
+        if car_name_raw:
+            # Use regex to find a 4-digit number at the beginning of the string
+            year_match = re.match(r'(\d{4})', car_name_raw)
+            if year_match:
+                car_year = int(year_match.group(1))
+                # Remove the year and leading space from the car_name
+                car_name = car_name_raw[len(year_match.group(0)):].strip()
+                # Also remove the electric icon text if it somehow got included
+                if electric_icon:
+                    # The icon itself is HTML, get_text(strip=True) usually cleans it,
+                    # but if "Electric" or similar text from the icon's parent
+                    # was included in car_name_raw, we might need to remove it.
+                    # For now, let's assume the icon HTML doesn't pollute the name.
+                    pass
+            else:
+                car_name = car_name_raw # If no year found, keep original name
+        else:
+            car_name = None
+        # --- END OF NEW CODE FOR YEAR EXTRACTION ---
 
+
+        if car_name and price_text:
             cleaned_price = re.sub(r'[$,]', '', price_text)
             try:
                 price_value = float(cleaned_price)
@@ -142,7 +152,8 @@ def extract_car_data(soup):
                     'Scraped_Car_Name': car_name,
                     'Scraped_Price_USD': price_value,
                     'Scraped_Currency': 'USD',
-                    'Fuel_Type': fuel_type # Add fuel type
+                    'Car_Year': car_year,  # Add the extracted year
+                    'Fuel_Type': fuel_type 
                 })
             except ValueError:
                 print(f"Could not convert price '{cleaned_price}' to a number for {car_name}.")
@@ -160,12 +171,10 @@ def main():
     for brand in BRANDS_TO_SCRAPE:
         print(f"\n--- Scraping data for brand: {brand} ---")
         current_page_num = 1
-        max_pages_to_scrape = 100 # Increased page limit, as we know they exist
+        max_pages_to_scrape = 100 
         
-        # Track whether data was found on the previous page.
-        # If no cards are found on two consecutive pages, we are likely at the end.
         consecutive_empty_pages = 0
-        max_consecutive_empty = 2 # Number of empty pages after which we stop
+        max_consecutive_empty = 2 
 
         while current_page_num <= max_pages_to_scrape:
             search_url = f"{EDMUNDS_URL}?make={brand}&zip={US_ZIP_CODE}&pagenumber={current_page_num}"
@@ -173,37 +182,37 @@ def main():
 
             soup = scrape_page(driver, search_url)
             
-            if soup is None: # Page load completely failed (e.g., driver error)
+            if soup is None: 
                 print(f"Failed to load page {current_page_num} for {brand}. Skipping to next brand.")
                 break 
 
             brand_data_on_page = extract_car_data(soup)
             
-            if brand_data_on_page: # If cars were found on the page
+            if brand_data_on_page: 
                 all_scraped_data.extend(brand_data_on_page)
                 print(f"Found {len(brand_data_on_page)} cars on page {current_page_num} for brand {brand}. Total: {len(all_scraped_data)}")
                 current_page_num += 1 
-                consecutive_empty_pages = 0 # Reset empty page counter
-                time.sleep(random.uniform(4, 8)) # Random pause before next page
+                consecutive_empty_pages = 0 
+                time.sleep(random.uniform(4, 8)) 
             else:
                 consecutive_empty_pages += 1
                 print(f"No cars found on page {current_page_num} for {brand}. Consecutive empty pages: {consecutive_empty_pages}")
                 
                 if consecutive_empty_pages >= max_consecutive_empty:
                     print(f"Reached {max_consecutive_empty} consecutive empty pages for {brand}. Assuming end of results.")
-                    break # Exit loop for this brand
+                    break 
                 
-                current_page_num += 1 # Even if the page is empty, try the next one, just in case
-                time.sleep(random.uniform(4, 8)) # Pause even after an empty page
+                current_page_num += 1 
+                time.sleep(random.uniform(4, 8)) 
 
 
-        time.sleep(random.uniform(8, 15)) # Longer random pause between brands
+        time.sleep(random.uniform(8, 15)) 
 
-    driver.quit() # Close the browser
+    driver.quit() 
 
     if all_scraped_data:
         df_scraped = pd.DataFrame(all_scraped_data)
-        df_scraped.to_csv(OUTPUT_CSV_FILE, index=False)
+        df_scraped.to_csv(OUTPUT_CSV_FILE, index=False, decimal=',')
         print(f"\nScraping complete. Data saved to '{OUTPUT_CSV_FILE}'")
         print(df_scraped.head())
     else:
