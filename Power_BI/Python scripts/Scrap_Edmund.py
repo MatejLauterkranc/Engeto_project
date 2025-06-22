@@ -8,15 +8,18 @@ from bs4 import BeautifulSoup
 import time
 import re
 import os
-import random # Pro náhodné pauzy
+import random # For random delays
 
-# --- Konfigurace ---
+# --- Configuration ---
 EDMUNDS_URL = "https://www.edmunds.com/inventory/srp.html"
-OUTPUT_CSV_FILE = "edmunds_scraped_prices_firefox_paginated_v2.csv" # Nový název pro odlišení
+OUTPUT_CSV_FILE = "edmunds_scraped_prices_firefox_paginated_v2.csv" # New file name for distinction
 
+# Get the directory path where this script is located
 script_dir = os.path.dirname(os.path.abspath(__file__))
-GECKODRIVER_PATH = os.path.join(script_dir, 'geckodriver.exe')
+# Path to your local geckodriver
+GECKODRIVER_PATH = os.path.join(script_dir, 'geckodriver.exe') # On Linux/macOS just 'geckodriver'
 
+# List of brands to scrape
 BRANDS_TO_SCRAPE = [
     "Volkswagen",
     "Tesla",
@@ -25,76 +28,80 @@ BRANDS_TO_SCRAPE = [
 
 US_ZIP_CODE = "90210" 
 
-# --- Inicializace WebDriveru (beze změny) ---
+# --- WebDriver Initialization ---
 def initialize_driver():
+    """Initializes and returns a WebDriver for Firefox."""
     options = webdriver.FirefoxOptions()
-    # options.add_argument("--headless")
+    # options.add_argument("--headless") # Runs the browser in the background (without GUI) - uncomment for production
+    
     options.set_preference("general.useragent.override", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0") 
+
     try:
         service = Service(GECKODRIVER_PATH) 
         driver = webdriver.Firefox(service=service, options=options)
         return driver
     except Exception as e:
-        print(f"Chyba při inicializaci WebDriveru (Firefox): {e}")
-        print(f"Ujistěte se, že '{GECKODRIVER_PATH}' existuje a je kompatibilní s vaším Firefoxem.")
+        print(f"Error initializing WebDriver (Firefox): {e}")
+        print(f"Ensure that '{GECKODRIVER_PATH}' exists and is compatible with your Firefox.")
         return None
 
-# --- Funkce pro scraping jedné stránky (úpravy v čekání a rolování) ---
+# --- Function for scraping a single page (with adjusted waiting and scrolling) ---
 def scrape_page(driver, url):
-    """Načte URL, zavře privacy banner, počká na další pop-upy, roluje a vrátí HTML."""
+    """Loads the URL, closes privacy banner, waits for other pop-ups, scrolls, and returns HTML."""
     try:
         driver.get(url)
 
-        # Čekání na privacy banner - stále důležité, i když se ne vždy objeví
+        # Wait for privacy banner - still important, even if it doesn't always appear
         try:
             privacy_close_button = WebDriverWait(driver, 20).until(
                 EC.element_to_be_clickable((By.CSS_SELECTOR, 'button.close-btn[data-tracking-id="close_privacy_disclaimer"]'))
             )
             privacy_close_button.click()
-            print("Privacy banner byl uzavřen.")
-            time.sleep(random.uniform(2, 4)) # Náhodná pauza
+            print("Privacy banner was closed.")
+            time.sleep(random.uniform(2, 4)) # Random pause
         except Exception as e:
-            print(f"Privacy banner nebyl nalezen nebo se nepodařilo kliknout (možná už není zobrazen): {e}")
+            print(f"Privacy banner not found or could not be clicked (perhaps no longer displayed): {e}")
             
-        print("Čekám na zmizení dalších pop-upů (např. Google přihlášení)...")
-        time.sleep(random.uniform(5, 9)) # Delší náhodná pauza pro pop-upy
+        print("Waiting for other pop-ups (e.g., Google login) to disappear...")
+        time.sleep(random.uniform(5, 9)) # Longer random pause for pop-ups
 
-        # Čekáme na přítomnost hlavního prvku s auty (`clickable-card`)
+        # Wait for the main vehicle element (`clickable-card`) to be present
         try:
-            WebDriverWait(driver, 60).until( # Dlouhé čekání
+            WebDriverWait(driver, 60).until( # Long wait
                 EC.presence_of_element_located((By.CLASS_NAME, "clickable-card"))
             )
-            print("Nalezen alespoň jeden 'clickable-card' prvek vozidla. Stránka by měla být načtena.")
-            time.sleep(random.uniform(3, 6)) # Náhodná pauza po nalezení prvku
+            print("At least one 'clickable-card' vehicle element found. Page should be loaded.")
+            time.sleep(random.uniform(3, 6)) # Random pause after finding the element
         except Exception as e:
-            print(f"Chyba: Žádné 'clickable-card' vozidlo nebylo nalezeno po 60 sekundách čekání na {url}: {e}")
-            # Pokud se nenašlo žádné auto, vrátíme prázdné HTML (nebo to nechejme zpracovat dál)
-            # Důležité: Tady nevracíme None, abychom umožnili ověření v extract_car_data
-            return BeautifulSoup("", 'html.parser') # Vrátíme prázdný soup, pokud se nic nenašlo
+            print(f"Error: No 'clickable-card' vehicle found after 60 seconds of waiting on {url}: {e}")
+            # If no car was found, return empty HTML (or let it be processed further)
+            # Important: We are not returning None here, to allow verification in extract_car_data
+            return BeautifulSoup("", 'html.parser') # Return empty soup if nothing was found
 
-        # Agresivní rolování pro načtení veškerého obsahu
+        # Aggressive scrolling to load all content
         last_height = driver.execute_script("return document.body.scrollHeight")
         scroll_attempts = 0
-        max_scroll_attempts = 10 # Zvýšil jsem počet pokusů o rolování
+        max_scroll_attempts = 10 # Increased number of scroll attempts
         while scroll_attempts < max_scroll_attempts:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(random.uniform(5, 9)) # Delší náhodná pauza po každém rolování
+            time.sleep(random.uniform(5, 9)) # Longer random pause after each scroll
             new_height = driver.execute_script("return document.body.scrollHeight")
             if new_height == last_height:
-                print(f"Dosaženo dna po {scroll_attempts + 1} rolováních.")
+                print(f"Reached bottom after {scroll_attempts + 1} scrolls.")
                 break 
             last_height = new_height
             scroll_attempts += 1
         
-        print("Rolování dokončeno, získávám HTML kód stránky.")
+        print("Scrolling complete, getting page HTML code.")
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         return soup
     except Exception as e:
-        print(f"Chyba při načítání stránky {url} (celkově): {e}")
+        print(f"Error loading page {url} (overall): {e}")
         return None
 
-# --- Funkce pro extrakci dat z HTML (beze změny) ---
+# --- Function for extracting data from HTML ---
 def extract_car_data(soup):
+    """Extracts car data (name, price, fuel type) from a BeautifulSoup object."""
     cars_data = []
     
     vehicle_cards = soup.find_all('div', class_='clickable-card')
@@ -105,25 +112,44 @@ def extract_car_data(soup):
     for card in vehicle_cards:
         name_element = card.find('div', class_='size-16 text-cool-gray-10 fw-bold mb-0_5')
         price_element = card.find('span', class_='heading-3')
+        
+        # --- NEW CODE FOR FUEL TYPE ---
+        fuel_type = "Gas/Diesel" # Default value
+        # Look for the lightning bolt icon (Electric Vehicle)
+        # The icon is inside the h2 heading (or anywhere within the card)
+        electric_icon = card.find('i', class_='icon-power2')
+        
+        if electric_icon:
+            fuel_type = "Electric"
+        # --- END OF NEW CODE ---
 
         car_name = name_element.get_text(strip=True) if name_element else None
         price_text = price_element.get_text(strip=True) if price_element else None
 
         if car_name and price_text:
+            # Remove lightning bolt icon from car name if present
+            # If electric_icon is found and car_name exists,
+            # we need to consider if get_text(strip=True) correctly handles
+            # stripping the icon's HTML without affecting the actual text.
+            # Usually, get_text(strip=True) will just ignore HTML tags.
+            # If the name was getting truncated before the icon, we'd need a different approach.
+            pass # With icon-power2, get_text(strip=True) should be fine.
+
             cleaned_price = re.sub(r'[$,]', '', price_text)
             try:
                 price_value = float(cleaned_price)
                 cars_data.append({
                     'Scraped_Car_Name': car_name,
                     'Scraped_Price_USD': price_value,
-                    'Scraped_Currency': 'USD'
+                    'Scraped_Currency': 'USD',
+                    'Fuel_Type': fuel_type # Add fuel type
                 })
             except ValueError:
-                print(f"Nelze převést cenu '{cleaned_price}' na číslo pro {car_name}.")
+                print(f"Could not convert price '{cleaned_price}' to a number for {car_name}.")
             
     return cars_data
 
-# --- Hlavní logika skriptu s upravenou paginací ---
+# --- Main script logic with adjusted pagination ---
 def main():
     driver = initialize_driver()
     if not driver:
@@ -132,56 +158,56 @@ def main():
     all_scraped_data = []
 
     for brand in BRANDS_TO_SCRAPE:
-        print(f"\n--- Scraping dat pro značku: {brand} ---")
+        print(f"\n--- Scraping data for brand: {brand} ---")
         current_page_num = 1
-        max_pages_to_scrape = 100 # Zvýšil jsem limit stránek, když víme, že existují
+        max_pages_to_scrape = 100 # Increased page limit, as we know they exist
         
-        # Sledujeme, zda jsme našli nějaká data na předchozí stránce.
-        # Pokud se na dvou po sobě jdoucích stránkách nenašly žádné karty, pak jsme pravděpodobně na konci.
+        # Track whether data was found on the previous page.
+        # If no cards are found on two consecutive pages, we are likely at the end.
         consecutive_empty_pages = 0
-        max_consecutive_empty = 2 # Počet prázdných stránek, po kterých zastavíme
+        max_consecutive_empty = 2 # Number of empty pages after which we stop
 
         while current_page_num <= max_pages_to_scrape:
             search_url = f"{EDMUNDS_URL}?make={brand}&zip={US_ZIP_CODE}&pagenumber={current_page_num}"
-            print(f"Načítám stránku {current_page_num} pro {brand} (URL: {search_url})")
+            print(f"Loading page {current_page_num} for {brand} (URL: {search_url})")
 
             soup = scrape_page(driver, search_url)
             
-            if soup is None: # Zcela selhalo načtení stránky (např. chyba s driverem)
-                print(f"Nepodařilo se načíst stránku {current_page_num} pro {brand}. Přeskakuji na další značku.")
+            if soup is None: # Page load completely failed (e.g., driver error)
+                print(f"Failed to load page {current_page_num} for {brand}. Skipping to next brand.")
                 break 
 
             brand_data_on_page = extract_car_data(soup)
             
-            if brand_data_on_page: # Pokud se na stránce našla nějaká auta
+            if brand_data_on_page: # If cars were found on the page
                 all_scraped_data.extend(brand_data_on_page)
-                print(f"Nalezeno {len(brand_data_on_page)} aut na stránce {current_page_num} pro značku {brand}. Celkem: {len(all_scraped_data)}")
+                print(f"Found {len(brand_data_on_page)} cars on page {current_page_num} for brand {brand}. Total: {len(all_scraped_data)}")
                 current_page_num += 1 
-                consecutive_empty_pages = 0 # Resetujeme počítadlo prázdných stránek
-                time.sleep(random.uniform(4, 8)) # Náhodná pauza před další stránkou
+                consecutive_empty_pages = 0 # Reset empty page counter
+                time.sleep(random.uniform(4, 8)) # Random pause before next page
             else:
                 consecutive_empty_pages += 1
-                print(f"Na stránce {current_page_num} pro {brand} nebyla nalezena žádná auta. Po sobě jdoucí prázdné stránky: {consecutive_empty_pages}")
+                print(f"No cars found on page {current_page_num} for {brand}. Consecutive empty pages: {consecutive_empty_pages}")
                 
                 if consecutive_empty_pages >= max_consecutive_empty:
-                    print(f"Dosaženo {max_consecutive_empty} po sobě jdoucích prázdných stránek pro {brand}. Předpokládám konec výsledků.")
-                    break # Ukončíme smyčku pro tuto značku
+                    print(f"Reached {max_consecutive_empty} consecutive empty pages for {brand}. Assuming end of results.")
+                    break # Exit loop for this brand
                 
-                current_page_num += 1 # I když je stránka prázdná, zkusíme další, pro jistotu
-                time.sleep(random.uniform(4, 8)) # Pauza i po prázdné stránce
+                current_page_num += 1 # Even if the page is empty, try the next one, just in case
+                time.sleep(random.uniform(4, 8)) # Pause even after an empty page
 
 
-        time.sleep(random.uniform(8, 15)) # Delší náhodná pauza mezi značkami
+        time.sleep(random.uniform(8, 15)) # Longer random pause between brands
 
-    driver.quit()
+    driver.quit() # Close the browser
 
     if all_scraped_data:
         df_scraped = pd.DataFrame(all_scraped_data)
         df_scraped.to_csv(OUTPUT_CSV_FILE, index=False)
-        print(f"\nScraping dokončen. Data uložena do '{OUTPUT_CSV_FILE}'")
+        print(f"\nScraping complete. Data saved to '{OUTPUT_CSV_FILE}'")
         print(df_scraped.head())
     else:
-        print("Žádná data nebyla nalezena.")
+        print("No data found.")
 
 if __name__ == "__main__":
     main()
