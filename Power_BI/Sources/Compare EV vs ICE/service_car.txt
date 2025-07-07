@@ -1,0 +1,13 @@
+Vehicle_Category,Fuel_Type,fuel,maintenance,depreciation,full_coverage_insurance,license_registration_taxes,finance_charges,cost_per_year,cost_per_day,cost_per_mile
+Medium Sedan,Electric,613.33,1138,6198,2053,980,1545,12527,34.32,0.835
+Medium Sedan,Gas,1881,1634,3768,1583,644,1047,10557,28.92,0.704
+Medium Sedan,Hybrid,1184,1419,3576,1545,671,1081,9476,25.96,0.632
+Compact SUV,Electric,729,1072,6441,1945,937,1457,12581,34.47,0.839
+Compact SUV,Gas,1904,1630,3683,1723,652,1064,10656,29.19,0.71
+Compact SUV,Hybrid,1512,1471,3616,1747,719,1150,10215,27.99,0.681
+Medium SUV,Electric,836,1288,5526,2148,1091,1669,12558,34.41,0.837
+Medium SUV,Gas,2468,1665,4429,1831,827,1356,12576,34.45,0.838
+Medium SUV,Hybrid,1718,1563,4940,1884,871,1437,12414,34.01,0.828
+Pickup Truck,Electric,1068,1208,7591,2119,1426,2287,15698,43.01,1.047
+Pickup Truck,Gas,3323,1482,6866,1764,1127,1890,16453,45.08,1.097
+Pickup Truck,Hybrid,2687,1440,6874,1733,1210,2027,15971,43.76,1.065

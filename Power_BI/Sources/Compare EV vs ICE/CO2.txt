@@ -1,0 +1,5 @@
+Typ pohonu;Výroba (t CO2eq);Provoz (TTW - Tank-to-Wheel, t CO2eq);WTT (Well-to-Tank, t CO2eq);Konec životnosti (t CO2eq);Celkem (t CO2eq)
+Benzín;6,5;20,32;4,876;0,065;31,761
+Diesel;6,5;18,56;5,07;0,065;30,195
+CNG;6,5;16,28;4,113;0,065;26,958
+BEV;9,53;0;14,54;0,029;24,138
