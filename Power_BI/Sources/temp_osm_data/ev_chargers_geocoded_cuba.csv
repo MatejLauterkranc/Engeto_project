@@ -1,0 +1,6 @@
+"id";"lat";"lon";"amenity";"city";"state";"country";"scraped_country_code";"scraped_country_name";"authentication:nfc";"capacity";"capacity:car";"motorcar";"operator";"operator:wikidata";"socket:schuko";"socket:schuko:current";"socket:schuko:voltage";"socket:type2";"socket:type2:current";"socket:type2:voltage";"ref";"addr:housenumber";"addr:street";"addr:postcode";"brand";"charge";"opening_hours";"fee"
+"5837040186";"21.8078112";"-79.9868591";"charging_station";"";"Cuba";"Sancti Spiritus";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"10219996824";"21.3729497";"-77.9241294";"charging_station";"";"Cuba";"Camaguey";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"12762934801";"21.3550273";"-77.8503674";"charging_station";"";"Cuba";"Camaguey";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"4915179835";"23.0471089";"-82.5183749";"charging_station";"";"Cuba";"Artemisa";"N/A";"N/A";"";"";"";"";"Fabrica de Arte Roca";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"5923082788";"23.0109875";"-81.5775636";"charging_station";"";"Cuba";"Matanzas";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""

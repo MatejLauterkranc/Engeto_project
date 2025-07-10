@@ -1,0 +1,4 @@
+"id";"lat";"lon";"amenity";"city";"state";"country";"scraped_country_code";"scraped_country_name";"authentication:nfc";"capacity";"capacity:car";"motorcar";"operator";"operator:wikidata";"socket:schuko";"socket:schuko:current";"socket:schuko:voltage";"socket:type2";"socket:type2:current";"socket:type2:voltage";"ref";"addr:housenumber";"addr:street";"addr:postcode";"brand";"charge";"opening_hours";"fee"
+"6817003487";"-18.9956764";"45.6978042";"charging_station";"";"Madagascar";"Bongolava";"N/A";"N/A";"";"";"";"";"HFF CENTRALE SOLAIRE";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"5250371660";"-18.9380993";"47.4960054";"charging_station";"";"Madagascar";"Analamanga";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"5250371673";"-18.9387145";"47.4878434";"charging_station";"";"Madagascar";"Analamanga";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""

@@ -1,0 +1,8 @@
+"id";"lat";"lon";"amenity";"city";"state";"country";"scraped_country_code";"scraped_country_name";"authentication:nfc";"capacity";"capacity:car";"motorcar";"operator";"operator:wikidata";"socket:schuko";"socket:schuko:current";"socket:schuko:voltage";"socket:type2";"socket:type2:current";"socket:type2:voltage";"ref";"addr:housenumber";"addr:street";"addr:postcode";"brand";"charge";"opening_hours";"fee"
+"4988021721";"13.4960905";"39.4813862";"charging_station";"";"Ethiopia";"Tigray";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"6046032388";"15.2425061";"38.6852546";"charging_station";"";"Eritrea";"Maekel Region";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"11391147470";"14.991138";"42.9232647";"charging_station";"Al Hawak";"Yemen";"Muhafazat al Hudaydah";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"11407376271";"14.9870667";"42.9226424";"charging_station";"Al Hawak";"Yemen";"Muhafazat al Hudaydah";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"11443450177";"16.965096";"42.8108293";"charging_station";"";"Saudi Arabia";"Jizan";"N/A";"N/A";"";"";"";"";"Electromin";"";"";"";"";"";"";"";"";"";"";"";"";"";"Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00";""
+"11443450178";"16.900702";"42.547794";"charging_station";"";"Saudi Arabia";"Jizan";"N/A";"N/A";"";"";"";"";"Electromin";"";"";"";"";"";"";"";"";"";"";"";"";"";"Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00";""
+"11443450221";"17.109457";"42.599167";"charging_station";"";"Saudi Arabia";"Jizan";"N/A";"N/A";"";"";"";"";"Electromin";"";"";"";"";"";"";"";"";"";"";"";"";"";"Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00";""

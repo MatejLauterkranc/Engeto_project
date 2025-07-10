@@ -1,0 +1,8 @@
+"id";"lat";"lon";"amenity";"city";"state";"country";"scraped_country_code";"scraped_country_name";"authentication:nfc";"capacity";"capacity:car";"motorcar";"operator";"operator:wikidata";"socket:schuko";"socket:schuko:current";"socket:schuko:voltage";"socket:type2";"socket:type2:current";"socket:type2:voltage";"ref";"addr:housenumber";"addr:street";"addr:postcode";"brand";"charge";"opening_hours";"fee"
+"12947329302";"18.0369753";"-71.7452645";"charging_station";"";"Dominican Republic";"Pedernales";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"evergo";"";"";""
+"1672010142";"18.7951906";"-72.5159349";"charging_station";"";"Haiti";"Ouest";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"1159831339";"19.4608336";"-72.690402";"charging_station";"";"Haiti";"Artibonite";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"2322006504";"19.6963682";"-72.1582099";"charging_station";"";"Haiti";"Nord";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"rue calvaire";"";"";"";"";""
+"9662048618";"19.697201";"-72.1585007";"charging_station";"";"Haiti";"Nord";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"9724008418";"19.695093";"-72.1589925";"charging_station";"";"Haiti";"Nord";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"Mo-Su 09:00-19:30";""
+"9724008617";"19.6955971";"-72.1587199";"charging_station";"";"Haiti";"Nord";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"Route Nationale # 6";"";"";"";"Mo-Su 09:00-18:00";""

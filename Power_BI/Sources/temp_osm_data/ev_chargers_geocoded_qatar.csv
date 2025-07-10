@@ -1,0 +1,5 @@
+"id";"lat";"lon";"amenity";"city";"state";"country";"scraped_country_code";"scraped_country_name";"authentication:nfc";"capacity";"capacity:car";"motorcar";"operator";"operator:wikidata";"socket:schuko";"socket:schuko:current";"socket:schuko:voltage";"socket:type2";"socket:type2:current";"socket:type2:voltage";"ref";"addr:housenumber";"addr:street";"addr:postcode";"brand";"charge";"opening_hours";"fee"
+"4145258089";"25.1630181";"51.4509523";"charging_station";"";"Qatar";"Al Wakrah";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"4269349089";"25.2599713";"51.4935243";"charging_station";"";"Qatar";"Baladiyat ad Dawhah";"N/A";"N/A";"";"";"";"";"Quality Speciality Gases";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"4584076889";"25.1167725";"51.513937";"charging_station";"";"Qatar";"Al Wakrah";"N/A";"N/A";"";"";"";"";"Bul Hemmaid Super Substation";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"7206528883";"25.375388";"51.5508283";"charging_station";"";"Qatar";"Baladiyat ad Dawhah";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""

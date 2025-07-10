@@ -1,0 +1,5 @@
+"id";"lat";"lon";"amenity";"city";"state";"country";"scraped_country_code";"scraped_country_name";"authentication:nfc";"capacity";"capacity:car";"motorcar";"operator";"operator:wikidata";"socket:schuko";"socket:schuko:current";"socket:schuko:voltage";"socket:type2";"socket:type2:current";"socket:type2:voltage";"ref";"addr:housenumber";"addr:street";"addr:postcode";"brand";"charge";"opening_hours";"fee"
+"4178080489";"11.8585277";"-15.6071306";"charging_station";"";"Guinea-Bissau";"Bissau";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"4178157905";"11.8585173";"-15.6071526";"charging_station";"";"Guinea-Bissau";"Bissau";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"4487251090";"11.860565";"-15.582192";"charging_station";"";"Guinea-Bissau";"Bissau";"N/A";"N/A";"";"";"";"";"ELTON";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"4487251290";"11.861663";"-15.623502";"charging_station";"";"Guinea-Bissau";"Bissau";"N/A";"N/A";"";"";"";"";"GALP LÍBIA";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""

@@ -1,5 +1,0 @@
-id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
-11210209537,2.6341755,10.0693937,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-11455050263,3.8717244,11.4682192,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-12150682955,4.0239153,11.3814543,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-6774521785,3.8857845,11.5009641,charging_station,N/A,N/A,N/A,N/A,Logistics Base,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

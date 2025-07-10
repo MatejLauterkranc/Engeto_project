@@ -1,0 +1,3 @@
+"id";"lat";"lon";"amenity";"city";"state";"country";"scraped_country_code";"scraped_country_name";"authentication:nfc";"capacity";"capacity:car";"motorcar";"operator";"operator:wikidata";"socket:schuko";"socket:schuko:current";"socket:schuko:voltage";"socket:type2";"socket:type2:current";"socket:type2:voltage";"ref";"addr:housenumber";"addr:street";"addr:postcode";"brand";"charge";"opening_hours";"fee"
+"6468698896";"13.1051262";"-86.3518632";"charging_station";"";"Nicaragua";"Esteli";"N/A";"N/A";"";"";"";"";"Productos Diana";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"5298771021";"15.7089994";"-88.5908667";"charging_station";"Municipio de Puerto Barrios";"Guatemala";"Izabal";"N/A";"N/A";"";"";"";"";"Sermalsa";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""

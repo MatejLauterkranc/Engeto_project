@@ -1,0 +1,7 @@
+"id";"lat";"lon";"amenity";"city";"state";"country";"scraped_country_code";"scraped_country_name";"authentication:nfc";"capacity";"capacity:car";"motorcar";"operator";"operator:wikidata";"socket:schuko";"socket:schuko:current";"socket:schuko:voltage";"socket:type2";"socket:type2:current";"socket:type2:voltage";"ref";"addr:housenumber";"addr:street";"addr:postcode";"brand";"charge";"opening_hours";"fee"
+"8149603731";"-46.8462631";"-72.7055193";"charging_station";"Provincia Capitan Prat";"Chile";"Aisen";"N/A";"N/A";"";"1";"";"";"CGE";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"11518379394";"-46.6607712";"169.1004765";"charging_station";"Clutha District";"New Zealand";"Otago";"N/A";"N/A";"";"2";"";"";"ChargeNet NZ";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"5677476038";"-46.4117452";"168.3533253";"charging_station";"Invercargill City";"New Zealand";"Southland";"N/A";"N/A";"";"";"";"yes";"ChargeNet NZ";"Q105872959";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"6441933885";"-46.1416793";"168.3253651";"charging_station";"Southland District";"New Zealand";"Southland";"N/A";"N/A";"";"2";"";"";"ChargeNet NZ";"Q105872959";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"6422167387";"-46.2372601";"169.738251";"charging_station";"Clutha District";"New Zealand";"Otago";"N/A";"N/A";"";"";"";"";"ChargeNet NZ";"Q105872959";"";"";"";"";"";"";"";"";"";"";"";"0.80 NZD/kWh";"";"yes"
+"12254034901";"-46.1216491";"-72.1586486";"charging_station";"Provincia de Coyhaique";"Chile";"Aisen";"N/A";"N/A";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
