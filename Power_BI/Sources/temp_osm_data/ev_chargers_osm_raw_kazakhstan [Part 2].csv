@@ -1,0 +1,124 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+7062707067,53.1276289,46.5643239,charging_station,N/A,N/A,N/A,N/A,Россети МРСК Волги,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062711819,53.0872204,46.6581697,charging_station,N/A,N/A,N/A,N/A,"Шиномонтаж ""ПетроМастер""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mo-Su 08:00-23:00,N/A
+10538994291,53.2100393,48.4810761,charging_station,N/A,N/A,N/A,N/A,РусГидро,N/A,yes,N/A,N/A,N/A,N/A,N/A,1262,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7062897684,53.5402184,49.2994995,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,36А,Ботаническая улица,N/A,N/A,N/A,Mo-Su 08:00-20:00,N/A
+7062906835,53.5711136,49.4590645,charging_station,N/A,N/A,N/A,N/A,РосНефть,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7062907655,53.5089271,49.2557844,charging_station,N/A,N/A,N/A,N/A,Лукойл,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062908472,53.5114744,49.1711588,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,102,Солнечная улица,N/A,N/A,N/A,24/7,N/A
+7062927351,53.5136948,49.4034767,charging_station,N/A,N/A,N/A,N/A,Контур Авто,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mo-Su 08:00-20:00,N/A
+7062927893,53.5396947,49.2778415,charging_station,N/A,N/A,N/A,N/A,Tiglev,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062927999,53.5579948,49.3548203,charging_station,N/A,N/A,N/A,N/A,РосНефть,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062944211,53.5155067,49.4699478,charging_station,N/A,N/A,N/A,N/A,МРСК Волги,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062953099,53.3716935,49.457674,charging_station,N/A,N/A,N/A,N/A,Роснефть,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+10539012264,53.4072652,49.4746378,charging_station,N/A,N/A,N/A,N/A,РусГидро,N/A,yes,N/A,N/A,N/A,N/A,N/A,1190,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11582750777,53.5018682,49.2917423,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7062915432,53.470623,49.8100471,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7062921347,53.4017868,49.495575,charging_station,N/A,N/A,N/A,N/A,МРСК Волги,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062927501,53.5144424,49.6092033,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+4383522289,53.2339983,50.2064984,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mo-Su 08:00-22:00,N/A
+6189562373,53.1864917,50.1309264,charging_station,N/A,N/A,N/A,N/A,"ПАО ""МРСК Волги""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6189562375,53.2243112,50.1738645,charging_station,N/A,N/A,N/A,N/A,"ПАО ""МРСК Волги""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6189562376,53.2319814,50.1780116,charging_station,N/A,N/A,N/A,N/A,"ПАО ""МРСК Волги""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7062937167,53.5099903,50.1420617,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062953890,53.4972972,50.0772014,charging_station,N/A,N/A,N/A,N/A,ГазПромНефть,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062964873,53.3943271,50.3240852,charging_station,N/A,N/A,N/A,N/A,АЗС Газпромнефть,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7062966172,53.3928335,50.3250986,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062970816,53.2752686,50.2715492,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7062973295,53.3258476,50.3083992,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7062975561,53.1908071,50.2293131,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062977324,53.2245369,50.1668243,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mo-Su 10:00-22:00,N/A
+7062979766,53.2068405,50.2005692,charging_station,N/A,N/A,N/A,N/A,МРСК Волги,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mo-Su 10:00-23:00,N/A
+7062984743,53.2313805,50.1775703,charging_station,N/A,N/A,N/A,N/A,МРСК Волги,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062993894,53.2246056,50.1742744,charging_station,N/A,N/A,N/A,N/A,МРСК Волги,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7063000424,53.2074432,50.1224823,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7063001969,53.1867943,50.1292419,charging_station,N/A,N/A,N/A,N/A,МРСК Волги,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7063003226,53.193985,50.0879211,charging_station,N/A,N/A,N/A,N/A,Ice Bar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7063005213,53.1972961,50.1125908,charging_station,N/A,N/A,N/A,N/A,MissCake,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7068912466,53.4526113,50.3869067,charging_station,N/A,N/A,N/A,N/A,Татнефть,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+12765506203,53.1374009,50.1771712,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7068945490,53.5638151,50.5533184,charging_station,N/A,N/A,N/A,N/A,Татнефть,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+8551617076,53.4033288,58.9859773,charging_station,N/A,N/A,N/A,yes,"ОАО ""МРСК Урала""",N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+7068947212,53.6900978,50.7911377,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mo-Su 08:00-20:00,N/A
+7068916955,53.8892174,51.2464294,charging_station,N/A,N/A,N/A,N/A,Шиномонтаж,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7207730716,53.6737183,59.7194803,charging_station,N/A,N/A,N/A,yes,ОАО «МРСК Урала»,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+7062609914,54.3193288,48.3951342,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7062614914,54.3308423,48.3624304,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,улица Урицкого,N/A,N/A,N/A,N/A,N/A
+7062619077,54.3286734,48.408577,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,41,улица Рылеева,N/A,N/A,N/A,Mo-Fr 08:00-20:00,N/A
+8987483217,54.3079835,48.3878336,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11335251993,54.3064868,48.3617041,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11435601808,54.2635363,48.3279949,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,E-PROM,N/A,N/A,N/A
+7062616760,54.3375409,48.5521698,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7062622961,54.3701261,48.6810143,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mo-Fr 08:00-19:00,N/A
+7068921295,54.2215233,49.5858116,charging_station,N/A,N/A,N/A,N/A,МРСК Волги,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+7068925164,54.2216568,49.5747795,charging_station,N/A,N/A,N/A,N/A,Лента,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+12121140009,54.540526,49.964355,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+10890025241,54.432647,50.814885,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025249,54.54008,52.80008,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025250,54.539549,52.80407,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,32,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12121140013,54.421326,53.153595,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+7207675330,54.4626503,61.2772402,charging_station,N/A,N/A,N/A,N/A,ОАО «МРСК Урала»,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+10890025261,54.9872,48.31082,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,32,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025246,54.967439,49.062895,charging_station,N/A,2,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,32,N/A,1-106,N/A,N/A,N/A,N/A,N/A,N/A,yes
+5969843523,54.9203727,49.9065057,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10890025248,54.917467,49.922537,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,32,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12121140004,54.917467,49.922537,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12121140005,54.642274,50.604778,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+10890025281,55.0165,51.7649,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+7068924412,54.9006958,52.3679886,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7068975748,54.8957655,52.2603471,charging_station,N/A,2,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+7068979258,54.9101432,52.2714701,charging_station,N/A,N/A,N/A,N/A,Татнефть,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025273,54.89994,52.31918,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025274,54.87584,52.31295,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025275,54.90803,52.25408,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025276,54.90796,52.25398,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025277,54.89817,52.25529,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025278,54.89814,52.25525,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025279,54.91292,52.35711,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10890025280,54.90662,52.29311,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11186209372,54.9015236,52.2310853,charging_station,N/A,2,N/A,yes,Татнефть,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12121140010,54.843257,53.072812,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12162445891,54.7396499,55.9695032,charging_station,N/A,N/A,N/A,N/A,Башкирэнерго,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12259020377,55.0019059,61.1275984,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+5814774426,54.9806262,73.3198187,charging_station,N/A,1,N/A,yes,eCars,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8247694168,55.0140432,73.3181402,charging_station,N/A,1,N/A,yes,eCars,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9918353786,54.952134,73.3400159,charging_station,N/A,2,N/A,N/A,РусГидро,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9963509263,54.9806563,73.3197499,charging_station,N/A,2,N/A,N/A,РусГидро,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11379267694,54.9262769,73.45638,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4109817126,54.9803638,82.8978603,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5031500827,55.0289141,82.9366052,charging_station,N/A,N/A,N/A,N/A,"energy supply, 22v and usb",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9155558179,54.9411135,82.8971327,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9931236594,55.0105265,82.9333869,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11206668499,54.9624867,82.9370089,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11299497806,55.058018,82.9473635,charging_station,N/A,2,N/A,N/A,ГлавЭнергоСбыт,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12897006140,54.9870827,83.0441999,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Сибирь заряжает,N/A,N/A,N/A
+12452705458,55.4086561,48.1592133,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12452705459,55.4084551,48.1548466,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10890025244,55.17269,48.53132,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11174720014,55.2981507,50.1109414,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,32,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12121140014,55.304585,50.051819,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+10890025245,55.353186,50.66386,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11174744525,55.3248331,50.623849,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12121140016,55.200745,51.079773,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12121140012,55.304741,52.017775,charging_station,N/A,N/A,N/A,N/A,"АО ""Сетевая компания""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+4662940053,55.174838,61.3361521,charging_station,yes,1,N/A,N/A,"Россети, ЗАО ""МРСК Урала""",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+6977364565,55.1922344,61.301379,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6977364566,55.192253,61.2824992,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+6977364567,55.1673395,61.3784368,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Россети электротранспорт,N/A,24/7,yes
+6977364568,55.1578315,61.3642492,charging_station,yes,1,N/A,yes,МРСК Урала,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+6977364569,55.1569279,61.3943571,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6977364570,55.161603,61.3979317,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6977364571,55.1631645,61.4199883,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6977364572,55.1616964,61.4305587,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9796551162,55.1721303,61.2820105,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10126164890,55.1802131,61.2932061,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10172352714,55.1713055,61.3667133,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+10857608335,55.1639572,61.4327855,charging_station,N/A,1,N/A,N/A,Electrocars,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+10913386532,55.0760786,61.4048606,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10967354167,55.1273824,61.4798757,charging_station,N/A,N/A,N/A,yes,НПО «Электромашина»,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+11597456671,55.1716096,61.2713434,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11816238551,55.1949874,61.3189633,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7400201,N/A,N/A,N/A,N/A,N/A,24/7,yes
+11816238552,55.180354,61.333112,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7400501,N/A,N/A,N/A,N/A,N/A,24/7,yes
+11816238553,55.1089938,61.3502674,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11893146650,55.1750554,61.3751462,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+3413964391,55.3622152,86.0054388,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

@@ -1,0 +1,109 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+11371485834,-22.2356973,-47.3905387,charging_station,N/A,2,N/A,N/A,Zletric,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,Zletric,1.99BRL/kWh,N/A,yes
+4936168324,-22.273609,-44.8764036,charging_station,N/A,N/A,N/A,N/A,Posto Terras Altas,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12741512739,-22.4210617,-44.3051398,charging_station,N/A,7kw,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,BYD,N/A,N/A,N/A
+12741512740,-22.454522,-44.3894839,charging_station,N/A,120kw,N/A,N/A,Eletrograal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"2,2 BRL",N/A,yes
+12741512741,-22.4545194,-44.3894589,charging_station,N/A,22kw,N/A,N/A,Eletrograal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"2,2BRL",N/A,yes
+12741515734,-22.4574155,-44.4237011,charging_station,N/A,150kw,N/A,N/A,Shell Recharge,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"2,9 BRL",N/A,yes
+8280636717,-22.1598262,35.0818009,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8344970217,-22.1321591,34.9983551,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8389739517,-22.2051663,35.1125371,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11173226868,-21.9082817,-48.052922,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4856083921,-21.7369309,-43.4424209,charging_station,N/A,N/A,N/A,N/A,Líder,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4616238990,-21.7059385,-41.0404375,charging_station,N/A,N/A,N/A,N/A,Posto Toledo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4616238991,-21.7030023,-41.0362613,charging_station,N/A,N/A,N/A,N/A,Posto Graffite,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5038970021,-21.2303082,-43.7898943,charging_station,N/A,N/A,N/A,N/A,Petrobras Belvedere (podium),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8784854135,-21.081853,55.2296923,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11109170407,-21.0401,55.2237,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,stgillestama,N/A,N/A,N/A,N/A,N/A,24/7,no
+4027236693,-21.3406368,55.489985,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4287274339,-21.3272026,55.4716915,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4287274340,-21.3276765,55.4680128,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4287303448,-21.3344783,55.4602421,charging_station,N/A,2,N/A,N/A,Renault,Q6686,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4287303449,-21.3349257,55.460551,charging_station,N/A,N/A,N/A,N/A,Renault,Q6686,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9961216382,-21.3288628,55.4681268,charging_station,N/A,8,N/A,N/A,freshmile,N/A,N/A,N/A,N/A,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10030692362,-21.282542,55.517307,charging_station,N/A,22,N/A,N/A,Leclerc,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+10030692363,-21.2819986,55.5182652,charging_station,N/A,22,N/A,N/A,Leclerc,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+10575013574,-21.3403942,55.4912413,charging_station,N/A,4,N/A,yes,Université de La Réunion,N/A,N/A,N/A,N/A,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,sunrise-sunset,yes
+10575021189,-21.3286883,55.4680376,charging_station,N/A,2,N/A,yes,Freshmile,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11109170074,-21.0381,55.7171,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,stbenoitjaures,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170079,-21.0522,55.7149,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,OJHMGCHDSF,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170206,-21.1329182,55.6306756,charging_station,N/A,2,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,782388,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170207,-21.257457,55.503491,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,BMMQ9BPZYD,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170211,-21.3231281,55.4754247,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,C2AJENOGKE,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170213,-21.3136,55.47581,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,GWXQ3IKEQL,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170215,-21.3225547,55.4747477,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,QIGUDGQUCV,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170409,-21.265831,55.366612,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,BUE8MYS7P9,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170411,-21.2441,55.33345,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,VORHPZSFUA,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170412,-21.279779,55.365753,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,POYTUZYBZT,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170413,-21.0889,55.257,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,salinetamarin,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170414,-21.1375205,55.4742559,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,Engencilaos,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170415,-21.3238889,55.4471005,charging_station,N/A,12,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,749313,N/A,N/A,N/A,N/A,N/A,24/7,yes
+11109170416,-21.2820316,55.3976635,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,PDIWE44BBM,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170417,-21.168965,55.288081,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,RUIVJ6JIHW,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170418,-21.2831,55.4001,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,896649,N/A,N/A,N/A,N/A,N/A,24/7,yes
+11109170420,-21.2188338,55.3004291,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,OF2V5RUQC2,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170421,-21.3213,55.446,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,pierrefondsrn,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170422,-21.21755,55.3012761,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,YQWPOFVGFO,N/A,N/A,N/A,N/A,N/A,"Mo 12:00-20:30,Tu 08:30-19:00,We-Th 08:30-20:30,Fr-Sa 08:30-21:00,Su 08:30-12:00",no
+11353644863,-20.9985898,55.2790722,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12416002539,-21.2127054,55.5514093,charging_station,N/A,2,N/A,N/A,Ezdrive,N/A,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Mo-Th 08:00-12:00, Mo-Th 14:00-18:30, Su 08:00-12:00",yes
+12416012864,-21.0335289,55.7039559,charging_station,N/A,3,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,510476,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416037232,-21.3241075,55.4729117,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1205719,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416037347,-21.3360209,55.4571484,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1179843,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416037348,-21.3379621,55.4572322,charging_station,N/A,3,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,971768,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416039951,-21.3325824,55.4571038,charging_station,N/A,6,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,465993,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416047788,-21.3347323,55.4594397,charging_station,N/A,4,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,466020,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416053264,-21.3244435,55.4733798,charging_station,N/A,6,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,481995,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416065210,-21.3170494,55.469736,charging_station,N/A,4,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,782463,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416076415,-21.3385673,55.469498,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,479247,N/A,N/A,N/A,N/A,N/A,24/7,yes
+11109170210,-21.3598,55.7659,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,stphilipreuni,N/A,N/A,N/A,N/A,N/A,24/7,no
+4894620822,-20.6520776,-55.8983273,charging_station,N/A,N/A,N/A,N/A,Taurus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4572582789,-20.4924163,-54.6491459,charging_station,N/A,N/A,N/A,N/A,Bandeira Grupo JD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1340138202,,,charging_station,N/A,4,N/A,N/A,UFMS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+12396486396,-20.5026527,-54.6144451,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12396486398,-20.5027383,-54.6142671,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12396486399,-20.5026136,-54.6143074,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12416712344,-20.5027773,-54.6144048,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7176810738,-20.90222,55.4860772,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9014618303,-20.9794171,55.3178946,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11109170069,-20.9630462,55.6517836,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,WPC00KCZXZ,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170070,-20.9323,55.6423,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,stpierrebois,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170106,-20.8920916,55.5000471,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,CZWNSB,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170108,-20.893393,55.492163,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,LG2QVY6WC6,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170110,-20.8856,55.4701,charging_station,N/A,3,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,160287,N/A,N/A,N/A,N/A,N/A,24/7,yes
+11109170114,-20.8949185,55.4984624,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,HOT2JOEZEY,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109170367,-20.8928,55.4886,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,JPMAOIPEVR,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109171658,-20.9621,55.3261,charging_station,N/A,1,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,possessjolizac,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109171660,-20.9497834,55.3161131,charging_station,N/A,1,N/A,N/A,CAR2PLUG,N/A,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+11109171661,-20.9426,55.3292,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,GHOQAEUSKQ,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109171663,-20.9499,55.3191,charging_station,N/A,N/A,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,leportzac2000,N/A,N/A,N/A,N/A,N/A,24/7,no
+12415968792,-20.9017018,55.5186689,charging_station,N/A,4,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1177107,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416003494,-20.8982877,55.5675716,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,160251,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416012125,-20.94231,55.3006968,charging_station,N/A,3,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,466308,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416015696,-20.954157,55.3077145,charging_station,N/A,3,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1069260,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12416020331,-20.8939949,55.5111754,charging_station,N/A,9,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1026729,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416020332,-20.8944,55.51009,charging_station,N/A,22,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1026732,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416027054,-20.8933262,55.5127902,charging_station,N/A,8,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1084794,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416030004,-20.9150917,55.61976,charging_station,N/A,4;5,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,782373;742965,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416033673,-20.8976099,55.5603236,charging_station,N/A,18,N/A,N/A,E.Leclerc | FR*LE2,N/A,N/A,N/A,N/A,yes,N/A,N/A,699080,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416034774,-20.9379155,55.3337433,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1191346,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416040304,-20.9292369,55.6328968,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1009224,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416040305,-20.9295376,55.6345122,charging_station,N/A,4,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1009230,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416043952,-20.8928514,55.4645888,charging_station,N/A,1,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,435243,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416047773,-20.9323171,55.3349483,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1256260,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416047774,-20.9331914,55.3354311,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1150086,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416047775,-20.9262112,55.3364047,charging_station,N/A,4,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1111896,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416054306,-20.9263828,55.3404891,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1150050,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416054307,-20.9027548,55.47847,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1111905,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12416065602,-20.9310977,55.3350328,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,1197601,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12430856659,-20.8837,55.4475451,charging_station,N/A,1,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,882732,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12430864218,-20.9147788,55.6169149,charging_station,N/A,5,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,782373,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12430877442,-20.9387002,55.6427801,charging_station,N/A,2,N/A,N/A,Freshmile | FR*FR1,N/A,N/A,N/A,N/A,yes,N/A,N/A,892656,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12649135947,-20.9055155,55.4990344,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12649135948,-20.9054775,55.4990351,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4795166726,-20.4667233,-55.7816601,charging_station,N/A,N/A,N/A,N/A,WA - TAURUS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4894584421,-20.350113,-56.1561919,charging_station,N/A,N/A,N/A,N/A,Taurus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4896288025,-20.4729376,-55.7934858,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4572572393,-20.480274,-54.6406611,charging_station,N/A,N/A,N/A,N/A,Bandeira Petrobrás,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6757448841,-20.3145983,-40.2905974,charging_station,N/A,N/A,N/A,N/A,EDP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6852378964,-20.2805718,-40.2880122,charging_station,N/A,N/A,N/A,N/A,EDP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+12511152974,-20.3894819,-40.494529,charging_station,N/A,N/A,N/A,N/A,EDP,Q1341222,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,WeCharge,2 BRL,N/A,yes

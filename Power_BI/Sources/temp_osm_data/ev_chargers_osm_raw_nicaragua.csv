@@ -1,0 +1,5 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+4111553389,12.1326355,-85.4551141,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4657246591,12.1998424,-86.3800961,charging_station,N/A,N/A,N/A,N/A,NEPTUNO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5648592721,12.2262062,-86.4122152,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6468698896,13.1051262,-86.3518632,charging_station,N/A,N/A,N/A,N/A,Productos Diana,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

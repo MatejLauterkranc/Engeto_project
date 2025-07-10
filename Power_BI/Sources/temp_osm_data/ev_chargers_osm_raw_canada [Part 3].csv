@@ -1,0 +1,97 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+12761621701,52.9480621,-66.9244465,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761621801,52.9481204,-66.9275753,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12193725801,53.2631356,-131.9950543,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12214291801,53.4193398,-122.5842859,charging_station,N/A,N/A,N/A,N/A,BC Hydro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11958726410,53.3050129,-120.1608879,charging_station,N/A,N/A,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+12214320301,53.3043214,-120.1639176,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9139867104,53.585556,-116.420908,charging_station,N/A,6,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+6639654658,53.4865471,-113.5150919,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+8181657560,53.5235432,-113.5908759,charging_station,N/A,1,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+8181666116,53.5903592,-113.5417009,charging_station,N/A,1,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+10278936555,53.5366127,-113.6888399,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9805,Winterburn Road NW,N/A,N/A,N/A,N/A,no
+12169164501,53.5378342,-113.6385082,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8180437009,53.5401771,-113.432018,charging_station,N/A,2,N/A,N/A,Edmonton Public Library,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,FLO,N/A,N/A,no
+8181593899,53.5253865,-113.4176575,charging_station,N/A,1,N/A,N/A,Sun Country,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+8181645836,53.443262,-113.490333,charging_station,N/A,4,N/A,yes,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,no
+8181645837,53.447473,-113.4921384,charging_station,N/A,4,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+11269832469,53.541965,-113.3076929,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12726998899,53.5173115,-113.4865584,charging_station,N/A,5,N/A,N/A,Chargestop,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chargestop,N/A,N/A,yes
+12751214674,53.4830372,-113.4959486,charging_station,N/A,2,N/A,N/A,juicebar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12864222160,53.4762038,-113.4938305,charging_station,N/A,2,N/A,N/A,AMA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12926948141,53.472726,-113.4938952,charging_station,N/A,4,N/A,N/A,First Capital,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9403975412,53.6769776,-112.8294483,charging_station,N/A,4,N/A,N/A,Parks Canada,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+9208892493,53.5020545,-112.0800786,charging_station,N/A,6,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+11390852073,53.5020683,-112.0801327,charging_station,N/A,2,N/A,N/A,FLO,Q64971203,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,FLO,N/A,N/A,yes
+9208878395,53.2777472,-110.0526394,charging_station,N/A,6,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+11867488340,53.2787275,-110.0219894,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Swift,N/A,N/A,N/A
+12761621501,53.5320891,-64.0109767,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761620603,53.5301781,-64.0012383,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761639701,53.2991966,-60.3228293,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12193727201,54.0123384,-132.1455813,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12193727202,54.0535058,-128.6507724,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11016422757,54.0933831,-125.1774555,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12210297701,54.0555107,-124.8517447,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11016393044,54.0134916,-124.0203146,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12210292402,54.0201633,-124.008898,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9243035366,53.8886369,-122.770115,charging_station,N/A,N/A,N/A,N/A,BC Hydro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.21/min,N/A,yes
+9243035380,53.8905665,-122.7678129,charging_station,N/A,N/A,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+9859356658,53.9067177,-122.741817,charging_station,N/A,7.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9859356659,53.9070513,-122.7418205,charging_station,N/A,22,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,N/A
+11065841025,53.7261769,-121.1433951,charging_station,N/A,N/A,N/A,N/A,FLO,Q64971203,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,YH 16,V0J 2E0,FLO,N/A,N/A,N/A
+12111684253,54.1416651,-115.6682153,charging_station,N/A,N/A,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+11252009565,53.8303977,-113.3281151,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12392596602,53.8272301,-101.2542464,charging_station,N/A,N/A,N/A,N/A,FLO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12392596603,53.8302071,-101.2412534,charging_station,N/A,N/A,N/A,N/A,FLO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761621401,53.8294119,-101.2328746,charging_station,N/A,N/A,N/A,N/A,Manitoba Hydro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761621402,53.8036605,-101.2508794,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12193732002,54.316508,-130.3225074,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11083790528,54.5108065,-128.5558263,charging_station,N/A,N/A,N/A,N/A,Flow,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7937407259,54.4002973,-126.6492594,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12210310402,54.4008157,-126.6443404,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12210310401,54.2275689,-125.7613857,charging_station,N/A,N/A,N/A,N/A,BC Hydro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12778470509,54.4407934,-124.2523362,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207923001,54.4936278,-122.676098,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12210312902,55.0314558,-129.5739933,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11905896820,55.072296,-128.2033115,charging_station,N/A,N/A,N/A,N/A,FLO,Q64971203,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,BC 37,N/A,FLO,N/A,N/A,N/A
+12210301302,55.1128137,-128.0227411,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12210310403,54.7792313,-127.1698282,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12778470510,54.8840114,-126.2031431,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207918201,54.9857287,-123.0490377,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207913902,55.1250848,-120.9982499,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12210312901,55.2058432,-129.0782305,charging_station,N/A,1,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,NLG/GITLAXT'AAMIKS,N/A,N/A,N/A,ChargePoint,N/A,N/A,no
+12692485943,55.199097,-129.0728949,charging_station,N/A,1,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,NLG/NISGA'A LISIMS,N/A,N/A,N/A,ChargePoint,N/A,N/A,no
+12698426168,55.2062126,-129.0774831,charging_station,N/A,4,N/A,N/A,BC Hydro,Q795720,N/A,N/A,N/A,N/A,N/A,N/A,BC1-AB1071_1;BC1-AB1071_2;BC1-AB1074_1;BC1-AB1074_2,5128,Gitzyon Avenue,VOJ 1AO,N/A,N/A,24/7,yes
+12210310405,55.2461547,-127.5827664,charging_station,N/A,N/A,N/A,N/A,BC Hydro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207914201,55.3407039,-123.0962311,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207914203,55.3936304,-122.6259229,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12392595802,55.2206165,-118.7937849,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12193727203,55.9354352,-129.9950294,charging_station,N/A,N/A,N/A,N/A,BC Hydro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12392087401,56.0996893,-129.3054975,charging_station,N/A,N/A,N/A,N/A,EV Connect,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207913903,56.0288556,-121.9094125,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207913904,55.6953789,-121.6388153,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12906828989,55.6956173,-121.6383847,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207914202,55.7594409,-120.2268655,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207914301,55.7419516,-120.2225567,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12392595801,55.7328414,-118.3880348,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12392596604,55.7456112,-97.8603617,charging_station,N/A,N/A,N/A,N/A,Co-op,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12392605101,55.748967,-97.8660506,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761620602,55.7417948,-97.8449493,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761620802,55.7449165,-97.8418944,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207911002,56.2441598,-120.8752098,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761621302,56.6631944,-114.5545929,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761621103,56.6576592,-111.3342054,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761621903,56.6577721,-111.3288757,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12778393105,56.3533195,-94.6971419,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12392088001,56.745152,-129.7947094,charging_station,N/A,N/A,N/A,N/A,BC Hydro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207911001,57.0428201,-122.5123364,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207911101,56.7277219,-121.8073028,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761621702,56.7304103,-111.3850337,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761621901,56.7206888,-111.3592489,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761621902,56.6810953,-111.3502846,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12089903834,57.8377042,-129.9899606,charging_station,N/A,N/A,N/A,N/A,Kluachon Grocery Store,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12206514004,58.0882822,-122.7126468,charging_station,N/A,N/A,N/A,N/A,BC Hydro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12193732003,58.4382752,-129.9901541,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12206514003,58.6521923,-124.2350262,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761622601,58.5198461,-117.1243931,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12761622701,58.1849394,-116.411914,charging_station,N/A,N/A,N/A,N/A,Flo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

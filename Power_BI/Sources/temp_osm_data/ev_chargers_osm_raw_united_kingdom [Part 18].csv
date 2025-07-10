@@ -1,0 +1,27 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+9116058687,-17.3751677,-66.1581829,charging_station,N/A,1,N/A,N/A,Universidad Franz Tamayo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+9311178503,-17.3806773,-66.1516576,charging_station,N/A,2,N/A,yes,Empresa de Luz y Fuerza Eléctrica Cochabamba,N/A,N/A,N/A,N/A,N/A,N/A,N/A,effix 9,N/A,N/A,N/A,ENDE,N/A,24/7,no
+9515033297,-17.3935583,-66.1662378,charging_station,N/A,2,N/A,yes,Empresa de Luz y Fuerza Eléctrica Cochabamba,N/A,N/A,N/A,N/A,N/A,N/A,N/A,effix 7,N/A,N/A,N/A,ENDE,N/A,24/7,no
+11589867985,-17.3731894,-66.1547959,charging_station,N/A,2,N/A,N/A,Quantum,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Quantum,N/A,N/A,no
+11760214296,-17.3990678,-66.2182069,charging_station,N/A,1,N/A,N/A,Universidad Privada Boliviana,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+9540138850,-17.0075121,-65.4430578,charging_station,N/A,2,N/A,yes,Empresa de Luz y Fuerza Eléctrica Cochabamba,N/A,N/A,N/A,N/A,N/A,N/A,N/A,effix 8,N/A,N/A,N/A,ENDE,N/A,24/7,no
+11291548116,-17.0172536,-39.5426917,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Petrobras,N/A,N/A,N/A
+9557130508,-16.5336474,-68.1729783,charging_station,N/A,2,N/A,yes,DELAPAZ Distribuidora de Electricidad La Paz,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ENDE,N/A,24/7,no
+10736141401,-16.5065423,-68.1263904,charging_station,N/A,2,N/A,yes,DELAPAZ Distribuidora de Electricidad La Paz,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ENDE,N/A,24/7,no
+4859977223,-16.6644533,-49.2799114,charging_station,N/A,N/A,N/A,N/A,Bandeira Branca,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4741393330,-16.6906974,-49.2574125,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12660530308,-16.7095533,-49.2213754,charging_station,N/A,150 KW,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5 BRL,N/A,yes
+11056667405,-16.3321005,-48.9379945,charging_station,N/A,N/A,N/A,N/A,automático,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Avenida Santos Dumont,75113-185,N/A,N/A,24/7,N/A
+4324626090,-15.851941,-58.4704355,charging_station,N/A,N/A,N/A,N/A,Auto Posto Porto,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9846894535,-15.5752544,-56.0722493,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Volvo,N/A,N/A,no
+10126478277,-15.6018301,-56.0572712,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10602948115,-15.5921419,-56.1062974,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Volvo,N/A,N/A,no
+10689741126,-15.6116207,-56.0769117,charging_station,N/A,2,N/A,N/A,Audi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+10731730843,-15.6118861,-56.0766532,charging_station,N/A,N/A,N/A,N/A,BMW,Q26678,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,bmw,N/A,N/A,N/A
+11269493456,-15.592589,-56.1061185,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Volvo,N/A,N/A,N/A
+11373288894,-15.5895041,-56.0844744,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11822399303,-15.5852875,-56.0781292,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12183014713,-15.6046755,-56.0842495,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GWM,N/A,N/A,N/A
+12277259176,-15.6104709,-56.0781757,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10964777724,-15.796732,-47.8679936,charging_station,N/A,3 kW,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Itaipu,N/A,N/A,no
+6512348929,-15.4756833,-55.7335447,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

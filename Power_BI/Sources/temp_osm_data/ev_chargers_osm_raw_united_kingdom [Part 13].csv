@@ -1,0 +1,37 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+10656423569,-29.9415773,-71.280347,charging_station,N/A,5,N/A,N/A,Copec,Q1130956,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12599872118,-29.9670292,-71.321942,charging_station,N/A,2,N/A,N/A,Enel X,Q5376815,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Enel X,N/A,N/A,N/A
+12111591141,-29.9051305,-71.2537047,charging_station,N/A,2,N/A,N/A,Enel X,Q5376815,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Enel X,N/A,N/A,N/A
+12599780217,-29.9078954,-71.2567114,charging_station,N/A,N/A,N/A,N/A,Enel X,Q5376815,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Enel X,N/A,N/A,N/A
+4664191294,-29.7593053,-57.0656058,charging_station,N/A,N/A,N/A,N/A,ipiringa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8122125803,-29.6892348,-53.7930779,charging_station,N/A,1,N/A,N/A,Parceria Solar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+4406374089,-29.8487759,-51.1418072,charging_station,N/A,N/A,N/A,N/A,Petrobrás,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,BR,N/A,N/A,N/A
+4653450999,-29.8901003,-50.275825,charging_station,N/A,N/A,N/A,N/A,Megapetro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4958910124,-29.8883758,-50.2672948,charging_station,N/A,N/A,N/A,N/A,walmor Rodrigues,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10876231596,-29.4506024,-51.9847566,charging_station,N/A,1,N/A,no,Certel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+9531242015,-29.1720797,-51.1755064,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12829452596,-29.3609372,-50.8531997,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9225529282,-29.2681815,-50.3026039,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9531180579,-29.2721497,-50.3216061,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4584855597,-29.3353583,-49.73252,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11186080609,-29.3265909,-49.7149949,charging_station,N/A,1,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4556211697,-28.6356251,-53.610052,charging_station,N/A,N/A,N/A,N/A,Posto Shell,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4556251493,-28.6531775,-53.5892539,charging_station,N/A,N/A,N/A,N/A,Posto Ipiranga,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4557762766,-28.6468323,-53.5852484,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4557938491,-28.6461669,-53.5962822,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4584108395,-28.5865236,-52.2039698,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4790962823,-28.173459,-53.4732253,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4584746891,-27.8640926,-54.4852278,charging_station,N/A,N/A,N/A,N/A,chell,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8843546330,-27.7940994,-50.2838641,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10692094359,-27.8150697,-50.3248606,charging_station,N/A,2,N/A,yes,Restaurante Cansian Zamban,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11512434387,-27.7201556,-48.5635222,charging_station,N/A,1,N/A,N/A,Ostradamus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+1045130108,,,charging_station,N/A,N/A,N/A,N/A,UFSC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1045130109,,,charging_station,N/A,1,N/A,N/A,Fundação CERTI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9615997075,-27.6019769,-48.5204276,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9615997076,-27.6019838,-48.520294,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9615997077,-27.6020177,-48.5202963,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9615997078,-27.6020108,-48.5204298,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9615997079,-27.6020648,-48.5190586,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9615997080,-27.6020681,-48.5189896,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9615997081,-27.602125,-48.5189931,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9615997082,-27.6021217,-48.519062,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

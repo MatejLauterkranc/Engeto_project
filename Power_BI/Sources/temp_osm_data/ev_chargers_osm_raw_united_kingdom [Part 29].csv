@@ -1,0 +1,147 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+12252445364,9.0343639,1.1360724,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10970547955,9.3515767,2.587111,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10970586921,9.398893,2.6207623,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11945874556,9.354323,2.6247066,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4671615789,9.0671154,38.7248533,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1304157725,,,charging_station,N/A,N/A,N/A,N/A,Qviva Resorts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Qviva Electric Chargin Station,N/A,N/A,N/A
+12077579644,9.8724748,-85.5071281,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12077579645,9.8724906,-85.5070859,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12077579646,9.8724758,-85.5070269,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12077579647,9.8723761,-85.5070247,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12077579648,9.872372,-85.5071636,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12077579649,9.8724716,-85.5071666,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11561027681,9.8295865,-84.9033655,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687335587,9.9862794,-84.737643,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687335607,9.9686051,-84.7386785,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687335608,9.9230134,-84.7134336,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687335609,9.661243,-84.6397664,charging_station,N/A,N/A,N/A,N/A,ICE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687335614,9.6181777,-84.632064,charging_station,N/A,N/A,N/A,N/A,ICE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687335615,9.6112075,-84.6246871,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687358939,9.8879951,-84.5708943,charging_station,N/A,N/A,N/A,N/A,ICE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687358940,9.9129909,-84.5194248,charging_station,N/A,N/A,N/A,N/A,ICE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687358941,9.9606721,-84.3599904,charging_station,N/A,N/A,N/A,N/A,ICE,Q3431114,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9689060129,9.9808237,-84.3799645,charging_station,N/A,N/A,N/A,N/A,ICE,Q3431114,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+5401218156,9.9851593,-84.1097605,charging_station,N/A,N/A,N/A,N/A,Estación de Recarga,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5401218745,9.9788027,-84.1461305,charging_station,N/A,N/A,N/A,N/A,Estación de Recarga,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6417120480,9.9644658,-84.1204548,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+6816342334,9.9518474,-84.1080032,charging_station,N/A,N/A,N/A,N/A,CNFL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6816348507,9.9375113,-84.0782424,charging_station,N/A,N/A,N/A,N/A,CNFL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8313237540,9.6162814,-83.8193541,charging_station,N/A,N/A,N/A,N/A,ICE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+8313237542,9.7514552,-83.9778863,charging_station,N/A,7,N/A,N/A,Coopesantos,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8313237543,9.6695511,-84.0269557,charging_station,N/A,7,N/A,N/A,Coopesantos,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9217175399,9.9468493,-84.0515936,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9508024989,10.0001966,-84.1346038,charging_station,N/A,N/A,N/A,N/A,Estación de Recarga,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Calle 38,N/A,N/A,N/A,N/A,N/A
+9508024990,10.0001746,-84.1346535,charging_station,N/A,N/A,N/A,N/A,Estación de Recarga,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Calle 38,N/A,N/A,N/A,N/A,N/A
+9647552906,10.0129524,-84.2063901,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9647552934,10.0007951,-84.1955912,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9647552935,10.0058351,-84.1533722,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9647552944,10.0015545,-84.1140452,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9647552945,9.9931593,-84.1207775,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9647552948,9.9945128,-84.1303341,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9647569464,9.9945802,-84.098198,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9647569485,9.9757626,-84.1515876,charging_station,N/A,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359013,10.0131542,-84.2086573,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359014,10.0130386,-84.2104979,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359021,10.0128158,-84.2229641,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359022,10.0048189,-84.2114186,charging_station,N/A,N/A,N/A,N/A,ICE,Q3431114,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9688992435,9.6448632,-83.9139811,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9688992443,9.6697175,-84.025831,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9865330929,9.9494715,-84.0296491,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9865330930,9.9950347,-84.0372368,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9946400206,9.8646586,-83.9203679,charging_station,N/A,N/A,N/A,N/A,JASEC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9978907033,9.9815549,-84.1598818,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9978907034,9.9815549,-84.1598879,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9978907035,9.981555,-84.1598942,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9998699955,9.9802816,-84.1599768,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9998699956,9.9802816,-84.1599621,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10069132719,10.0123894,-84.2101501,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10087926441,9.9525175,-84.0196359,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10131775267,9.9520051,-84.2318511,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10131775268,9.9520021,-84.2318682,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10294315214,10.0134854,-84.2109478,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10566404762,9.8450427,-83.9388455,charging_station,N/A,N/A,N/A,N/A,JASEC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10830920791,9.9398869,-84.1176959,charging_station,N/A,N/A,N/A,N/A,BAC Credomatic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Electroliniera BAC,N/A,N/A,N/A,N/A,N/A,N/A,no
+10840051900,9.9352908,-84.097334,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11052101825,10.0102201,-84.225682,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11232829330,9.9480003,-84.1093757,charging_station,N/A,N/A,N/A,N/A,Holiday Inn San José,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Estación de Carga Irazú,N/A,N/A,N/A,N/A,N/A,N/A,no
+12952325149,9.9310255,-84.0468168,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12960356713,9.9318379,-84.0482007,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9688992434,9.5579555,-83.7236134,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9765958396,9.9900659,-83.0332993,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1307972111,,,charging_station,N/A,2,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,yes
+12112689987,9.8923365,-73.8336097,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12112689988,9.8922454,-73.8337887,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12112689989,9.8920769,-73.8336912,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12112689990,9.8921782,-73.8335408,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4513807995,9.5340349,-10.9574783,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,kabala road,kabala road,N/A,N/A,N/A,N/A,N/A
+4539841838,9.5327856,-10.957821,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13,Serekolia Road,N/A,N/A,N/A,N/A,N/A
+12429563490,9.6568742,1.1332751,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9654873080,10.2652894,-85.0203436,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9654873081,10.2655795,-85.0205636,charging_station,N/A,N/A,N/A,N/A,ICE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11874890369,10.3134587,-84.815987,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11879443855,10.3154976,-84.8228739,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687358965,10.0987412,-84.4687058,charging_station,N/A,N/A,N/A,N/A,ICE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687358966,10.0874426,-84.4697863,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687358967,10.0721431,-84.3132511,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687358994,10.0510542,-84.361829,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359012,10.0857291,-84.4698514,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359031,10.4915118,-84.7115558,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359032,10.4914946,-84.7221307,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359231,10.4851673,-84.6815842,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359235,10.4696241,-84.6540735,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359236,10.4724395,-84.6440683,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359239,10.4276354,-84.7500268,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359348,10.3749982,-84.3428735,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9689060130,10.2024466,-84.4849818,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10112216151,10.4986241,-84.6861692,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11380439690,10.5025634,-84.6782579,charging_station,N/A,1,N/A,N/A,Hotel Arenal Manoa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+11384425691,10.4715538,-84.6447572,charging_station,N/A,N/A,N/A,no,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+9647552905,10.1581524,-84.1557061,charging_station,N/A,N/A,N/A,N/A,ICE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687358968,10.4522987,-84.0117307,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687358992,10.1571145,-84.1960363,charging_station,N/A,N/A,N/A,N/A,ICE,Q3431114,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687358993,10.123709,-84.2477022,charging_station,N/A,N/A,N/A,N/A,Enerza,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359349,10.3971851,-84.2209613,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10286620717,10.0215662,-84.2044224,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11811965335,10.0177129,-84.0560206,charging_station,N/A,N/A,N/A,N/A,ESPH,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12749169975,10.3217894,-84.2438155,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4228100589,10.396103,-75.5233343,charging_station,N/A,N/A,N/A,N/A,Compañia de Puertos Asociados COMPAS S.A.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4698352896,10.3487713,-75.4429278,charging_station,N/A,N/A,N/A,N/A,Megamovimientos,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5223516622,10.3437219,-75.4870299,charging_station,N/A,N/A,N/A,N/A,hotel las olas,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4198874895,10.1715442,-73.1366164,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4269724992,10.3993383,-71.4684266,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12780228156,10.5022232,-66.8507495,charging_station,N/A,1,N/A,customers,Swing Energy,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Swing Energy,N/A,Mo-Su 10:00-23:00,no
+12780228157,10.4500039,-66.8756648,charging_station,N/A,1,N/A,yes,Swing Energy,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Swing Energy,N/A,Mo-Su 08:00-18:00,no
+12781059660,10.4645985,-66.9779252,charging_station,N/A,1,N/A,yes,Swing Energy,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Swing Energy,N/A,Mo-Fr 06:00-21:00; Sa 07:00-17:00,no
+12785082977,10.5022091,-66.850495,charging_station,N/A,1,N/A,customers,Vencharger,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Vencharger,N/A,Mo-Sa 11:30-24:00;Su 12:30-22:00,no
+12785162844,10.5117704,-66.8963769,charging_station,N/A,1,N/A,yes,Vencharger,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Vencharger,N/A,24/7,no
+12785162845,10.4670127,-66.8709683,charging_station,N/A,1,N/A,yes,Vencharger,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Vencharger,N/A,Mo-Su 06:00-23:00,no
+12785195316,10.4861774,-66.8543715,charging_station,N/A,1,N/A,yes,Vencharger,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Vencharger,N/A,24/7,no
+12785195317,10.4862163,-66.8543722,charging_station,N/A,1,N/A,yes,Vencharger,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Vencharger,N/A,24/7,no
+12974234001,10.1129582,-63.110004,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4535397589,10.3496723,-61.5849382,charging_station,N/A,N/A,N/A,N/A,Oldendorff,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10904301569,10.4159971,-61.4175563,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NP,N/A,N/A,N/A
+12399692939,10.3325456,0.4691299,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4716915295,10.0435449,42.3628898,charging_station,N/A,N/A,N/A,N/A,中地海外供水项目入口,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9870624547,10.6330658,-85.4433586,charging_station,N/A,N/A,N/A,N/A,ICE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10169300870,10.5459646,-85.6939897,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9687359023,10.545122,-84.8928119,charging_station,N/A,N/A,N/A,N/A,ICE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11847894772,10.6243643,-84.5262207,charging_station,N/A,N/A,N/A,N/A,Coopelesca,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+9014326117,10.687515,-74.7476826,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1380575644,,,charging_station,N/A,9,N/A,yes,Swing Energy,N/A,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,Swing Energy,N/A,24/7,no
+12781972658,10.5966244,-67.0010724,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12781972659,10.5966268,-67.0010177,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12781972660,10.5963734,-67.0010067,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12781972661,10.5963711,-67.0010614,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1382691947,,,charging_station,N/A,4,N/A,yes,Swing Energy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Swing Energy,N/A,24/7,no
+12801564830,10.9173602,-63.9672248,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12801564831,10.9173686,-63.9671809,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12801564832,10.9172928,-63.9671658,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12801564833,10.9172843,-63.9672097,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4487703890,10.602081,-61.3398823,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12399678440,10.7917583,0.1982084,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12399695103,10.8225877,0.1967652,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12399697894,10.8855774,0.2475174,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11898838069,11.1734289,-73.7988582,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12801564842,11.1300822,-63.8476226,charging_station,N/A,1,N/A,customers,Swing Energy,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Swing Energy,N/A,Mo-Su 10:00-23:00,no
+3160194917,11.4624824,-12.610384,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

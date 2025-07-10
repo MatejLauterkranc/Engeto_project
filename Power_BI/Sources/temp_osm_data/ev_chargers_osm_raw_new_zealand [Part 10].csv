@@ -1,0 +1,47 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+6804270109,-39.8159042,-73.2481552,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11778650070,-39.8109841,-73.2511441,charging_station,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Enex,N/A,N/A,N/A
+11778650169,-39.8287646,-73.222014,charging_station,N/A,3,N/A,N/A,Copec,Q1130956,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11778650170,-39.837261,-73.2783282,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11778650269,-39.8153061,-73.2480235,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11778650069,-40.0705778,-72.8734729,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7574836046,-39.925889,175.039927,charging_station,N/A,N/A,N/A,N/A,ChargeNet NZ,Q105872959,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+281919636,-39.8097454,175.7882587,charging_station,N/A,4,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,24/7,yes
+7140413679,-39.6764911,175.7993041,charging_station,N/A,1,N/A,N/A,ChargeNet NZ,Q105872959,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.80 NZD / kWh,N/A,yes
+9920138361,-39.8097143,175.7883176,charging_station,N/A,1,N/A,N/A,ChargeNet NZ,Q105872959,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,$0.25 / kWh + $0.25 / minute,24/7,yes
+11031977213,-39.6789573,175.8005367,charging_station,N/A,2,N/A,N/A,BP,Q152057,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,BP,N/A,N/A,yes
+5621249236,-39.9941095,176.5553737,charging_station,N/A,1,N/A,yes,ChargeNet NZ,Q105872959,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,40c / kWh,N/A,yes
+4496145751,-39.6413448,176.8433975,charging_station,N/A,N/A,N/A,N/A,Unison Networks,Q24190006,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10174999643,-39.6383848,176.8429658,charging_station,N/A,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1266702084,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11765564581,-39.6413676,176.8433827,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11765564582,-39.6413968,176.843426,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11765564583,-39.6413624,176.8434621,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11765564584,-39.6413335,176.8434197,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4758675225,-39.2898448,-72.2284377,charging_station,N/A,N/A,N/A,N/A,Lipigas,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1122,Aviador Acevedo,N/A,N/A,N/A,N/A,N/A
+6804359221,-39.2761295,-71.9732698,charging_station,N/A,N/A,N/A,N/A,Enel X,Q5376815,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Enel X,N/A,N/A,N/A
+4788091422,-39.2229044,-70.9105784,charging_station,N/A,N/A,N/A,N/A,Hidenesa Gas,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9996408294,-39.2012529,173.9808473,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+5621460840,-39.5914974,174.2830938,charging_station,N/A,2,N/A,yes,ChargeNet NZ,Q105872959,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9440685041,-39.4183533,175.3983891,charging_station,N/A,2,N/A,yes,OpenLoop,Q113289213,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+10048565157,-39.1760469,175.3944317,charging_station,N/A,16,N/A,N/A,National Park,N/A,N/A,N/A,N/A,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+12537644430,-39.177512,175.4021333,charging_station,N/A,N/A,N/A,N/A,ChargeNet NZ,Q105872959,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargeNet NZ,N/A,N/A,N/A
+5626327690,-39.4812561,175.6695873,charging_station,N/A,2,N/A,yes,ChargeNet NZ,Q105872959,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,$0.25 / kWh + $0.25 / minute,N/A,yes
+4496116681,-39.4923556,176.9147087,charging_station,N/A,1,N/A,yes,ChargeNet NZ,Q105872959,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+9954349921,-39.4252048,176.8695497,charging_station,N/A,1,N/A,N/A,BP,Q152057,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,BP,N/A,N/A,N/A
+9956525256,-39.1747137,176.6257617,charging_station,N/A,2,N/A,N/A,ChargeNet NZ,Q105872959,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,$0.40/kWh,N/A,yes
+10050709255,-39.1333542,177.0036358,charging_station,yes,2,N/A,N/A,ChargeNet NZ,Q105872959,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,40c/kWh,24/7,yes
+4974109690,-38.8304712,-68.1222754,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9211680988,-38.9420252,-67.9936239,charging_station,N/A,N/A,N/A,N/A,Municipalidad de Cipolletti,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+9589135901,-38.9555753,-68.2212556,charging_station,N/A,N/A,N/A,N/A,EL TRIÁNGULO S.R.L.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5434085421,-38.7309114,-62.3050129,charging_station,N/A,N/A,N/A,N/A,Transporte EG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5686131121,-38.7364087,-62.253248,charging_station,N/A,N/A,N/A,N/A,TRANSPORTE COYOTE PATAGONICO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8384096764,-38.757058,143.6683449,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11465379143,-38.7582509,143.6692158,charging_station,N/A,N/A,N/A,N/A,Evie Networks,Q105795220,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6604720986,-38.6490505,145.6858267,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8333995490,-38.6680598,145.6055893,charging_station,N/A,2,N/A,N/A,Chargefox,Q105775824,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+11376091854,-38.6942826,146.082548,charging_station,N/A,N/A,N/A,N/A,Central Victorian Greenhouse Alliance,Q106320329,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charging the Regions,N/A,N/A,N/A
+12321541520,-38.6489847,145.6858931,charging_station,N/A,N/A,N/A,N/A,Chargefox,Q105775824,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12869788102,-38.634688,145.7289911,charging_station,N/A,N/A,N/A,N/A,Chargefox,Q105775824,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11376098457,-38.6532191,146.2008759,charging_station,N/A,N/A,N/A,N/A,Central Victorian Greenhouse Alliance,Q106320329,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charging the Regions,N/A,N/A,N/A
+11504837499,-38.8112214,146.2049592,charging_station,N/A,N/A,N/A,N/A,Central Victorian Greenhouse Alliance,Q106320329,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charging the Regions,N/A,N/A,N/A

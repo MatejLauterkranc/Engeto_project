@@ -1,0 +1,96 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+8366319578,2.3948999,102.2236875,charging_station,N/A,N/A,N/A,yes,JomCharge,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,North-South Expressway Southbound,N/A,JomCharge,RM1.20 per minute,N/A,yes
+8369963394,2.3982849,102.2196277,charging_station,N/A,N/A,N/A,yes,JomCharge,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,North-South Expressway Northbound,N/A,JomCharge,RM1.20 per minute,N/A,yes
+11391086505,2.4452524,102.2065328,charging_station,N/A,4,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,yes
+11500980138,2.3984706,102.2217222,charging_station,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,yes
+11501042949,2.3945396,102.2239535,charging_station,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,N/A
+12671964221,2.1482655,102.6982759,charging_station,N/A,2,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12882368669,2.2438411,102.5316578,charging_station,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,yes
+4276388925,2.2917938,111.9310806,charging_station,N/A,N/A,N/A,N/A,Petronas Petrol Station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4326718690,2.2692707,111.8579264,charging_station,N/A,N/A,N/A,N/A,Shell,Q110716465,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10692021906,2.4520753,-76.6071987,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12587816248,2.4520899,-76.6071614,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6326550385,2.8904877,-73.2176759,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11210209537,2.6341755,10.0693937,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11416040934,2.9089805,101.6571641,charging_station,N/A,N/A,N/A,N/A,GO TO-U,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GO TO-U,N/A,N/A,yes
+11416040935,2.9088289,101.6566397,charging_station,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,yes
+11490173943,2.7645458,101.6830042,charging_station,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,yes
+11757683232,2.8851044,101.6172601,charging_station,N/A,N/A,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,yes
+11757683233,2.8849195,101.6173062,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Tesla, Inc.",N/A,N/A,no
+11757695500,2.8860489,101.6163671,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11934911245,2.9152446,101.6581696,charging_station,N/A,N/A,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,yes
+12093421882,2.7641531,101.8306805,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12093421883,2.7636997,101.831229,charging_station,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,N/A
+12252901049,2.8852818,101.6164816,charging_station,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari Charging Station,N/A,N/A,yes
+12300608434,2.765871,101.6853896,charging_station,N/A,N/A,N/A,N/A,Gentari,Q123457836,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,yes
+11382919205,2.4667032,102.1198072,charging_station,N/A,2,N/A,N/A,Gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,yes
+12093461484,2.7568347,101.8461598,charging_station,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,yes
+12093461485,2.7571409,101.8455834,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shell,N/A,N/A,yes
+12093477717,2.7572489,101.8442515,charging_station,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,yes
+5607919121,3.3947443,-76.3529871,charging_station,N/A,N/A,N/A,N/A,crucero de candelaria,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5735256504,3.3734571,-76.5405095,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4858345621,3.3655523,-59.8401516,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4631705470,3.1277894,101.6788434,charging_station,N/A,4,N/A,N/A,COSMOS Bangsar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5426265125,3.1525979,101.6983896,charging_station,N/A,N/A,N/A,N/A,COSMOS Munshi Abdullah,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8323408889,3.0650098,101.5970579,charging_station,N/A,N/A,N/A,N/A,ABB Malaysia Sunway,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,ABB Terra 53 CJG,N/A,N/A,no
+8323408892,3.0819419,101.5841829,charging_station,N/A,22 kW,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,Persiaran Kemajuan,N/A,chargEV,chargEV subscription,N/A,yes
+8326566629,3.0814414,101.5824283,charging_station,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+8326566630,3.0844995,101.5835375,charging_station,N/A,22 kW,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,Federal Highway,N/A,chargEV,chargEV subscription,N/A,yes
+8326566631,3.080612,101.5723465,charging_station,N/A,22 kW,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,Federal Highway,N/A,chargEV,chargEV subscription,N/A,yes
+8366097714,3.1337766,101.6096955,charging_station,N/A,"22, 40 kW",N/A,yes,Vision Motorsports,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+8559980141,3.0353047,101.5570565,charging_station,N/A,22-60 kW,N/A,N/A,Pekema Malaysia,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Exicom Harmony,N/A,N/A,no
+9119751721,3.1606063,101.7415416,charging_station,N/A,"22, 40 kW",N/A,N/A,Utama Motors,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,Exicom Harmony,FOC initially,N/A,no
+9173640665,3.1616628,101.623275,charging_station,N/A,60 kW,N/A,N/A,Hamza Motors,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Exicom Harmony,FOC initially,N/A,no
+9296913495,3.1212153,101.6551042,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9963470059,3.0444818,101.7064622,charging_station,N/A,50kW,N/A,N/A,Kuro EV Malaysia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,MYR1.20/min,N/A,yes
+10919668792,3.0656547,101.6630485,charging_station,N/A,18,N/A,N/A,Gentari / EV Connection,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ABB Terra,MYR0.50/min,N/A,yes
+10919805096,3.1429376,101.7106726,charging_station,N/A,225kW,N/A,N/A,ChargEV Yinson Green Tech,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kempower,MYR1.20/kWh,N/A,yes
+10919836503,3.0491375,101.7057034,charging_station,N/A,22kW,N/A,N/A,Shell Recharge / ParkEasy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,BMW i,"MYR1 for first 2 hour, subsequent hour MYR2.80",N/A,yes
+11027104974,3.1301251,101.6420686,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargEV,N/A,N/A,N/A
+11382845488,3.0735536,101.6072087,charging_station,N/A,4,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,yes
+11396044526,3.1715556,101.6649854,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11585795011,3.1281617,101.7241665,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Tesla, Inc.",N/A,N/A,no
+11585801904,3.1664141,101.6917172,charging_station,N/A,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6,N/A,N/A,N/A,N/A,N/A,N/A,"Tesla, Inc.",N/A,N/A,yes
+11596719321,3.0332795,101.7652185,charging_station,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,yes
+11596766851,3.0271608,101.7541855,charging_station,N/A,N/A,N/A,N/A,JomCharge,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JomCharge,N/A,N/A,yes
+11602330395,3.0493739,101.6721036,charging_station,N/A,N/A,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,yes
+11662266719,3.0058004,101.7250896,charging_station,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,yes
+11763114271,2.9701078,101.7161964,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Tesla, Inc.",N/A,N/A,N/A
+11763124114,2.9705213,101.7135594,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shell Recharge,N/A,N/A,yes
+11875216016,2.9696481,101.7134794,charging_station,N/A,N/A,N/A,N/A,DC Handal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,DC Handal,N/A,N/A,yes
+11875321339,2.9698847,101.71547,charging_station,N/A,N/A,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,yes
+11934605603,3.1672296,101.6919158,charging_station,N/A,N/A,N/A,N/A,EVGuru,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,EVGuru,N/A,N/A,yes
+11934607478,3.1663889,101.6917486,charging_station,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,yes
+11934857366,3.0260201,101.7509655,charging_station,N/A,N/A,N/A,N/A,EVGuru,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,EVGuru,N/A,N/A,yes
+11951127590,3.1277517,101.7246183,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Shell Recharge,N/A,N/A,yes
+11951127591,3.1281133,101.7220326,charging_station,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,yes
+12075111082,3.0274973,101.7528222,charging_station,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,yes
+12150039409,3.1577198,101.6498666,charging_station,N/A,8,N/A,N/A,Oyika,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,rydeEV,N/A,N/A,yes
+12181443002,3.2261916,101.650399,charging_station,N/A,6,N/A,N/A,gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12202866911,3.0356408,101.7090853,charging_station,N/A,N/A,N/A,N/A,Carput Zap,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Carput Zap,N/A,N/A,yes
+12270317495,3.0248884,101.7511751,charging_station,N/A,N/A,N/A,N/A,ChargeSini,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargeSini,N/A,N/A,N/A
+12279220588,3.1398375,101.6960665,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12348097689,3.1411667,101.6427499,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,yes
+12533954008,3.1347819,101.6873764,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12704408649,3.1445925,101.72218,charging_station,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargeSINI,N/A,N/A,yes
+12725133452,3.0444087,101.5602394,charging_station,N/A,2,N/A,N/A,Virta,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Virta Global,N/A,N/A,yes
+1189698698,,,charging_station,N/A,4,N/A,N/A,DC Handal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1.50 MYR/kWh,N/A,yes
+1198467958,,,charging_station,N/A,4,N/A,N/A,Charge Sini,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargeSini Station,N/A,N/A,yes
+1226598073,,,charging_station,N/A,2,N/A,N/A,EvAIMS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+1308062027,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12113783677,2.9697198,101.6546004,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12113783678,2.9696116,101.6546004,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12113783679,2.9696116,101.6546602,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12113783680,2.9697198,101.6546583,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11046872786,3.1942759,101.672878,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11046872787,3.1942779,101.6729329,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11046872788,3.194114,101.6729427,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11046872789,3.1941116,101.6728884,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11374282952,3.1936532,101.6729658,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11374282953,3.1936535,101.6730159,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11374282954,3.1935521,101.6730158,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11374282955,3.1935527,101.6729672,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11117526225,3.2089405,101.6689422,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11117566302,3.2089009,101.6689395,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11117566303,3.2088948,101.6690299,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11117566304,3.2089345,101.6690325,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

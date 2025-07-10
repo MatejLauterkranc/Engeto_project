@@ -1,0 +1,16 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+4219999491,-22.7893656,-59.6155354,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5366105822,-17.7869025,-63.1621819,charging_station,N/A,N/A,N/A,N/A,ATL San Jorge,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9128574460,-17.7522626,-63.1991402,charging_station,N/A,N/A,N/A,N/A,Ventura Mall,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11665527369,-17.7660531,-63.0854573,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9116058687,-17.3751677,-66.1581829,charging_station,N/A,1,N/A,N/A,Universidad Franz Tamayo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+9311178503,-17.3806773,-66.1516576,charging_station,N/A,2,N/A,yes,Empresa de Luz y Fuerza Eléctrica Cochabamba,N/A,N/A,N/A,N/A,N/A,N/A,N/A,effix 9,N/A,N/A,N/A,ENDE,N/A,24/7,no
+9515033297,-17.3935583,-66.1662378,charging_station,N/A,2,N/A,yes,Empresa de Luz y Fuerza Eléctrica Cochabamba,N/A,N/A,N/A,N/A,N/A,N/A,N/A,effix 7,N/A,N/A,N/A,ENDE,N/A,24/7,no
+11589867985,-17.3731894,-66.1547959,charging_station,N/A,2,N/A,N/A,Quantum,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Quantum,N/A,N/A,no
+11760214296,-17.3990678,-66.2182069,charging_station,N/A,1,N/A,N/A,Universidad Privada Boliviana,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+9540138850,-17.0075121,-65.4430578,charging_station,N/A,2,N/A,yes,Empresa de Luz y Fuerza Eléctrica Cochabamba,N/A,N/A,N/A,N/A,N/A,N/A,N/A,effix 8,N/A,N/A,N/A,ENDE,N/A,24/7,no
+9557130508,-16.5336474,-68.1729783,charging_station,N/A,2,N/A,yes,DELAPAZ Distribuidora de Electricidad La Paz,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ENDE,N/A,24/7,no
+10736141401,-16.5065423,-68.1263904,charging_station,N/A,2,N/A,yes,DELAPAZ Distribuidora de Electricidad La Paz,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ENDE,N/A,24/7,no
+4324626090,-15.851941,-58.4704355,charging_station,N/A,N/A,N/A,N/A,Auto Posto Porto,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4380754491,-12.0600494,-63.5575703,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4493304798,-10.876467,-61.9460593,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

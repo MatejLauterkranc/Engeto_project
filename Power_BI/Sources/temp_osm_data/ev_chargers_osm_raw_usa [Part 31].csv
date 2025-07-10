@@ -1,0 +1,536 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+11443450204,27.3409839,35.7080234,charging_station,N/A,N/A,N/A,N/A,Electromin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mo-Su 09:00-18:00,N/A
+11443435766,27.158233,49.5433832,charging_station,N/A,N/A,N/A,N/A,Electromin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00",N/A
+12046092503,27.0018178,49.6553898,charging_station,N/A,N/A,N/A,N/A,Electromin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Mo-Th,Sa-Su 09:00-21:00",N/A
+9529343817,27.2708197,78.0407736,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10237594009,27.3356575,85.9902222,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12431364584,27.0402782,88.2663931,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11936111069,27.4247958,89.6445984,charging_station,N/A,N/A,N/A,N/A,RGoB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11937261971,27.4252705,89.6440029,charging_station,N/A,N/A,N/A,N/A,City Bus Service,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9974932500,27.3141195,100.858494,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11074900942,27.013193,106.0384272,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11389396341,27.1888859,111.5036175,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+11389396342,27.1906967,111.5026171,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+12821562073,27.2515343,112.7272496,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11738025450,27.1864146,118.1694071,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11738025451,27.1867009,118.1717245,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11738080584,26.955071,118.33342,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11738080585,26.955542,118.3307512,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10820803815,27.3566649,118.7425169,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10820803816,27.3585969,118.742018,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+12168190346,27.55501,-99.49422,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,110,Calle Del Norte Drive,78041,Tesla Supercharger,N/A,24/7,yes
+12171052906,27.49381,-97.84441,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2400,South US Highway 77,78363,Tesla Supercharger,N/A,24/7,yes
+12923320531,27.74904,-98.0688,charging_station,N/A,11,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,700,East Front Street,78332,Tesla Supercharger,N/A,24/7,yes
+5691560636,27.710993,-97.3712609,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8855542355,27.7878693,-97.3951808,charging_station,N/A,4,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,yes
+12036491913,27.71033,-97.36851,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4938,South Staples Street,78411,Tesla Supercharger,N/A,24/7,yes
+12247272489,27.79321,-97.6512,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,500,US-77,78380,Tesla Supercharger,N/A,24/7,yes
+9811900864,27.9003079,-97.1431065,charging_station,N/A,N/A,N/A,yes,Microtel Inn and Suites Aransas Pass - Tesla Destination,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+12046377883,27.7739244,-97.1060161,charging_station,N/A,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Tesla, Inc.",N/A,N/A,no
+12051947446,27.7745913,-97.1063666,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Enphase,N/A,N/A,no
+6578717340,27.8461,-82.67811,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3101,Gandy Boulevard,33782,Tesla Supercharger,.42,24/7,yes
+10975939635,27.9129324,-82.783017,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10975939636,27.9144934,-82.7855876,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11959200813,27.91513,-82.72865,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15701,US Highway 19 North,33764,Tesla Supercharger,N/A,24/7,yes
+12923488202,27.79334,-82.66671,charging_station,N/A,20,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2365,25th Street North,33713,Tesla Supercharger,N/A,24/7,yes
+12923488211,27.793,-82.66694,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2465,22nd Avenue North,33713,Tesla Supercharger,N/A,24/7,yes
+12923488272,27.73481,-82.6801,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3637,34th Street South,33711,Tesla Supercharger,N/A,24/7,yes
+2059104144,27.782957,-82.6389951,charging_station,yes,1,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,yes
+2147827598,27.777557,-82.6288,charging_station,N/A,2,N/A,N/A,Duke Energy,Q1264404,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2270642767,27.4989893,-82.569566,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3682972283,27.7682589,-82.3927939,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+3724370598,27.94083,-82.32365,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2400,West Brandon Boulevard,33511,Tesla Supercharger,N/A,24/7,yes
+3915535385,27.4988037,-82.5718465,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3915537594,27.4992277,-82.5755157,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6579169439,27.7914,-82.3328,charging_station,N/A,10,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10665,Big Bend Road,33579,Tesla Supercharger,N/A,24/7,yes
+6579195780,27.93712,-82.48112,charging_station,N/A,10,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2100,West Swann Avenue,33606,Tesla Supercharger,N/A,24/7,yes
+7386178092,27.768387,-82.6498006,charging_station,N/A,2,N/A,N/A,Tropicana Field,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9289006237,27.7731486,-82.6402962,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+9724709432,27.9309422,-82.4833409,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Tesla, Inc.",N/A,N/A,N/A
+10189167878,27.94924,-82.50494,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,401,North Dale Mabry Highway,33609,Tesla Supercharger,N/A,24/7,yes
+10229625817,27.7636852,-82.6346757,charging_station,N/A,N/A,N/A,N/A,Shell Recharge,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10229631017,27.7734547,-82.6266348,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10316828656,27.9414031,-82.4843697,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eaton,N/A,N/A,no
+10670141264,27.9385887,-82.4542204,charging_station,N/A,10,N/A,N/A,TECO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10904490452,27.53793,-82.50736,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5461,Factory Shops Boulevard,34222,Tesla Supercharger,N/A,24/7,yes
+10904498840,27.71365,-82.37599,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3726,Sun City Center Boulevard,33573,Tesla Supercharger,N/A,24/7,yes
+11229564058,27.9473791,-82.4569792,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nova Charge,N/A,N/A,N/A
+12244876692,27.85815,-82.32756,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9617,US-301,33578,Tesla Supercharger,N/A,24/7,yes
+12698106077,27.89279,-82.50466,charging_station,N/A,10,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3660,West Gandy Boulevard,33611,Tesla Supercharger,N/A,24/7,yes
+12823935890,27.89436,-82.24551,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2224,Bloomingdale Avenue,33596,Tesla Supercharger,N/A,24/7,yes
+12878074052,27.5373671,-82.5073678,charging_station,N/A,4,N/A,N/A,Electrify America,Q59773555,N/A,N/A,N/A,N/A,N/A,N/A,110052,N/A,N/A,N/A,Electrify America,N/A,24/7,yes
+12879217211,27.5381,-82.5084,charging_station,N/A,9,N/A,designated,Mercedes-Benz,Q36008,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5115,Factory Shops Boulevard,34222,Mercedes-Benz,N/A,24/7,N/A
+12896993296,27.893167,-82.338128,charging_station,N/A,N/A,N/A,designated,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9979,Progress Boulevard,33578,bp pulse,N/A,24/7,N/A
+1253812200,,,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11654793645,27.7723592,-82.6320146,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11654793646,27.7723552,-82.6319923,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11654793647,27.7724164,-82.6319783,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11654793648,27.7724204,-82.6320007,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12244696167,27.46587,-81.43425,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3838,US Highway 27 South,33870,Tesla Supercharger,N/A,24/7,yes
+3725407305,27.60144,-80.82219,charging_station,N/A,10,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,184,Florida's Turnpike,34972,Tesla Supercharger,N/A,24/7,yes
+12241873827,27.64018,-80.51351,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9050,20th Street,32966,Tesla Supercharger,N/A,24/7,yes
+12923488210,27.64007,-80.44686,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5800,20th Street,32966,Tesla Supercharger,N/A,24/7,yes
+12923488229,27.76788,-80.54957,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10950,Fellsmere Road,32958,Tesla Supercharger,N/A,24/7,yes
+3852989773,27.8082124,-17.915821,charging_station,N/A,1,N/A,N/A,Endesa,Q1275336,1,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3852995927,27.7773663,-17.907782,charging_station,N/A,N/A,N/A,N/A,Endesa,Q1275336,1,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9434096173,27.7521003,-18.0127481,charging_station,N/A,2,N/A,N/A,Gorona del Viento El Hierro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9543693357,27.7761365,-17.9086922,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9543693358,27.7761946,-17.9094074,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8913143487,27.8176698,-15.7642057,charging_station,N/A,2,N/A,N/A,Iberdrola,Q1437502,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7261853700,27.9126708,-15.5414586,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7856660037,27.843957,-15.4507543,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865253,27.8615974,-15.4047109,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1148984430,,,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1148984794,,,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1148984795,,,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1148984796,,,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1148984797,,,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689402771,27.8482676,-15.4383627,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689402772,27.8481509,-15.4384045,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689420828,27.8482824,-15.4384154,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689420829,27.8481656,-15.4384572,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689424165,27.848189,-15.4384489,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689424166,27.8481742,-15.4383962,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689424167,27.8482123,-15.4384405,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689424168,27.8481976,-15.4383878,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689424169,27.8482357,-15.4384321,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689424170,27.8482209,-15.4383794,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689424171,27.848259,-15.4384238,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10689424172,27.8482443,-15.4383711,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5732983241,27.5344762,2.5784056,charging_station,N/A,N/A,N/A,N/A,35,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11443450181,27.5211932,41.6884803,charging_station,N/A,N/A,N/A,N/A,Electromin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00",N/A
+4439316190,27.5016642,54.0289996,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8901628132,27.8943813,78.0735323,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11690004269,27.8130464,84.7893005,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4686124507,27.7049122,85.3127775,charging_station,N/A,N/A,N/A,N/A,Aabas ko ghr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4414094297,27.7218506,85.3727629,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12874566901,27.5924117,85.584149,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8911587081,27.4768729,89.6241775,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9888996293,27.4735583,89.6391212,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9889517962,27.4770139,89.6404581,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9894232295,27.4702236,89.642232,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9894232296,27.4671962,89.642918,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9894232297,27.4653156,89.6379394,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9894232298,27.4784518,89.6350599,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11932336669,27.4769755,89.6404355,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11934926369,27.4653356,89.6378291,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11936788270,27.459026,89.6469937,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11936788471,27.4588487,89.6471092,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10225313717,27.5508421,89.8713203,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9972813288,27.6835756,100.7663038,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5931499301,27.5903718,106.6492751,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5931499303,27.5860191,106.6281021,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10823996279,27.7905809,106.3854464,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+8255060231,27.8408081,113.0179894,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12064171969,27.7040468,113.0349614,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+11152461040,27.6894614,113.910629,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+11152461041,27.6863096,113.9113896,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+11152461042,27.6865351,113.9099866,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11152461043,27.6890733,113.9120992,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11021345204,27.7322888,114.8379541,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11021363005,27.7318501,114.8365012,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,蔚来换电站,N/A,N/A,N/A
+11021363006,27.7326475,114.8361113,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11021363007,27.7322716,114.8377034,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,蔚来换电站,N/A,N/A,N/A
+1320758565,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12222548741,27.5414246,117.3499656,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12222548739,27.5420932,117.3493603,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12222548740,27.5419781,117.3492475,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12222548742,27.5415399,117.3500786,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6793262631,27.6875011,117.9886431,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10820786435,27.8016976,118.4241226,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,蔚来换电站,N/A,N/A,N/A
+10820786436,27.8017593,118.4243157,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10820786437,27.7990426,118.4226152,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,蔚来换电站,N/A,N/A,N/A
+10820786438,27.7991399,118.4230819,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10897963047,27.4784854,118.6904894,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10897963061,27.4768151,118.6922343,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10897892119,27.7754665,118.9390314,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10897892127,27.7770436,118.9422877,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10047274871,27.5112165,120.3743575,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10047274872,27.511687,120.3771535,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11941767509,27.923109,120.8017174,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+12134980524,27.6935642,120.5809746,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+1288213536,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,顺丽汽车充电站,N/A,N/A,N/A
+11883247914,27.9187503,120.648577,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11883247917,27.9191885,120.6481638,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207310141,27.9186622,120.6484571,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12207310142,27.9190853,120.6480372,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12944017944,28.4459905,-99.2435045,charging_station,N/A,250 kW,N/A,N/A,Tesla,Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+12944744147,28.44591,-99.24383,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,358,I-35,78014,Tesla Supercharger,N/A,24/7,yes
+12282551327,28.11112,-97.81836,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10538,TX-359,78368,Tesla Supercharger,N/A,24/7,yes
+12944031408,28.3073145,-97.2751854,charging_station,N/A,325 kW,N/A,N/A,Tesla,Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,yes
+12944743455,28.30739,-97.27518,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,217,North Alamo Street,78377,Tesla Supercharger,N/A,24/7,yes
+3682932419,27.9632164,-82.7293187,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+3682994306,27.9649396,-82.7366833,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,no
+3683084334,28.2372432,-82.7265409,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+6049212075,28.0168833,-82.7360957,charging_station,N/A,2,N/A,yes,Whole Foods,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+7534030739,28.0133,-82.73624,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26508,US Highway 19,33761,Tesla Supercharger,N/A,24/7,yes
+10315260581,27.9791454,-82.8173693,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,Clipper Creek,N/A,N/A,no
+11639916184,28.2163322,-82.738451,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11646603055,28.21802,-82.7362,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4026,US-19,34652,Tesla Supercharger,N/A,24/7,yes
+11646603065,28.13663,-82.75673,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1171,South Pinellas Avenue,34689,Tesla Supercharger,N/A,24/7,yes
+12878074058,28.2505739,-82.7204945,charging_station,N/A,4,N/A,N/A,Duke energy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,EV Connect -CCS connectors,N/A,N/A,yes
+1577184743,28.0641014,-82.4124439,charging_station,N/A,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3683018016,28.0365532,-82.661898,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,yes
+3683047241,28.0359538,-82.6603,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,yes
+3683052924,28.0341166,-82.6569962,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,yes
+3683057590,28.0343515,-82.6592421,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,yes
+4028057214,28.0588234,-82.4172541,charging_station,N/A,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4414178992,28.0501536,-82.4144883,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4414178993,28.0509644,-82.3941269,charging_station,N/A,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4414178994,28.0496387,-82.4583206,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4414245590,28.0558168,-82.4082332,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4420318489,28.09169,-82.4035159,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5387549693,28.0356908,-82.6573937,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,N/A
+5938102914,27.9510331,-82.4521467,charging_station,N/A,N/A,N/A,N/A,Twiggs Street Parking Garage,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6579217581,27.96576,-82.40258,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2502,North 50th Street,33619,Tesla Supercharger,N/A,24/7,yes
+7265083537,28.191712,-82.3925986,charging_station,N/A,1,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,$0.40/kWh,N/A,yes
+9839070596,28.08855,-82.4521,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,804,East Bearss Avenue,33613,Tesla Supercharger,N/A,24/7,yes
+9839073518,28.18981,-82.40008,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25155,Maren Way,34639,Tesla Supercharger,.34,24/7,yes
+11062689716,27.9620916,-82.4458639,charging_station,yes,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,N/A
+11402014696,27.9604297,-82.4352769,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Tesla, Inc.",N/A,N/A,no
+12878074055,27.9603886,-82.4352593,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Enphase,N/A,N/A,no
+12878074056,28.13083,-82.3663815,charging_station,yes,8,N/A,N/A,Electrify America,Q59773555,N/A,N/A,N/A,N/A,N/A,N/A,100244-08,N/A,N/A,N/A,N/A,N/A,24/7,yes
+12878074057,28.1928695,-82.3915272,charging_station,N/A,6,N/A,N/A,Electrify America,Q59773555,N/A,N/A,N/A,N/A,N/A,N/A,240209,N/A,N/A,N/A,Electrify America,N/A,24/7,yes
+12879217223,28.039,-82.46,charging_station,N/A,N/A,N/A,designated,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9560,North Florida Avenue,33612,ChargePoint,N/A,24/7,N/A
+12897005201,27.95355,-82.4337,charging_station,N/A,N/A,N/A,designated,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1103,North 22nd Street,33605,Electrify America,N/A,24/7,N/A
+12923431487,27.99518,-82.47815,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1760,West Hillsborough Avenue,33603,Tesla Supercharger,N/A,24/7,yes
+12923488239,28.19007,-82.61618,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12048,FL-54,33556,Tesla Supercharger,N/A,24/7,yes
+12923488250,27.9968,-82.37267,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7408,East Hillsborough Avenue,33610,Tesla Supercharger,N/A,24/7,yes
+1359516525,,,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ALL,N/A,N/A,yes
+12584342370,28.2145304,-82.5360775,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12584342371,28.2144335,-82.5360665,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12584342372,28.2143592,-82.5359093,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12584342373,28.2144374,-82.5359246,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12133027438,28.00787,-81.7297,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1490,3rd Street Southwest,33880,Tesla Supercharger,N/A,24/7,yes
+12244165315,28.098,-81.9746,charging_station,N/A,7,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4320,US Highway 98 North,33809,Tesla Supercharger,N/A,24/7,yes
+12244865067,28.02605,-82.15171,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2705,Thonotosassa Road,33563,Tesla Supercharger,N/A,24/7,yes
+12923488255,27.99929,-81.92448,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3555,Lakeland Highlands Road,33803,Tesla Supercharger,N/A,24/7,yes
+6576967867,28.33136,-81.53245,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6240,West. Irlo Bronson Memorial Highway,34747,Tesla Supercharger,N/A,24/7,yes
+6578709699,28.44977,-81.46673,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6500,West Sand Lake Road,32819,Tesla Supercharger,N/A,24/7,yes
+6965178641,28.4033866,-81.5770236,charging_station,N/A,9,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,.35/kWH,N/A,yes
+10226076303,28.3303891,-81.3513264,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10562637370,28.259076,-81.2811985,charging_station,N/A,2,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,yes
+10562678807,28.3710488,-81.2772104,charging_station,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Clipper Creek,N/A,N/A,no
+10896937057,28.44954,-81.4902,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7826,West Sand Lake Road,32819,Tesla Supercharger,N/A,24/7,yes
+11145400441,28.40594,-81.45788,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5910,Central Florida Parkway,32821,Tesla Supercharger,N/A,24/7,yes
+12067228341,28.3904213,-81.4895692,charging_station,N/A,6,N/A,N/A,Electrify America,Q59773555,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Electrify America,N/A,N/A,yes
+12432210067,28.2442282,-81.2445366,charging_station,N/A,6,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,no
+12877448658,28.3568872,-81.5570417,charging_station,N/A,N/A,N/A,designated,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,yes
+12897005229,28.093891,-81.273391,charging_station,N/A,N/A,N/A,designated,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,229,Florida’s Turnpike,34739,N/A,N/A,24/7,N/A
+12923488207,28.34551,-81.60457,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7940,West Irlo Bronson Memorial Highway,34747,Tesla Supercharger,N/A,24/7,yes
+12923488238,28.44846,-81.39458,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8001,South Orange Blossom Trail,32809,Tesla Supercharger,N/A,24/7,yes
+12923488249,28.34151,-81.41116,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,751,Centerview Boulevard,34741,Tesla Supercharger,N/A,24/7,yes
+12923488254,28.3849,-81.5011,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8462,Palm Parkway,32836,Tesla Supercharger,N/A,24/7,yes
+12923488268,28.40116,-81.48844,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7105,Palm Parkway,32836,Tesla Supercharger,N/A,24/7,yes
+12923488274,28.0946,-81.27413,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,34760,Tesla Supercharger,N/A,24/7,yes
+12923488276,28.25851,-81.59009,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8103,Lake Wilson Road,33896,Tesla Supercharger,N/A,24/7,yes
+12944721996,28.23266,-81.64245,charging_station,N/A,20,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5000,Grandview Parkway,33837,Tesla Supercharger,N/A,24/7,yes
+762128279,,,charging_station,N/A,8,N/A,N/A,Tesla,Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+1222403099,,,charging_station,N/A,N/A,N/A,N/A,Electrify America,Q59773555,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+13538023,,,charging_station,N/A,6,N/A,N/A,Electrify America,Q59773555,N/A,N/A,N/A,N/A,N/A,N/A,100255,N/A,N/A,N/A,N/A,N/A,24/7,yes
+15936796,,,charging_station,N/A,N/A,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,24/7,yes
+11337237200,28.2437078,-81.6571659,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11337237201,28.2436206,-81.6574232,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11337237202,28.2435745,-81.6574401,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11337237203,28.2435646,-81.6574216,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11337237204,28.2436412,-81.657201,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7120545743,28.3456376,-81.6048873,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7120545744,28.345598,-81.6048167,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7120545745,28.3457872,-81.6046794,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7120545746,28.3458269,-81.60475,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9328873529,28.4484947,-81.3952695,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9328873530,28.4484957,-81.3951217,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9328873531,28.4484949,-81.3952413,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9328873532,28.4484954,-81.3951769,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9328873533,28.4484945,-81.395299,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9328873534,28.4484951,-81.3952083,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396678,28.4485051,-81.3947103,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396680,28.4485048,-81.3947695,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396681,28.4485057,-81.394571,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396682,28.448506,-81.3945183,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396683,28.4485047,-81.3947977,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396684,28.4485055,-81.394625,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396685,28.4485056,-81.3946016,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396688,28.4485061,-81.3944878,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396689,28.4484524,-81.3949315,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396690,28.4485052,-81.3946849,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396691,28.4485053,-81.3946576,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396692,28.4485045,-81.3948496,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396693,28.4485049,-81.3947461,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396694,28.4485059,-81.3945432,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396695,28.4485043,-81.3948847,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10948396696,28.4485046,-81.3948226,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3688760272,28.387665,-80.7560041,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+3688760273,28.3876273,-80.755933,charging_station,N/A,2,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,yes
+7111028907,28.3613822,-80.7931672,charging_station,N/A,4,N/A,N/A,Electrify America,Q59773555,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+8723527418,28.2421156,-80.7268185,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,N/A
+9384057010,28.26721,-80.71842,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5410,Murrell Road,32955,Tesla Supercharger,N/A,24/7,yes
+10563141221,28.3548156,-80.7248545,charging_station,N/A,2,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,no
+12874098018,28.23347,-80.72018,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7201,Shoppes Drive,32940,Tesla Supercharger,N/A,24/7,yes
+12875130839,28.11986,-80.69959,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4429,West Eau Gallie Boulevard,32934,Tesla Supercharger,N/A,24/7,yes
+12878074053,28.355101,-80.7268893,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,N/A
+12923488224,28.35552,-80.74175,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,923,West King Street,32922,Tesla Supercharger,N/A,24/7,yes
+3688763815,28.4058029,-80.6186863,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+5500692488,28.03704,-80.6642,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,205,Palm Bay Road Northeast,32904,Tesla Supercharger,N/A,24/7,yes
+7293129641,28.0370137,-80.6658281,charging_station,N/A,1,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,yes
+12875130840,28.0367746,-80.6616102,charging_station,N/A,6,N/A,N/A,EVgo,Q61803820,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,EVgo,N/A,N/A,yes
+12897005202,28.079684,-80.606004,charging_station,N/A,N/A,N/A,designated,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,910,East Strawbridge Avenue,32901,N/A,N/A,24/7,N/A
+12923488235,28.39538,-80.6105,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8660,Astronaut Boulevard,32920,Tesla Supercharger,N/A,24/7,yes
+9768698117,28.1796639,-17.1851005,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9768704617,28.1646558,-17.1979913,charging_station,N/A,N/A,N/A,N/A,Endesa,Q1275336,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10290216047,28.1010297,-17.2017582,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11147924071,28.0950401,-17.3348802,charging_station,N/A,5,N/A,N/A,Iberdrola,Q1437502,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Iberdrola,N/A,N/A,N/A
+11728166843,28.1681705,-17.1946139,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11728210878,28.1681438,-17.19466,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12006280976,28.1784347,-17.265442,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12006524269,28.1863555,-17.1953218,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12422851415,28.0637927,-17.2395139,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1372625445,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12709563929,28.0292863,-17.197487,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12709563931,28.0292322,-17.1974863,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12709563933,28.0293201,-17.1975684,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12709563934,28.0292673,-17.1975659,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4894435722,28.0780172,-16.7345271,charging_station,N/A,N/A,N/A,N/A,Ола-дайвцентр,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6345042934,28.0893595,-17.1073802,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11516514635,28.1180132,-16.7382953,charging_station,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12144043466,28.1209678,-16.7456152,charging_station,N/A,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4485896940,28.448435,-16.4570107,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4485896941,28.4484137,-16.4570186,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4710107748,28.4269008,-16.4895758,charging_station,N/A,2,N/A,N/A,Lidl,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6689074883,28.4178383,-16.5485944,charging_station,N/A,1,N/A,yes,CanariasTeRecarga,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+6760747543,28.3551105,-16.3700213,charging_station,N/A,1,N/A,N/A,Ayuntamiento de Candelaria,N/A,1,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+6832642786,28.4118514,-16.5357452,charging_station,N/A,2,N/A,N/A,CanariasTeRecarga.com,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6838222469,28.4170414,-16.5510075,charging_station,N/A,1,N/A,N/A,CanariasTeRecarga,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,N/A
+6838222470,28.4102377,-16.5536052,charging_station,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,N/A
+8210573148,28.4122782,-16.5588908,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8906610659,28.4411189,-16.3147576,charging_station,N/A,2,N/A,N/A,N/A,N/A,1,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+9053456473,28.4016912,-16.3194656,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9248871622,28.3984113,-16.5418379,charging_station,N/A,4,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10195615825,28.442357,-16.3708232,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11632179349,28.1535885,-16.6398707,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865226,28.396195,-16.5483316,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12460908681,28.2549669,-16.6257261,charging_station,N/A,2,N/A,N/A,Circutor,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1088872687,,,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+1237372310,,,charging_station,N/A,2,N/A,N/A,simon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8042884618,28.1306037,-16.4638164,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8042884619,28.1306444,-16.4638342,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9975419439,28.1306517,-16.4638104,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9975419440,28.1306125,-16.4637925,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11492634889,28.2973935,-16.5098789,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11492634892,28.2973706,-16.5099268,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11492634895,28.2974187,-16.5098701,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11492634901,28.297365,-16.5098842,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11492634904,28.2973485,-16.5099241,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11492634910,28.2973929,-16.5099261,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9174597433,28.0044141,-15.8168789,charging_station,N/A,2,N/A,N/A,Cabildo de Gran Canaria,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9181163567,28.1021378,-15.7021083,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9181191365,28.1187361,-15.6757709,charging_station,N/A,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11664819207,28.1019494,-15.7109917,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11676965246,28.1061489,-15.7076031,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6277482099,28.1094054,-15.5835641,charging_station,N/A,2,N/A,yes,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6277485366,28.0506711,-15.5757386,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6760725570,28.0069542,-15.5995063,charging_station,N/A,2,N/A,N/A,Movilidad Eléctrica,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9190320131,28.1456179,-15.4281959,charging_station,N/A,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9490540917,28.1216035,-15.4248196,charging_station,N/A,N/A,N/A,N/A,Endesa,Q1275336,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9789781817,28.1178029,-15.5236874,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9789980117,28.0594721,-15.5493146,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9790747217,28.0070866,-15.5337222,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9792199117,28.1276789,-15.4525406,charging_station,N/A,1,N/A,N/A,Endesa X,Q104874542,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9792199217,28.1282066,-15.4517006,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9792418417,28.1141268,-15.4178101,charging_station,N/A,2,N/A,N/A,Movilidad Eléctrica,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10017796272,28.0104594,-15.3878471,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11687962692,28.0320528,-15.460175,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917496120,28.0989302,-15.4581649,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865227,28.1438762,-15.6144139,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865233,28.143369,-15.6137926,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865234,28.0989582,-15.4790704,charging_station,N/A,N/A,N/A,N/A,Endesa,Q1275336,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865235,28.0991717,-15.4374594,charging_station,N/A,N/A,N/A,N/A,Porsche,Q40993,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865236,28.0962634,-15.4152432,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865249,28.0754515,-15.4173681,charging_station,N/A,N/A,N/A,N/A,BP,Q152057,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865250,28.0354538,-15.4168585,charging_station,N/A,N/A,N/A,N/A,BP,Q152057,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865251,27.9678116,-15.3914487,charging_station,N/A,N/A,N/A,N/A,Endesa,Q1275336,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11917865252,27.9677436,-15.3912067,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11961610081,28.1021277,-15.4372522,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12187087163,28.0203676,-15.6472537,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12187197313,27.9895352,-15.6381974,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12201247827,28.1198096,-15.5291843,charging_station,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12212455976,28.1080561,-15.5631548,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12480177466,28.0548807,-15.5677596,charging_station,N/A,N/A,N/A,N/A,Total,Q154037,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9550760636,28.166246,-14.2248103,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11034381966,28.4227678,-14.0579751,charging_station,N/A,3,N/A,N/A,efacec,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11083800313,28.4257526,-14.0573948,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11167163552,28.216932,-14.0199005,charging_station,N/A,11 kWh,N/A,N/A,Waylet,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cabildo Insular de Fuerteventura,N/A,N/A,no
+10184257811,28.0446601,34.4298785,charging_station,N/A,8,N/A,N/A,InfinityEV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11443450195,28.389191,36.590309,charging_station,N/A,N/A,N/A,N/A,Electromin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00",N/A
+11443435767,28.4203298,45.9819889,charging_station,N/A,N/A,N/A,N/A,Electromin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00",N/A
+11443435762,28.4251325,48.4843182,charging_station,N/A,N/A,N/A,N/A,Electromin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00",N/A
+5909496585,28.0233498,69.3722256,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10593602327,28.4188726,77.0392065,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7554422920,28.4245314,77.5209704,charging_station,N/A,N/A,N/A,N/A,AB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4,GBU,N/A,AB FAST CHARGING,N/A,N/A,N/A
+9517024217,28.2221081,83.9787943,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9517032317,28.2219058,83.95172,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9517032617,28.1921917,83.9744803,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9520867744,28.2220952,83.9787926,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12876596610,28.2134139,83.957147,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12878163000,28.2013946,83.9725597,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9518555817,27.9668225,84.4048094,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11865731675,27.9540372,84.41528,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11865731676,27.9536704,84.4157,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10867250701,28.1577988,104.5013753,charging_station,N/A,50,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11494071369,28.1741371,104.5082384,charging_station,N/A,50,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1333223735,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12334664085,28.1586064,104.501343,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12334664086,28.1586329,104.5013886,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12334664087,28.1586212,104.5013974,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12334664088,28.1586338,104.5014191,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12334664089,28.1586625,104.5013977,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12334664090,28.1586233,104.5013304,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7072741840,28.243473,112.9234751,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7074507249,28.2120211,112.9203834,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7075628107,28.2186416,112.9129274,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7076662796,28.2200872,112.9165833,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10938875469,28.2605464,113.089807,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+12638567801,28.2041921,113.0085431,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+656152981,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1277896488,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1280342318,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1346840170,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1370689944,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,星星充电汽车充电站,N/A,N/A,N/A
+6146895662,28.0917815,112.9811838,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6146895663,28.0911529,112.9816365,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6146895664,28.0907207,112.9812654,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6146895665,28.0904165,112.9817894,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6146895666,28.0917488,112.9828093,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6146895661,28.0922006,112.982312,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11862969557,28.2094082,112.9162554,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11862969558,28.2090902,112.9162153,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11862969559,28.2090714,112.9169622,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11862969562,28.2095576,112.9149252,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11862969563,28.208465,112.91521,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11862969564,28.2079029,112.9152353,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11862969565,28.2081297,112.9159682,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11862969566,28.208166,112.9166088,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11862969567,28.2082044,112.9167379,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11862969646,28.2079822,112.9154916,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12458530253,28.1348894,112.9842086,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12458530254,28.1348897,112.9843843,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12458530255,28.1346604,112.9843849,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12458530256,28.1346601,112.9842092,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11884717540,28.2921509,112.8546603,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11884717541,28.2903083,112.8539721,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11884717542,28.2902869,112.8543135,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11884717543,28.2920654,112.8549406,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12694939712,28.268353,113.0741527,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12694939714,28.2686871,113.0739358,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12694939715,28.2684575,113.0734501,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12694939716,28.2681225,113.0736241,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11072718633,28.0130826,115.3292711,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11072718634,28.0066426,115.3276777,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11072718635,28.00629,115.3276206,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+11072718636,28.0111072,115.3273892,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+12500414093,28.1650064,115.7870258,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+11754551314,28.0500388,116.2979977,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11754551315,28.052851,116.2989124,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12472748519,28.3975772,116.2378516,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+1394403846,,,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+12908213432,28.2927961,116.123769,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12908213433,28.2924934,116.1237869,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12908213434,28.2924824,116.123548,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12908213435,28.2923138,116.123558,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12908213436,28.2923522,116.1243931,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12908213437,28.2928234,116.1243652,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10039431702,28.2776702,116.522983,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10039431703,28.2760817,116.5242347,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11754698759,28.0244137,116.4602285,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11754698760,28.0262724,116.4557465,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10039472554,28.2986958,116.9526867,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10039472555,28.3033585,116.9550495,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+12525350214,28.2530495,117.0293128,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+10039409336,28.3552955,117.6787135,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10039409337,28.3531897,117.6766457,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+9979358880,28.0276603,119.090591,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nio Power,N/A,N/A,N/A
+10897829983,28.0259825,119.0929417,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10897829984,28.0263369,119.0897716,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+7491233399,28.2848107,119.77895,charging_station,N/A,10,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9979025904,28.1517806,119.6383609,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nio Power,N/A,N/A,N/A
+9979025905,28.1517348,119.6410055,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nio Power,N/A,N/A,N/A
+10897835383,28.1515626,119.6387785,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10897835384,28.1494458,119.6396089,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10897836663,28.4487869,119.4317873,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10897836667,28.448255,119.4322583,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,蔚来换电站,N/A,N/A,N/A
+9989642097,28.2712081,120.1746689,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,蔚来换电站,N/A,N/A,N/A
+9989642098,28.2704024,120.1727902,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,蔚来换电站,N/A,N/A,N/A
+10036371440,28.0214301,120.6876379,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,蔚来换电站,N/A,N/A,N/A
+10250907349,28.00226,120.6799772,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,蔚来换电站,N/A,N/A,N/A
+10825872010,27.971149,120.7273875,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,蔚来换电站,N/A,N/A,N/A
+11049394174,28.1399015,120.5138164,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+11049394175,28.1395596,120.5119936,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11049394176,28.1417493,120.5135693,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11049394177,28.141751,120.5138969,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+11152519656,28.1512639,120.6857529,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+11636683517,28.0005918,120.6493978,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+12183256613,27.9538984,120.6801961,charging_station,N/A,N/A,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+1135874504,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8303974064,27.9700304,120.5853743,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10588583320,27.9702105,120.5849464,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10588583321,27.9698433,120.5849692,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10588583322,27.9706341,120.585483,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10588583323,27.9705575,120.5848928,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10047242795,28.294308,121.1153553,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+10047242796,28.2945829,121.1177864,charging_station,N/A,N/A,N/A,N/A,国家电网有限公司,Q209078,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,国家电网,N/A,N/A,N/A
+11066281532,28.1050825,121.0055074,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+11135372509,28.0573253,120.9037636,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+12754246582,28.3959299,121.3726302,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NIO Power,N/A,N/A,N/A
+12336228719,28.4522837,-99.2378768,charging_station,N/A,4,N/A,N/A,EVgo,Q61803820,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,EVgo,N/A,N/A,N/A
+12167923756,28.52163,-98.1858,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2645,South Highway 37,78071,Tesla Supercharger,N/A,24/7,yes
+12943856851,28.8113291,-97.8571866,charging_station,N/A,250 kW,N/A,N/A,Tesla,Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,yes
+12944744164,28.81132,-97.8572,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,123,South Sunset Strip Street,78119,Tesla Supercharger,N/A,24/7,yes
+4579654918,28.7669021,-96.9789729,charging_station,N/A,N/A,N/A,N/A,Tesla Motors,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3107,South Laurent Street,77901,N/A,N/A,24/7,N/A
+12944743656,28.76685,-96.97899,charging_station,N/A,6,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3107,South Laurent Street,77901,Tesla Supercharger,N/A,24/7,yes
+12241900496,28.52269,-82.22998,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31100,Cortez Boulevard,34602,Tesla Supercharger,N/A,24/7,yes
+12877363076,28.8748304,-82.5793529,charging_station,yes,1,N/A,N/A,Duke Energy,Q1264404,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12923488226,28.53474,-82.50792,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13173,Cortez Boulevard,33613,Tesla Supercharger,N/A,24/7,yes
+12923488261,28.89956,-82.58678,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,509,US-19,34429,Tesla Supercharger,N/A,24/7,yes
+4325368812,28.8553404,-81.6844287,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11308312411,28.91663,-81.92272,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,116,North Highway 27/441,32159,Tesla Supercharger,N/A,24/7,yes
+11619588525,28.8304851,-81.8093433,charging_station,N/A,50 KW,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,EV Connect,N/A,N/A,N/A
+12877363075,28.6668939,-82.1383602,charging_station,N/A,4,N/A,N/A,Electrify America,Q59773555,N/A,N/A,N/A,N/A,N/A,N/A,100243,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12923488203,28.78702,-81.98238,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,299,FL-91,34785,Tesla Supercharger,N/A,24/7,yes
+12946590378,28.83228,-81.81277,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8629,U.S. 441,34788,N/A,N/A,24/7,N/A
+2853612644,28.5598079,-81.3779111,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3683108292,28.5762218,-81.5883493,charging_station,N/A,1,N/A,N/A,City of Winter Garden,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,yes
+3683118319,28.8119974,-81.2658822,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,yes
+3683122432,28.8119528,-81.2679683,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,yes
+3683147840,28.8141663,-81.2667564,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,yes
+3683164538,28.8253551,-81.3149411,charging_station,N/A,2,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,24/7,N/A
+3725484243,28.51487,-81.50021,charging_station,N/A,6,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,32835,Tesla Supercharger,N/A,24/7,yes
+6572697585,28.5479665,-81.4129641,charging_station,N/A,N/A,N/A,N/A,Greyhound,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6576024693,28.66503,-81.38152,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,355,East Altamonte Drive,32701,Tesla Supercharger,N/A,24/7,yes
+6578659329,28.55528,-81.19894,charging_station,N/A,14,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,435,North Alafaya Trail,32828,Tesla Supercharger,N/A,24/7,yes
+6949302711,28.5644115,-81.5870797,charging_station,N/A,4,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,no
+7443357363,28.6063071,-81.5430218,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10594529365,28.4606917,-81.4616092,charging_station,N/A,N/A,N/A,N/A,Blink,Q62065645,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Blink,N/A,N/A,no
+11463668201,28.79926,-81.33822,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1201,WP Ball Boulevard,32771,Tesla Supercharger,N/A,24/7,yes
+12072084457,28.56619,-81.19513,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12321,East Colonial Drive,32826,Tesla Supercharger,N/A,24/7,yes
+12101024948,28.68394,-81.33356,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23,Seminola Boulevard,32707,Tesla Supercharger,N/A,24/7,yes
+12111671984,28.61067,-81.416,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5820,Edgewater Drive,32810,Tesla Supercharger,N/A,24/7,yes
+12128563236,28.59844,-81.21301,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11891,University Boulevard,32817,Tesla Supercharger,N/A,24/7,yes
+12140933546,28.46095,-81.30829,charging_station,N/A,20,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7074,Eagle Watch Drive,32822,Tesla Supercharger,N/A,24/7,yes
+12877448659,28.548124,-81.6654848,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,220155,N/A,N/A,N/A,Electrify America,N/A,N/A,N/A
+12877448660,28.8008664,-81.3468873,charging_station,N/A,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12897005230,28.505375,-81.486863,charging_station,N/A,N/A,N/A,designated,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,262,Florida’s Turnpike,32835,N/A,N/A,24/7,N/A
+12923431484,28.51629,-81.37996,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,120,West Grant Street,32806,Tesla Supercharger,N/A,24/7,yes
+12923431488,28.45077,-81.56294,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6506,Old Brick Road,34786,Tesla Supercharger,N/A,24/7,yes
+12923431491,28.59593,-81.28838,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3770,North Goldenrod Road,32792,Tesla Supercharger,N/A,24/7,yes
+12923431493,28.6541,-81.4686,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1615,South Orange Blossom Trail,32703,Tesla Supercharger,N/A,24/7,yes
+12923488258,28.55348,-81.51997,charging_station,N/A,20,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9649,West Colonial Drive,34761,Tesla Supercharger,N/A,24/7,yes
+12923488259,28.60499,-81.36592,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,901,North Orlando Avenue,32789,Tesla Supercharger,N/A,24/7,yes
+12923488260,28.49236,-81.42916,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4750,Millenia Plaza Way,32839,Tesla Supercharger,N/A,24/7,yes
+12923488264,28.55165,-81.58442,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13501,West Colonial Drive,34787,Tesla Supercharger,N/A,24/7,yes
+12923488281,28.9499,-81.2508,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3400,Howland Boulevard,32725,Tesla Supercharger,N/A,24/7,yes
+12923488285,28.56942,-81.27798,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8049,East Colonial Drive,32818,Tesla Supercharger,N/A,24/7,yes
+8735284470,28.552505,-80.8406024,charging_station,N/A,N/A,N/A,N/A,ChargePoint,Q5176149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargePoint,N/A,N/A,N/A
+8916590952,28.6107069,-80.8078629,charging_station,N/A,2,N/A,N/A,City of Titusville. FL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+11763766111,28.55278,-80.84059,charging_station,N/A,16,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3055,Columbia Boulevard,32780,Tesla Supercharger,N/A,24/7,yes
+12094025364,28.58718,-80.80577,charging_station,N/A,12,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2505,South Hopkins Avenue,32780,Tesla Supercharger,N/A,24/7,yes
+12878074054,28.5219313,-80.6821718,charging_station,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Tesla, Inc.",N/A,N/A,no

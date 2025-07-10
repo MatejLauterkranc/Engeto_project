@@ -1,0 +1,9 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+8475617214,70.9975202,24.6607648,charging_station,N/A,5,N/A,N/A,Kople,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,Ishavsveien,N/A,N/A,N/A
+6042197694,70.97932,25.97273,charging_station,N/A,2,N/A,N/A,Lade i Norge,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+6653480499,70.996922,25.9779425,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8077510247,70.9792137,25.9682854,charging_station,N/A,4,N/A,N/A,Kople,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,Kople,N/A,N/A,N/A
+9464295859,70.999624,25.967305,charging_station,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla,N/A,N/A,yes
+9794429473,71.1683483,25.7814842,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8475617212,70.9458998,27.3519847,charging_station,N/A,5,N/A,N/A,Kople,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,Kople,N/A,N/A,N/A
+8475617213,71.0382567,27.8504558,charging_station,N/A,4,N/A,N/A,Kople,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,Ishavsveien,N/A,N/A,N/A

@@ -1,0 +1,91 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+6799598483,12.3758914,-1.435537,charging_station,N/A,N/A,N/A,N/A,telecom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4779254121,12.5172351,-70.0292326,charging_station,N/A,N/A,N/A,N/A,Elmar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4779254122,12.5459652,-70.0399216,charging_station,N/A,N/A,N/A,N/A,Elmar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6622561167,12.5641864,-70.0317349,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9379370491,12.5331583,-70.0026815,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5724156143,12.6266948,-8.0172596,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5846602985,12.6119549,-7.9536788,charging_station,N/A,N/A,N/A,N/A,Distributeur Agrée CANAL+ (Agence SecretART),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5480568162,13.1528035,-61.22529,charging_station,N/A,N/A,N/A,N/A,Energy Unit,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6793218185,13.033353,5.2228959,charging_station,N/A,N/A,N/A,N/A,Dan Hajiya,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4239770809,13.4997567,2.1370067,charging_station,N/A,2,N/A,N/A,Bluezone,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4243492063,13.4997425,2.1370217,charging_station,N/A,2,N/A,N/A,Bluezone,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11109169100,14.8023925,-61.2253515,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E28306,FR*EZD*E28307",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169106,14.697624,-61.18036,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E20883, FR*EZD*E20884",N/A,N/A,N/A,N/A,N/A,24/7,no
+10779836966,14.9091201,-23.530517,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4407829194,14.7485096,-17.3437151,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8381852721,16.0125898,-61.7440391,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+8866383359,16.240289,-61.5904154,charging_station,N/A,N/A,N/A,N/A,EZdrive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9602049292,16.2522404,-61.5893098,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9602067444,16.2522239,-61.5892733,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10270150384,16.3290056,-61.7009229,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10270189830,16.3289777,-61.7008589,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10635298172,16.2521881,-61.5892111,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10635303249,16.252205,-61.589239,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11079711524,16.0253106,-61.6930336,charging_station,N/A,N/A,N/A,N/A,EZdrive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11109169044,16.03,-61.69,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E28286, FR*EZD*E28287",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169047,15.999102,-61.7204804,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,FREZDE63396,N/A,N/A,N/A,N/A,N/A,24/7,no
+11632483875,16.1496062,-61.7753178,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9414018532,16.2572799,-61.5171017,charging_station,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9425908032,16.2674324,-61.5156646,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9425938937,16.256718,-61.5153476,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9482090069,16.2727623,-61.5185714,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9482291216,16.2703007,-61.5172307,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9666468291,16.2520581,-61.5548404,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9670499879,16.2520164,-61.5411527,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9961172646,16.3158983,-61.3451755,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9981500622,16.2069916,-61.5016895,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10031747772,16.416432,-61.5144986,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10160000266,16.2410003,-61.5412569,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10221208936,16.2416864,-61.5635963,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10222065723,16.2412714,-61.5410042,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10222065724,16.2412448,-61.5410098,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10222065725,16.2412233,-61.5410116,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11109169058,16.2579076,-61.2751846,charging_station,N/A,4,N/A,N/A,Freshmile SAS,N/A,N/A,N/A,N/A,yes,N/A,N/A,TA9HIA7WJP,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169063,16.24,-61.56,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E26743, FR*EZD*E8102",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169068,16.26,-61.52,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,VRT_NB_1290,N/A,N/A,N/A,N/A,N/A,24/7,no
+11959276107,16.2583255,-61.5185123,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12374388635,16.2748654,-61.5097771,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12403577827,16.2581179,-61.2753846,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9400445139,16.3044996,-61.0745694,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9085102458,16.4664341,-15.6993964,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9085136822,16.4673833,-15.7037467,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11592927543,16.8929907,-24.9913772,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11508734040,18.3495346,-68.8290855,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+1246454802,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11587876303,18.4152862,-68.9341718,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11587876304,18.415284,-68.9340535,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11587876305,18.415202,-68.9340558,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11587876306,18.4152043,-68.9341732,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10933662587,18.4394,-67.13213,charging_station,N/A,2,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,00604,Tesla Supercharger,N/A,24/7,yes
+12944743402,18.16088,-67.14653,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,00680,Tesla Supercharger,N/A,24/7,yes
+9877570183,18.4083902,-66.1062306,charging_station,N/A,N/A,N/A,N/A,Blink,Q62065645,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Blink,N/A,N/A,N/A
+10933662561,18.4069,-66.1061,charging_station,N/A,2,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,00968,Tesla Supercharger,N/A,24/7,yes
+10933662562,18.4076,-66.105,charging_station,N/A,8,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,Av. González Giusti,00968,Tesla Supercharger,N/A,24/7,yes
+12944744212,18.40599,-66.10613,charging_station,N/A,2,N/A,designated,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,00968,Tesla Supercharger,N/A,24/7,yes
+6550502790,18.4481341,-65.9976115,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11147422832,18.4412475,-66.0171437,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11147422841,18.441257,-66.0171817,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11147422842,18.4412401,-66.0171068,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3893659645,18.0588477,-63.0141839,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6311925531,14.5840177,-61.002621,charging_station,N/A,2,N/A,yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8145893917,14.6176868,-61.0242381,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9cts/km or 5cts/km pour abonnés,N/A,yes
+8145910319,14.6162242,-61.023964,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+10779340151,14.4709694,-60.8668616,charging_station,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11109169088,14.608132,-61.04941,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,FR*EZD*E45695,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169091,14.6700013,-61.0396036,charging_station,N/A,N/A,N/A,N/A,GREEN TECHNOLOGIE,N/A,N/A,N/A,N/A,yes,N/A,N/A,VRT_NB_933,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169108,14.5949331,-61.0463354,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E63047,FR*EZD*E63048,FR*EZD*E93917,FR*EZD*E93918,FR*EZD*E63053,FR*EZD*E63054",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169114,14.813607,-61.02208,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E66784, FR*EZD*E66785",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169118,14.614933,-61.03312,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E38632,FR*EZD*E38633",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169120,14.62848,-61.0255406,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E38638,FR*EZD*E38639",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169122,14.61776,-61.02603,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E26669, FR*EZD*E26670",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169132,14.609692,-60.99684,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E63135,FR*EZD*E63136",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169134,14.5607139,-60.9368584,charging_station,N/A,N/A,N/A,N/A,GREEN TECHNOLOGIE,N/A,N/A,N/A,N/A,yes,N/A,N/A,VRT_NB_1392,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169135,14.604876,-61.00997,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E45697,FR*EZD*E45709",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169136,14.601781,-60.972756,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E95818, FR*EZD*E95819",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169138,14.612948,-60.99128,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E63031, FR*EZD*E63032, FR*EZD*E112993, FR*EZD*E112994",N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169139,14.486406,-60.9022081,charging_station,N/A,N/A,N/A,N/A,GREEN TECHNOLOGIE,N/A,N/A,N/A,N/A,yes,N/A,N/A,VRT_NB_243_2,N/A,N/A,N/A,N/A,N/A,24/7,no
+11109169141,14.472874,-61.04232,charging_station,N/A,N/A,N/A,N/A,Green Technologie,N/A,N/A,N/A,N/A,yes,N/A,N/A,"FR*EZD*E20771, FR*EZD*E20772",N/A,N/A,N/A,N/A,N/A,24/7,no
+12092199773,14.4909322,-61.080337,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12092199873,14.5381941,-61.0671063,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12092227369,14.5398191,-61.0659719,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rue Caret,97229,N/A,N/A,N/A,N/A

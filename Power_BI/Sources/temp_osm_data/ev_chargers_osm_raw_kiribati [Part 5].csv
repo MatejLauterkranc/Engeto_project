@@ -1,0 +1,65 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+7861326451,0.1373625,29.2661836,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9457951944,0.13748,29.2961288,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9462541864,0.1396924,29.2937179,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9462603765,0.1388203,29.2939279,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9462645618,0.1394531,29.29368,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9986180888,0.1299339,29.2928917,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10989027805,0.2925712,32.5681744,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+395651283,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3984734359,0.3897975,-77.9415091,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3984734360,0.3897006,-77.9418782,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3984734357,0.3902159,-77.9421412,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3984734358,0.3903747,-77.9418245,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+412823754,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4141524714,0.8990194,-79.7086141,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4141524715,0.8985507,-79.7085893,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4141524716,0.8985498,-79.7082603,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4141524717,0.8988364,-79.7081729,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11034004423,0.8988566,-79.7086684,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11038685373,0.8985531,-79.7085119,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11038685374,0.8985381,-79.7084425,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11038685375,0.8987345,-79.7086979,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4428330890,1.2509477,-78.741805,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8432179717,1.0574328,-78.9926319,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6187385784,1.2935896,103.6250008,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22,Tuas South Street 5,637822,N/A,N/A,N/A,N/A
+6187576091,1.304077,103.7729998,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,College Avenue West,N/A,N/A,N/A,N/A,N/A
+6187576092,1.3110623,103.7766219,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6187576093,1.299848,103.7884233,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6187576094,1.2951494,103.7900199,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6187576095,1.3039591,103.7926167,charging_station,N/A,N/A,N/A,N/A,Shell Recharge Solutions,Q105883058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6187576097,1.2882569,103.8058213,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6187576098,1.2900536,103.8073769,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6480314548,1.3058096,103.7739695,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6832397585,1.3077734,103.8299303,charging_station,N/A,3,N/A,N/A,BlueSG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8059369423,1.3269279,103.8465671,charging_station,N/A,2,N/A,yes,Singapore Power,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SGD 0.594/kWh (AC43); SGD 0.648/kWh (DC50),N/A,yes
+8362857163,1.3274474,103.8524768,charging_station,N/A,4,N/A,yes,BlueSG,N/A,N/A,N/A,N/A,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SGD 1/hour,N/A,yes
+8939175499,1.3006004,103.8399626,charging_station,N/A,3,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tesla Supercharger,N/A,N/A,N/A
+8972125866,1.3027016,103.8520918,charging_station,N/A,4,N/A,N/A,BlueSG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9149321843,1.324356,103.8421054,charging_station,N/A,1,N/A,yes,Shell,Q110716465,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SGD 0.55/kWh,24/7,yes
+9165216476,1.3139056,103.6952615,charging_station,N/A,4,N/A,N/A,SP Group,N/A,N/A,N/A,N/A,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9621281408,1.3085,103.8587944,charging_station,N/A,N/A,N/A,N/A,BlueSG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9627733668,1.292233,103.8596813,charging_station,N/A,3,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9,Raffles Boulevard,039596,Tesla Supercharger,N/A,24/7,N/A
+9627751468,1.3069522,103.7881631,charging_station,N/A,3,N/A,N/A,"Tesla, Inc.",Q478214,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,Vista Exchange Green,138617,Tesla Supercharger,N/A,24/7,N/A
+9858405298,1.3119367,103.863531,charging_station,N/A,1,N/A,N/A,Charge+,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+9858420584,1.3118791,103.8635739,charging_station,N/A,2,N/A,N/A,Charge+,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,114,Lavender Street,338729,N/A,N/A,N/A,yes
+10287172719,1.311146,103.8640258,charging_station,N/A,4,N/A,N/A,Singapore Power,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+10611615451,1.3186269,103.8335768,charging_station,N/A,1,N/A,N/A,Singapore Power,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10702069371,1.3253154,103.8485691,charging_station,N/A,4,N/A,N/A,CDG Engie,N/A,N/A,N/A,N/A,4,32,N/A,N/A,N/A,N/A,N/A,CDG Engie,0.59 SGD/kWh,N/A,yes
+11039879139,1.2967027,103.8549566,charging_station,N/A,N/A,N/A,N/A,TotalEnergies,Q154037,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11521903328,1.3246845,103.8425155,charging_station,N/A,6,N/A,N/A,Charge+,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charge+,N/A,N/A,yes
+11585795009,1.2892791,103.836977,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Tesla, Inc.",N/A,N/A,no
+11585795010,1.2898342,103.8385427,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Tesla, Inc.",N/A,N/A,no
+11627248777,1.3002855,103.8524749,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11917937514,1.3137542,103.8656726,charging_station,N/A,2,N/A,N/A,SP Mobility,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+11917937537,1.3139238,103.8654534,charging_station,N/A,4,N/A,N/A,SP Mobility,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+12005122407,1.3229666,103.854379,charging_station,N/A,6,N/A,N/A,Charge+,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Charge+,N/A,N/A,yes
+12005122415,1.3228207,103.8532874,charging_station,N/A,3,N/A,N/A,Seraya YTL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ChargEco,N/A,N/A,yes
+12238567377,1.3193492,103.7671144,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12637515812,1.3101872,103.8628704,charging_station,N/A,2,N/A,N/A,CDG Engie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12886492796,1.2931093,103.8524072,charging_station,N/A,2,N/A,N/A,SMRT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+12944665013,1.3286692,103.8443767,charging_station,N/A,4,N/A,N/A,Charge+,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+6187681006,1.3044763,103.9047275,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9238076263,1.3162308,103.8999522,charging_station,N/A,2,N/A,N/A,Singapore Power,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,78,Changi Road,N/A,N/A,N/A,N/A,N/A
+9272089717,1.3027555,103.9033371,charging_station,N/A,3,N/A,N/A,Tesla,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30,East Coast Road,N/A,Tesla,N/A,N/A,N/A
+10877063833,1.3133248,103.9007334,charging_station,N/A,N/A,N/A,N/A,Comfort DelGro,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes

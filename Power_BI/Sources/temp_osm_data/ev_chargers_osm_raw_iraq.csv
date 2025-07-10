@@ -1,0 +1,47 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+4943482623,29.0827718,48.1245788,charging_station,N/A,N/A,N/A,N/A,prabhu,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5003953224,29.368546,47.9762158,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11443450197,29.9529592,40.1926447,charging_station,N/A,N/A,N/A,N/A,Electromin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00",N/A
+11443450194,30.98345,41.0078859,charging_station,N/A,N/A,N/A,N/A,Electromin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Fr 17:00-21:00; Mo-Th,Sa-Su 09:00-22:00",N/A
+10755370705,31.0321169,46.1848388,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5119852127,31.0819346,46.0726478,charging_station,N/A,N/A,N/A,N/A,محطة وزن,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11935213969,31.070848,46.2611025,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11935214269,31.0708414,46.2610934,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11383626170,31.9621379,44.7203491,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9649792717,31.7087339,44.9782663,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9097070217,31.6962275,47.2524583,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5236663129,32.4591203,45.8953719,charging_station,N/A,N/A,N/A,N/A,محطة وزن,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4533669896,32.4783346,48.3499594,charging_station,N/A,N/A,N/A,N/A,پمپ بنزین,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10682529006,32.6322481,44.0458836,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8496110917,32.773442,45.0824577,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7863790285,32.5616964,45.6899068,charging_station,N/A,N/A,N/A,N/A,محطة كهرباء,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8275179818,32.5619856,45.6892519,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5001489621,33.5596925,44.2500601,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7902697185,33.355138,44.2774931,charging_station,N/A,N/A,N/A,N/A,محطة تفويل غاز للسيارة,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7187961785,33.3933243,44.6731528,charging_station,N/A,N/A,N/A,N/A,محطة شرق الرصافة الكهربائية,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11291159469,33.3193336,44.446129,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12759462936,33.2652034,44.362258,charging_station,N/A,N/A,N/A,N/A,BMW,Q26678,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,BMW,N/A,N/A,N/A
+9388097620,33.3807312,44.8366358,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8050967085,34.1437089,44.9409333,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11495576852,35.5866025,45.3365846,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1355606055,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12545859935,36.376094,41.1489586,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12545859936,36.3759295,41.1489726,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12545859937,36.3759367,41.1492619,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12545859938,36.3761077,41.149258,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4766453744,36.3404492,43.2031061,charging_station,N/A,N/A,N/A,N/A,معمل اوكسجين الحدباء,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8059063686,36.340243,43.2030704,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8895860317,36.3402489,43.2031964,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12560903315,36.1798192,43.9785601,charging_station,N/A,1,N/A,N/A,Auto Parcha,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Autel,N/A,N/A,yes
+12560903337,36.2208272,43.9908265,charging_station,N/A,2,N/A,N/A,KurdNeft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,K Volt,N/A,N/A,yes
+12560903345,36.2257459,44.0475186,charging_station,N/A,2,N/A,N/A,KurdNeft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,K Volt,N/A,N/A,yes
+11261044838,37.279454,38.7935526,charging_station,N/A,N/A,N/A,N/A,Astor Enerji,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11262067737,37.1822994,38.8075302,charging_station,N/A,N/A,N/A,N/A,Astor Enerji,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11261101337,37.2279322,39.7733179,charging_station,N/A,N/A,N/A,N/A,Astor Enerji,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+5710682284,37.2334664,40.6337174,charging_station,N/A,N/A,N/A,N/A,Tuğmaner Otomotiv Şarj İstasyonu,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mardin-Kızıltepe yolu,N/A,N/A,N/A,N/A,N/A
+8910552447,37.2609488,40.6707269,charging_station,N/A,2,N/A,N/A,zes,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+11261096737,37.3211738,40.7236255,charging_station,N/A,N/A,N/A,N/A,Astor Enerji,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11261101137,37.0924057,41.2015398,charging_station,N/A,N/A,N/A,N/A,Astor Enerji,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8910552449,37.3321917,41.8755001,charging_station,N/A,2,N/A,N/A,ZES,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+8910552460,37.3308396,42.2056277,charging_station,N/A,2,N/A,N/A,ZES,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,yes
+11402962569,37.1566066,42.7105372,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

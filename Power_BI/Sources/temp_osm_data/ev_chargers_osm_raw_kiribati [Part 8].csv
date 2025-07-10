@@ -1,0 +1,30 @@
+id,lat,lon,amenity,authentication:nfc,capacity,capacity:car,motorcar,operator,operator:wikidata,socket:schuko,socket:schuko:current,socket:schuko:voltage,socket:type2,socket:type2:current,socket:type2:voltage,ref,addr:housenumber,addr:street,addr:postcode,brand,charge,opening_hours,fee
+7142533362,4.5416075,-75.771321,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10007796363,4.5188691,-75.6893335,charging_station,N/A,2,N/A,N/A,Empresa de Energía del Quindío,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Movilidad Eléctrica,N/A,N/A,yes
+1425506843,4.4339497,-75.1761094,charging_station,N/A,N/A,N/A,N/A,parqueadero,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1425506845,4.4345063,-75.1742773,charging_station,N/A,N/A,N/A,N/A,parqueadero,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1425517218,4.4346944,-75.1752052,charging_station,N/A,N/A,N/A,N/A,parqueadero,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9288466215,4.5502777,-74.2408513,charging_station,N/A,2,N/A,N/A,Terpel,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,yes
+6876702735,4.6739285,-74.0883747,charging_station,yes,1,N/A,N/A,Terpel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24/7,N/A
+6876751154,4.6659334,-74.0541601,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 12:00-19:00; PH off",no
+6876751240,4.6972245,-74.0497546,charging_station,yes,N/A,N/A,N/A,Codensa,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6876755454,4.664195,-74.0596073,charging_station,yes,N/A,N/A,yes,Codensa,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6876762284,4.6676296,-74.0969481,charging_station,N/A,N/A,N/A,N/A,Codensa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6876765986,4.5962124,-74.0827122,charging_station,N/A,N/A,N/A,N/A,Codensa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6876777150,4.613668,-74.0709682,charging_station,N/A,N/A,N/A,yes,Hotel Tequendama,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+6876783132,4.6044764,-74.0656976,charging_station,N/A,N/A,N/A,N/A,Universiad de Los Andes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6876784306,4.6873009,-74.0511265,charging_station,N/A,N/A,N/A,N/A,Car-B,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6900649800,4.6467369,-74.0955052,charging_station,N/A,N/A,N/A,yes,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11371338669,4.620202,-74.0815754,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11371341369,4.6195983,-74.0807165,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11371343170,4.6177741,-74.0793336,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1349114506,,,charging_station,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12479583795,4.3764328,18.5622461,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12479583796,4.3760591,18.5624107,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12479583797,4.376257,18.562664,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12479583798,4.3765108,18.5625461,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4663295908,4.4512705,100.6238526,charging_station,N/A,N/A,N/A,N/A,ooooooik,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10063847912,4.598138,101.0761023,charging_station,N/A,1,N/A,N/A,ChargEV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,no
+11738057754,4.6206763,101.1479652,charging_station,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,chargEV,N/A,N/A,yes
+11738057755,4.6203541,101.1483179,charging_station,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gentari,N/A,N/A,yes
+8370035578,4.3886294,103.4559755,charging_station,N/A,N/A,N/A,yes,Resorts World Kijal,N/A,N/A,N/A,N/A,1,32,400,BMW I Wallbox,N/A,N/A,N/A,BMW i Wallbox,Guests and facilities customers.,N/A,yes
