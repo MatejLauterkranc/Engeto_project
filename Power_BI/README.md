@@ -11,7 +11,7 @@
 Vítejte v projektu **_EVolution Insights Car_**, komplexní Power BI analýze zaměřené na **globální vývoj a dopady elektromobility**. Cílem tohoto projektu je poskytnout detailní a ucelený pohled na trh s elektrickými vozidly (EV), srovnat jej s tradičními vozy se spalovacími motory (ICE) a nabídnout uživatelům interaktivní nástroj pro informovaná rozhodnutí. Prozkoumáme vše od infrastruktury a tržních trendů až po ekonomické a environmentální náklady vlastnictví vozidla.
 
 ---
-## Oficiální Zadání Projektu a Cíle
+## Oficiální zadání projektu
 Tento projekt vznikl v rámci druhého projektu Datové Akademie, který se zaměřuje na vizualizaci dat. Navazuje na první projekt, kde byly připraveny datové podklady a zodpovězeny výzkumné otázky.
 
 **Cíl zadání:** Vizualizovat zvolený dataset s důrazem na zajímavé ukazatele a vhodnou interaktivitu pro čtenáře.
@@ -28,7 +28,7 @@ Tento projekt vznikl v rámci druhého projektu Datové Akademie, který se zam�
 
 ---
 
-## Zadání Projektu
+## Rekapitulace
 Jako reakce na rostoucí zájem o elektromobilitu a potřebu komplexních dat pro strategické rozhodování, byl definován tento projekt. Jeho účelem je agregovat a vizualizovat klíčové informace o EV sektoru a umožnit srovnání s ICE vozidly, aby bylo možné posoudit skutečné náklady a dopady vlastnictví obou typů vozidel. Projekt slouží jako datový podklad pro potenciální investory, regulační orgány i individuální spotřebitele, kteří hledají přehled o budoucím směřování automobilového průmyslu.
 
 ## Hlavní Cíle Projektu
