@@ -11,8 +11,24 @@
 Vítejte v projektu **_EVolution Insights Car_**, komplexní Power BI analýze zaměřené na **globální vývoj a dopady elektromobility**. Cílem tohoto projektu je poskytnout detailní a ucelený pohled na trh s elektrickými vozidly (EV), srovnat jej s tradičními vozy se spalovacími motory (ICE) a nabídnout uživatelům interaktivní nástroj pro informovaná rozhodnutí. Prozkoumáme vše od infrastruktury a tržních trendů až po ekonomické a environmentální náklady vlastnictví vozidla.
 
 ---
+## Oficiální Zadání Projektu a Cíle
+Tento projekt vznikl v rámci druhého projektu Datové Akademie, který se zaměřuje na vizualizaci dat. Navazuje na první projekt, kde byly připraveny datové podklady a zodpovězeny výzkumné otázky.
 
-## Zadání Projektu (Rekapitulace)
+**Cíl zadání:** Vizualizovat zvolený dataset s důrazem na zajímavé ukazatele a vhodnou interaktivitu pro čtenáře.
+
+**Kritéria zadání:**
+* **Rozsah:** 2-5 stránek
+* **Vizuály:** Použití minimálně 5 různých typů vizuálů
+* **Filtrování:** Primárně pomocí průřezů/slicerů
+* **Interaktivní prvky:** Využití prvků jako jsou záložky, navigace po stranách, odkazy na webové stránky
+* **Propojení dat:** Propojení několika (2+) datových tabulek (přes vazby v Power BI nebo Power Query)
+* **Hierarchie:** Použití vytvořené hierarchie o alespoň dvou úrovních (nepovinné)
+* **Míry a sloupce:** Vytvoření alespoň 1 measure (metrika/míra) a 1 kalkulovaného sloupce/tabulky
+* **Grafická úprava:** Vizuální úprava použitých vizuálů, zvolení správných typů vizuálů a vizuálně přívětivý výsledný report
+
+---
+
+## Zadání Projektu
 Jako reakce na rostoucí zájem o elektromobilitu a potřebu komplexních dat pro strategické rozhodování, byl definován tento projekt. Jeho účelem je agregovat a vizualizovat klíčové informace o EV sektoru a umožnit srovnání s ICE vozidly, aby bylo možné posoudit skutečné náklady a dopady vlastnictví obou typů vozidel. Projekt slouží jako datový podklad pro potenciální investory, regulační orgány i individuální spotřebitele, kteří hledají přehled o budoucím směřování automobilového průmyslu.
 
 ## Hlavní Cíle Projektu
