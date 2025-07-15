@@ -16,7 +16,7 @@ Vítejte v projektu **_EVolution Insights Car_**, komplexní Power BI analýze z
 
 ---
 ## Oficiální zadání projektu
-Tento projekt vznikl v rámci druhého projektu Datové Akademie, který se zaměřuje na vizualizaci dat. Navazuje na první projekt, kde byly připraveny datové podklady a zodpovězeny výzkumné otázky.
+Tento projekt vznikl v rámci druhého projektu Datové Akademie.
 
 **Cíl zadání:** Vizualizovat zvolený dataset s důrazem na zajímavé ukazatele a vhodnou interaktivitu pro čtenáře.
 
