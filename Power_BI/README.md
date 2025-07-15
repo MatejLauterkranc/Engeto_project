@@ -10,6 +10,10 @@
 ## Popis Projektu
 Vítejte v projektu **_EVolution Insights Car_**, komplexní Power BI analýze zaměřené na **globální vývoj a dopady elektromobility**. Cílem tohoto projektu je poskytnout detailní a ucelený pohled na trh s elektrickými vozidly (EV), srovnat jej s tradičními vozy se spalovacími motory (ICE) a nabídnout uživatelům interaktivní nástroj pro informovaná rozhodnutí. Prozkoumáme vše od infrastruktury a tržních trendů až po ekonomické a environmentální náklady vlastnictví vozidla.
 
+**Vysvětlivky:**
+* **ICE:** Internal Combustion Engine (Vůz se spalovacím motorem)
+* **EV:** Electric Vehicle (Elektromobil)
+
 ---
 ## Oficiální zadání projektu
 Tento projekt vznikl v rámci druhého projektu Datové Akademie, který se zaměřuje na vizualizaci dat. Navazuje na první projekt, kde byly připraveny datové podklady a zodpovězeny výzkumné otázky.
@@ -107,9 +111,3 @@ Pro plnou funkčnost projektu je nezbytné mít k dispozici všechny datové zdr
 Máte otázky, podněty nebo byste se chtěli o projektu dozvědět více? Neváhejte mě kontaktovat!
 * **LinkedIn:** [Matěj Lauterkranc](https://www.linkedin.com/in/mat%C4%9Bj-lauterkranc-8a9b7a228/)
 * **E-mail:** m.lauterkranc@gmail.com
-
----
-
-**Vysvětlivky:**
-* **ICE:** Internal Combustion Engine (Vůz se spalovacím motorem)
-* **EV:** Electric Vehicle (Elektromobil)
